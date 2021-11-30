@@ -1,0 +1,1 @@
+\frac{s}{4} \sqrt{\frac{q E}{m h}}

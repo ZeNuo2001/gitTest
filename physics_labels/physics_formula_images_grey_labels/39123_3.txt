@@ -1,0 +1,1 @@
+\text { D. } \frac{g}{\sqrt{g^{2}+\left(\omega^{2} r\right)^{2}}}

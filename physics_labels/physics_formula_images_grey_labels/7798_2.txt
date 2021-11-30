@@ -1,0 +1,1 @@
+\frac{t R}{2 \pi(R+h)} \sqrt{\frac{g_{0}}{R+h}}

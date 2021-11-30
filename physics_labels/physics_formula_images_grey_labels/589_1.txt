@@ -1,0 +1,1 @@
+\sqrt{2 g(\sin \theta+3 \mu \cos \theta) s}

@@ -1,0 +1,1 @@
+m_{A} L(\cos \beta-\cos \alpha)=m_{B} \frac{s^{2}}{4 H}

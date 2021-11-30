@@ -1,0 +1,1 @@
+\frac{h\left(\nu-\nu_{2}\right)}{R e}

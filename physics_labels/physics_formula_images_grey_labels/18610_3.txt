@@ -1,0 +1,1 @@
+T=2 \pi l \sqrt{\frac{r}{G M}}

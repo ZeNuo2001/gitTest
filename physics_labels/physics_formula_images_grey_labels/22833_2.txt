@@ -1,0 +1,1 @@
+110 \sqrt{2} \sin 120 \pi t(\mathrm{~V})

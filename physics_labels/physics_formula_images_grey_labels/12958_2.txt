@@ -1,0 +1,1 @@
+\frac{m g_{\nexists} R}{R+h}(h+\sqrt{2} R)

@@ -1,0 +1,1 @@
+t=\left(\frac{n}{2}-\frac{1}{8}\right) \mathrm{s}(n=1,2,3, \cdots)

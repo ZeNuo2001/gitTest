@@ -1,0 +1,1 @@
+{ }_{1}^{2} \mathrm{H}+{ }_{1}^{2} \mathrm{H} \rightarrow{ }_{n}^{1} \mathrm{n}+\mathrm{X}_{1}

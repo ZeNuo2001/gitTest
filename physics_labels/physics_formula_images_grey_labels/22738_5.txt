@@ -1,0 +1,1 @@
+v_{0}=\frac{\pi}{2} \sqrt{\frac{g h}{2}}

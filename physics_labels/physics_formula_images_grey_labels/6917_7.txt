@@ -1,0 +1,1 @@
+\bar{v}_{A B}=\frac{25}{1} \mathrm{~m} / \mathrm{s}=\frac{v_{1}+v_{B}}{2}

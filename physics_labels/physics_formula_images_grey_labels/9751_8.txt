@@ -1,0 +1,1 @@
+E=E_{\mathrm{k}+}+E_{\mathrm{k}-}+E_{\mathrm{p}}==-k \frac{e^{2}}{2 r}

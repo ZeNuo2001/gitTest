@@ -1,0 +1,1 @@
+I_{1}=\frac{U_{2}}{U_{1}} \cdot I_{2}=\frac{220}{3300} \times 5 \mathrm{~A}=0.33 \mathrm{~A}

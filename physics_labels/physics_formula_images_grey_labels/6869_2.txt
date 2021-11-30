@@ -1,0 +1,1 @@
+{ }_{2}^{3} \mathrm{He}+{ }_{2}^{3} \mathrm{He} \rightarrow{ }_{2}^{4} \mathrm{He}+2{ }_{1}^{1} \mathrm{H}

@@ -1,0 +1,1 @@
+1 \mathrm{~S}=1 \mathrm{~A}^{2} \cdot(\mathrm{W} \cdot \mathrm{s})^{-1}

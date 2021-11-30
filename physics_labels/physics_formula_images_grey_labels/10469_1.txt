@@ -1,0 +1,1 @@
+I_{x}=\frac{E}{R_{\mathrm{g}}+r+R_{0}+R_{x}}

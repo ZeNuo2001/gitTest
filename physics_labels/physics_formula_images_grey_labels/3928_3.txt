@@ -1,0 +1,1 @@
+\frac{\mathrm{Nm}}{\mathrm{s}^{2} \mathrm{~K}}

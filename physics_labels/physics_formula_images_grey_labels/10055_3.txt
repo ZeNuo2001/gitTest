@@ -1,0 +1,1 @@
+E_{\mathrm{k}}=\frac{k^{2} T^{\prime}}{4 m}

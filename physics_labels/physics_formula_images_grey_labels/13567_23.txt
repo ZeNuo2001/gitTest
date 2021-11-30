@@ -1,0 +1,1 @@
+P_{2}=U_{2} I_{2}=1.5 \times 0.18 \mathrm{~W}=0.27 \mathrm{~W}

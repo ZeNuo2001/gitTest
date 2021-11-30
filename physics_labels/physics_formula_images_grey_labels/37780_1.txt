@@ -1,0 +1,6 @@
+\begin{array}{l}
+0 \sim x_{1} \\
+0 \sim x_{1} \\
+x_{1} \sim x_{2} \\
+x_{2} \sim x_{3}
+\end{array}

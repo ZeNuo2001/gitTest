@@ -1,0 +1,1 @@
+W_{E}=-q E l \cos 60^{\circ}+q E l\left(\sin 45^{\circ}-\cos 60^{\circ}\right)

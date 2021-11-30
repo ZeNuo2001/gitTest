@@ -1,0 +1,1 @@
+{ }_{88}^{226} \mathrm{Ra} \rightarrow{ }_{86}^{222} \mathrm{Rn}+\mathrm{Y}

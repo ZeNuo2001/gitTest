@@ -1,0 +1,1 @@
+{ }_{90}^{234} \mathrm{Th} \stackrel{\bigcirc}{\longrightarrow}{ }_{9}^{234} \mathrm{~Pa}

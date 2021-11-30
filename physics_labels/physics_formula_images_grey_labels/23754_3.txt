@@ -1,0 +1,1 @@
+\varphi=\frac{k q l \sin \theta}{r^{2}}

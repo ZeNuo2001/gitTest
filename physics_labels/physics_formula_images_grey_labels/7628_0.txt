@@ -1,0 +1,1 @@
+32 \mathrm{D} \longrightarrow_{16}^{32} \mathrm{~S}+\mathrm{O}_{-1} \mathrm{C}

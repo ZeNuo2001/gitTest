@@ -1,0 +1,1 @@
+\Delta m=\frac{m_{1}(q B R)^{2}}{2 c^{2} m_{2}\left(m_{1}-m_{2}\right)}

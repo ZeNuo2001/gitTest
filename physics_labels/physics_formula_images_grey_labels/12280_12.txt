@@ -1,0 +1,1 @@
+\frac{\Delta m}{m_{1}}=\frac{\rho \Delta V}{\rho(V+\Delta V)}=\frac{\frac{V}{3}}{\frac{4}{3} V}=\frac{1}{4}

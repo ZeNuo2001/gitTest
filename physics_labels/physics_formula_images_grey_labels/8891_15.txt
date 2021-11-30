@@ -1,0 +1,1 @@
+v=\frac{\Delta x}{\Delta t}=\frac{2 n+1.8}{0.2}=(10 n+9) \mathrm{m} / \mathrm{s}(n=0,1,2, \cdots)

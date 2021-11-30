@@ -1,0 +1,4 @@
+F=k \begin{array}{l}
+\phi^{2} \\
+9 r^{2}
+\end{array}

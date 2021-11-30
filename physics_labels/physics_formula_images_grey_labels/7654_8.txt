@@ -1,0 +1,1 @@
+10 \mathrm{~mA}, 10 \Omega

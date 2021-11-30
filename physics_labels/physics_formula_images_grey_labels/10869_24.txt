@@ -1,0 +1,1 @@
+s=\frac{\mu m g l}{F\left(\cos 37^{\circ}+\mu \sin 37^{\circ}\right)}=\left(\frac{0.5 \times 2 \times 10 \times 20}{30 \times(0.8+0.5 \times 0.6)}\right) \mathrm{m}=6.06 \mathrm{~m}

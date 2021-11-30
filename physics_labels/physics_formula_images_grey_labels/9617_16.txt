@@ -1,0 +1,1 @@
+\frac{E_{\mathrm{a}}}{E_{\mathrm{U}}}=\frac{235}{4}

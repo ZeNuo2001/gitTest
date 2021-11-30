@@ -1,0 +1,1 @@
+E=2 \pi k \sigma\left[1-\frac{x}{\left(R^{2}+x^{2}\right)^{1 / 2}}\right]

@@ -1,0 +1,1 @@
+\sin \alpha=\frac{R}{\sqrt{R^{2}+h^{2}}}

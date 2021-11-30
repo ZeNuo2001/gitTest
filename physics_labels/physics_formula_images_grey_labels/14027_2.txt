@@ -1,0 +1,1 @@
+\sqrt{\frac{(k x-m g)(L+x)}{m}}

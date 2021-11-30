@@ -1,0 +1,4 @@
+\begin{array}{l}
+F_{\mathrm{y}} \\
+F_{\mathrm{y}}
+\end{array}

@@ -1,0 +1,1 @@
+d=\frac{m g(H-l \cos \alpha)}{f_{1}+f_{2}-m g}

@@ -1,0 +1,1 @@
+\frac{\sqrt{3}}{12} I_{\mathrm{m}} T

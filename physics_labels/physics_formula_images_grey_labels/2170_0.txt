@@ -1,0 +1,1 @@
+E_{\mathrm{kl}}=E_{\mathrm{k}^{2}}, W_{1}=W

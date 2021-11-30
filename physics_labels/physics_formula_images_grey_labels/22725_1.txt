@@ -1,0 +1,4 @@
+\begin{array}{l}
+P B \leqslant \frac{2+\sqrt{3}}{4} L \\
+Q B \leqslant \frac{\sqrt{3}}{4} L
+\end{array}

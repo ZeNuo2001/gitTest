@@ -1,0 +1,1 @@
+\frac{G M \cos \theta}{R^{2}}

@@ -1,0 +1,1 @@
+t=\frac{R \sin \theta}{v_{0}}

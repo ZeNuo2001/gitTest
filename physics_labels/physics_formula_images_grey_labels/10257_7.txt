@@ -1,0 +1,1 @@
+\Delta h_{\max }=\frac{p_{0}}{\rho g}=10 \mathrm{~m}

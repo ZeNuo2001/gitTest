@@ -1,0 +1,1 @@
+\frac{g \sin \theta}{\omega^{2}}

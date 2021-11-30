@@ -1,0 +1,1 @@
+Q=C U=\frac{\varepsilon S U}{4 \pi k} \cdot \frac{1}{d}

@@ -1,0 +1,1 @@
+\frac{m v_{0}}{2 B^{2} L}\left(R_{1}+R_{2}\right)+L^{2}

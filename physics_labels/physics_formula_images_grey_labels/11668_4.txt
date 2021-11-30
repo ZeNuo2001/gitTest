@@ -1,0 +1,1 @@
+\overline{b c}=\frac{3}{5} R+\sqrt{R^{2}-x^{2}}

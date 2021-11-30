@@ -1,0 +1,1 @@
+x=\frac{0+v_{b}}{2} \cdot t=\frac{u_{1} t}{2}

@@ -1,0 +1,1 @@
+\bar{v}_{A B}=\frac{x_{A B}}{2 t^{\prime}}=\frac{v_{A}+v_{B}}{2}

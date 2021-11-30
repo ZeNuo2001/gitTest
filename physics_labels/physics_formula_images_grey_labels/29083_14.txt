@@ -1,0 +1,1 @@
+U_{\mathrm{v}}=I R_{*}=2.4 \mathrm{~V}

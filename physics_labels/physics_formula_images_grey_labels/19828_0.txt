@@ -1,0 +1,1 @@
+\frac{n_{\mathrm{S}} \Delta B}{\Delta t}

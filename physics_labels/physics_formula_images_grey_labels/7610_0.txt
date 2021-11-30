@@ -1,0 +1,1 @@
+{ }_{42}^{238} U \rightarrow{ }_{40}^{2.44} \mathrm{Th}+{ }_{2}^{4} \mathrm{H} \mathrm{e}

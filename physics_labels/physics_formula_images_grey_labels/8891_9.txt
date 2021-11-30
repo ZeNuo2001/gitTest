@@ -1,0 +1,1 @@
+\Delta t=0.2 \mathrm{~s}, \therefore v=\frac{\lambda}{T}=\frac{\Delta x}{\Delta t}=\frac{\lambda\left(n+\frac{1}{10}\right)}{0.2}=(10 n+1) \mathrm{m} / \mathrm{s}(n=0,1,2, \cdots)

@@ -1,0 +1,1 @@
+A(0 \sim 0.6 A, \text { 内阻为 } 0.2 \Omega)

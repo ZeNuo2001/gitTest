@@ -1,0 +1,1 @@
+\Delta x_{1}=\frac{m g}{k_{2}}

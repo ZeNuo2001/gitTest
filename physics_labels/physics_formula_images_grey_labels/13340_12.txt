@@ -1,0 +1,1 @@
+F_{\mathrm{N} 2}=m_{2} g \cos \theta_{2}

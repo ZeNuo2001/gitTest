@@ -1,0 +1,1 @@
+I=\frac{m g \square H^{2}+R^{2} \square}{2 \pi k R^{2}}

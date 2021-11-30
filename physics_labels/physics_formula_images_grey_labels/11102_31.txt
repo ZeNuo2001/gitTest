@@ -1,0 +1,1 @@
+T_{1} \sin \theta_{1}-T_{2} \sin \theta_{2}=0

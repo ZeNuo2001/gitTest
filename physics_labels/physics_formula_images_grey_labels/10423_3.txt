@@ -1,0 +1,1 @@
+W=-\frac{M m h \cos ^{2} \theta}{(M+m)\left(M+m \sin ^{2} \theta\right)} g

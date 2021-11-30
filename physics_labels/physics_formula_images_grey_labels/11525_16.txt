@@ -1,0 +1,1 @@
+\Delta U=U_{1}^{\prime}-U=\frac{108}{11} \mathrm{~V}-18 \mathrm{~V}=-\frac{90}{11} \mathrm{~V}

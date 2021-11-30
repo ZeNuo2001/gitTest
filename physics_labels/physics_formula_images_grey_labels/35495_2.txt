@@ -1,0 +1,1 @@
+E=2 \pi k \sigma\left(\frac{R_{1}}{\sqrt{x^{2}+R_{1}^{2}}}+\frac{R_{2}}{\sqrt{x^{2}+R_{2}^{2}}}\right) x

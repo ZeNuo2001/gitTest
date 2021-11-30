@@ -1,0 +1,1 @@
+n g_{2} \sin \alpha+5 p-\mu n g_{2} \cos \alpha=\frac{1}{2} n v_{0}^{2}

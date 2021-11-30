@@ -1,0 +1,1 @@
+E=\frac{1}{2} B r^{2} \omega=3 \mathrm{~V}

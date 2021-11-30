@@ -1,0 +1,1 @@
+\sqrt[3]{\frac{G M \theta^{2}}{t^{2}}}

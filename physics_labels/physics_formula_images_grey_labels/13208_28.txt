@@ -1,0 +1,1 @@
+\frac{v_{0} t}{\sin (\pi / 2-\alpha)}=\frac{g t^{2} / 2}{\sin (\alpha+\theta)}=\frac{L}{\sin (\pi / 2-\theta)}

@@ -1,0 +1,1 @@
+f=\frac{1}{T}=\frac{q B}{2 \pi m}

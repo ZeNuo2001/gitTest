@@ -1,0 +1,1 @@
+\boldsymbol{w}=10 \mathrm{rad} / \mathrm{s}

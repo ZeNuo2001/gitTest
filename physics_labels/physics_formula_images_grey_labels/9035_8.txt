@@ -1,0 +1,1 @@
+n=\frac{\sin \theta_{1}}{\sin \theta_{2}}

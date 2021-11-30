@@ -1,0 +1,1 @@
+m=\frac{Q \cdot M_{\mathrm{U}}}{E \cdot N_{\mathrm{A}} \times 0.02}=\frac{3.2 \times 10^{16} \times 0.235}{2.3 \times 10^{-11} \times 6.02 \times 10^{23} \times 0.02} \mathrm{~kg}

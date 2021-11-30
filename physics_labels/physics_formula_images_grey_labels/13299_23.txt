@@ -1,0 +1,1 @@
+\Delta t=\frac{v-v_{0}}{g}=5 \mathrm{~s}

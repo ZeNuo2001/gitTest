@@ -1,0 +1,1 @@
+\Delta E=\frac{3}{4} \frac{\pi^{2} k^{2} e^{4} m}{h^{2}}

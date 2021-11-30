@@ -1,0 +1,1 @@
+E=\frac{3 \mu m g}{q}

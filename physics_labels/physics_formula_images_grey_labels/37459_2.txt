@@ -1,0 +1,1 @@
+\frac{1}{2} m g x \sin \theta-\frac{m^{3} g^{2} R^{2} \sin ^{2} \theta}{B^{4} L^{4}}

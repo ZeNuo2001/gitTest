@@ -1,0 +1,1 @@
+\alpha=\frac{\Delta V}{V \Delta t}=\frac{S \cdot \Delta h}{S \cdot h \cdot \Delta t}=\frac{\Delta h}{h \Delta t}

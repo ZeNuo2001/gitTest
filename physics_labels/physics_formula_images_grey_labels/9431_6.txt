@@ -1,0 +1,1 @@
+E_{B}=\varepsilon_{B}-W

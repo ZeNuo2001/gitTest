@@ -1,0 +1,1 @@
+W_{1}=k(M-m) g \Delta l

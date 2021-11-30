@@ -1,0 +1,1 @@
+\Delta t_{1}=3.900 \times 10^{-2} \mathrm{~s}

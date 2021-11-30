@@ -1,0 +1,1 @@
+\frac{M \cdot N_{\mathrm{A}}}{\rho}

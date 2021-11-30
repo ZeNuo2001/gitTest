@@ -1,0 +1,1 @@
+a=\frac{M+m}{M+m \sin ^{2} \theta} g \sin \theta

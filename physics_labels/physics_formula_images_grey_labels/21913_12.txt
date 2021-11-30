@@ -1,0 +1,1 @@
+m g x \sin \theta-\mu m g x \cos \theta-W_{p}=0-\frac{1}{2} m v_{B}^{2}

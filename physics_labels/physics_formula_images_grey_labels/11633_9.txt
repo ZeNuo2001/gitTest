@@ -1,0 +1,1 @@
+g=9.673 \mathrm{~m} / \mathrm{s}^{2}

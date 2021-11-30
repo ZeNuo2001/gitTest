@@ -1,0 +1,4 @@
+\begin{array}{r}
+234 \\
+90
+\end{array} T

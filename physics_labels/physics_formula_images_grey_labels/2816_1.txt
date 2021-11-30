@@ -1,0 +1,1 @@
+{ }_{6}^{14} \mathrm{C} \longrightarrow{ }^{14}{ }_{7} \mathrm{~N}+\mathrm{Y}

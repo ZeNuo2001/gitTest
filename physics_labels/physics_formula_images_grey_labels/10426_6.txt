@@ -1,0 +1,1 @@
+\eta_{1}=\frac{\Delta L}{L}=\frac{0.04 \mathrm{~m}}{100 \mathrm{~m}} \times 100 \%=0.04 \%

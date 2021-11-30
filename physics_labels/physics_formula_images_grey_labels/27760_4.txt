@@ -1,0 +1,1 @@
+\Delta \Phi=\frac{1}{2} B r^{2} \omega \Delta t

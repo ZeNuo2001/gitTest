@@ -1,0 +1,1 @@
+I=\frac{4 N B I^{2} \omega}{3(R+r)}

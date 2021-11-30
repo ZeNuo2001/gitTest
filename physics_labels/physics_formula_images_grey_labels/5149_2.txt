@@ -1,0 +1,1 @@
+{ }_{1}^{2} \mathrm{H}+\mathrm{Y} \longrightarrow{ }_{2}^{4} \mathrm{He}+\mathrm{X}

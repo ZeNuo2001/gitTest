@@ -1,0 +1,1 @@
+n=\frac{I \Delta l}{e} \sqrt{\frac{m}{2 e U}}

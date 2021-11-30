@@ -1,0 +1,1 @@
+10 \sin \frac{4}{5} \pi t \mathrm{~cm}

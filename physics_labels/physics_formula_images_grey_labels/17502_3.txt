@@ -1,0 +1,1 @@
+T=m(g \cos \theta+a \sin \theta)

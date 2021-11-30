@@ -1,0 +1,1 @@
+R_{x}=\frac{U}{I}=\frac{1.6}{2.0 \times 10^{-3}} \Omega=800 \Omega

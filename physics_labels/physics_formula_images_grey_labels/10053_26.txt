@@ -1,0 +1,1 @@
+\Delta v_{2}=v_{2}-v_{0}=1.5 \mathrm{~m} / \mathrm{s}

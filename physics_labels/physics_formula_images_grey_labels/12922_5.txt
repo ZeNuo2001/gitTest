@@ -1,0 +1,1 @@
+\mathrm{g} \frac{T}{T_{0}}

@@ -1,0 +1,1 @@
+\Delta E_{p \not k}=E_{p b}-E_{p q}=\Delta E_{p d}=q(\mathrm{~J})

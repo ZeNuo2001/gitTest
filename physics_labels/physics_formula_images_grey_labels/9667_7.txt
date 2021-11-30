@@ -1,0 +1,1 @@
+F=m g+m \frac{\sqrt{2 g h_{2}}+\sqrt{2 g h_{1}}}{\Delta t}=1.5 \times 10^{3} \mathrm{~N}

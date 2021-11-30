@@ -1,0 +1,1 @@
+\frac{h}{\sin \theta}=v_{0} t+\frac{1}{2} g \sin \theta \cdot t^{2}

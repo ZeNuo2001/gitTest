@@ -1,0 +1,1 @@
+\Delta x=\frac{l}{d} \lambda, \lambda=\frac{v}{f}, n=\frac{c}{v}

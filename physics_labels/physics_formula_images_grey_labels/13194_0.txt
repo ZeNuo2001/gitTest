@@ -1,0 +1,1 @@
+v_{2}=\frac{(2.80+3.18) \times 10^{-2}}{2 \times 0.02} \mathrm{~m} / \mathrm{s}=1.495 \mathrm{~m} / \mathrm{s}

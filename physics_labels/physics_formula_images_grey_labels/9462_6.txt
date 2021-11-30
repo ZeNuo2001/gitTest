@@ -1,0 +1,1 @@
+s=c \cdot \Delta t=3.0 \times 10^{8} \times 8.0 \times 10^{-7} \mathrm{~m}=2.4 \times 10^{2} \mathrm{~m}

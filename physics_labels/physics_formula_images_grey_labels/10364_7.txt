@@ -1,0 +1,1 @@
+I_{\mathrm{m}}=\frac{E_{\mathrm{m}}}{r+R}

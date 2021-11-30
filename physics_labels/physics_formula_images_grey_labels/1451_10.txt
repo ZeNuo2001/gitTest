@@ -1,0 +1,1 @@
+\frac{B L_{1} I_{2} \sin \theta}{R}

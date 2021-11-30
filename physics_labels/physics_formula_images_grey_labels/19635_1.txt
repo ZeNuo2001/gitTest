@@ -1,0 +1,1 @@
+E_{\mathrm{h}}=10.0 \mathrm{~J}

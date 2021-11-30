@@ -1,0 +1,1 @@
+F_{N}=\frac{m g}{\tan \theta}

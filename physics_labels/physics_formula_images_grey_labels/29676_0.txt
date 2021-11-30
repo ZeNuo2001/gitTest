@@ -1,0 +1,1 @@
+F=m \frac{v^{2}}{r}, v=\frac{2 \pi r}{T}, \frac{r^{3}}{T^{3}}=k

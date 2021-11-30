@@ -1,0 +1,1 @@
+2 g \sqrt{\frac{m}{k}} \sin \alpha

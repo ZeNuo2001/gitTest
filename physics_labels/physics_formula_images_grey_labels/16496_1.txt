@@ -1,0 +1,1 @@
+{ }_{15}^{32} \mathrm{P} \longrightarrow_{16}^{32} \mathrm{~s}^{+}{ }_{-1}^{0} \mathrm{e}

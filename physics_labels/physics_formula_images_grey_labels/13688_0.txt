@@ -1,0 +1,1 @@
+e=220 \sin 10 \pi t(\mathrm{~V})

@@ -1,0 +1,1 @@
+E=\frac{\Delta \Phi}{\Delta t}=d l \frac{\Delta B}{\Delta t}=0.5 \times 2 \times 0.5 \mathrm{~V}=0.5 \mathrm{~V}

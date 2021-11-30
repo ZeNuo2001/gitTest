@@ -1,0 +1,3 @@
+\begin{array}{lll}
+U_{b} & U_{c} & U_{a}
+\end{array}

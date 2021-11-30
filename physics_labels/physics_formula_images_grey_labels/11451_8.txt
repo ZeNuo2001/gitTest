@@ -1,0 +1,1 @@
+U_{E F}=\frac{R_{E F}}{10 R+R_{E F}} \cdot U_{A B}=\frac{R}{10 R+R} \times 110 \mathrm{~V}=10 \mathrm{~V}

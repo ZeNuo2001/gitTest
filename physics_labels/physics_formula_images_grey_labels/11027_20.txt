@@ -1,0 +1,1 @@
+v_{1}=4 \mathrm{~m} / \mathrm{s}, v_{1.5}=4.5 \mathrm{~m} / \mathrm{s}, v_{2}=4 \mathrm{~m} / \mathrm{s}, v_{3}=4 \mathrm{~m} / \mathrm{s}

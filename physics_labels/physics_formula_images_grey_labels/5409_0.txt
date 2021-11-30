@@ -1,0 +1,1 @@
+E=\frac{m g y}{3 q L}

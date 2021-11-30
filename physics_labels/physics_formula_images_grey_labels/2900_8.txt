@@ -1,0 +1,1 @@
+m g L \sin \alpha-\frac{m^{2} g^{2}(R+2 r)^{2} \sin ^{2} \alpha}{8 B^{4} d^{4}}

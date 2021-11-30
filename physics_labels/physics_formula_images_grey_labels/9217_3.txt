@@ -1,0 +1,1 @@
+y=A \cos \left[\omega t-\frac{\omega}{v}(x-l)\right]

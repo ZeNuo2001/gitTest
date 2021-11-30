@@ -1,0 +1,1 @@
+e=2 \sqrt{2} I R \sin \frac{2 \pi}{T} t

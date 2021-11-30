@@ -1,0 +1,1 @@
+\rho S\left(\sqrt{\frac{M g}{\rho S}}\right)^{3}

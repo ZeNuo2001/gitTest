@@ -1,0 +1,1 @@
+p_{0} l=p^{\prime} l^{\prime}, l^{\prime}=\frac{p_{0} l}{p^{\prime}}=\frac{76 \times 40}{80} \mathrm{~cm}=38 \mathrm{~cm}

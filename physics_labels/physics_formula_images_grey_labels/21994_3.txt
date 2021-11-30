@@ -1,0 +1,1 @@
+p_{0}+\frac{m g \cos ^{2} \theta}{S}

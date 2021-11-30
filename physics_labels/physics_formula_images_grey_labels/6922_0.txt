@@ -1,0 +1,1 @@
+v_{t}=6 \mathrm{~m} / \mathrm{s}

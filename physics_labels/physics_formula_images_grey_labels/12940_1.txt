@@ -1,0 +1,1 @@
+\omega_{0}=\frac{\sqrt{\pi G \rho_{0}}}{2}

@@ -1,0 +1,1 @@
+v_{n}=\frac{q B}{m} R_{n}=\frac{q B}{m} \cdot \frac{2 a}{5(2 n-1)}

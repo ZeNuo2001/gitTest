@@ -1,0 +1,1 @@
+F_{1} \Delta l_{1}=p_{1} S_{1} \Delta l_{1}=p_{1} \Delta V

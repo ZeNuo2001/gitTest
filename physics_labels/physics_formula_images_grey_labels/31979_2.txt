@@ -1,0 +1,1 @@
+\sqrt{\frac{r^{2} g^{\prime}}{R}}

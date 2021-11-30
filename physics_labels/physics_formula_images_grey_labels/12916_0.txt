@@ -1,0 +1,1 @@
+\left(f_{\text {由 }}\right)_{\text {月 }}=k \frac{M_{\text {月 }}}{\left(r_{\text {月地 }}\right)^{3}}

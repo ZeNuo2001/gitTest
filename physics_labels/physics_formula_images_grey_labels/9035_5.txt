@@ -1,0 +1,1 @@
+\sin \theta_{2}=\sin \left(90^{\circ}-\theta_{1}\right)=\cos \theta_{1}

@@ -1,0 +1,1 @@
+l_{E F}=l_{O E} \sin \angle E O F

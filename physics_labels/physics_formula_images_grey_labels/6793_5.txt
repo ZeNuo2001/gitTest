@@ -1,0 +1,1 @@
+\frac{m v^{2} \cos ^{2} \theta}{2 \cos ^{2} 2 \theta}+m g h

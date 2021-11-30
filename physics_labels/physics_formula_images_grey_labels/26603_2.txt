@@ -1,0 +1,1 @@
+{ }_{1}^{30} \mathrm{P} \longrightarrow{ }_{14}^{30} \mathrm{Si}+{ }_{1}^{0} \mathrm{e}

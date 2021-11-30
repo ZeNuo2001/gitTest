@@ -1,0 +1,1 @@
+P=F_{v_{\mathrm{m}}}=m g v_{\mathrm{m}}=2.0 \times 10^{3} \times 10 \times 10 \mathrm{~W}=2.0 \times 10^{5} \mathrm{~W}

@@ -1,0 +1,1 @@
+\text { A. } \frac{E_{\mathrm{k}}}{E_{\mathrm{k}}-\Delta E} r

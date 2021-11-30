@@ -1,0 +1,6 @@
+\begin{array}{l}
+F_{\mathrm{N}}>m g \\
+F_{\mathrm{N}}<m g \\
+F_{\mathrm{N}}<m g \\
+F_{\mathrm{N}}>m g
+\end{array}

@@ -1,0 +1,1 @@
+a=-\frac{160}{8}=-20 \mathrm{~m} / \mathrm{s}^{2}

@@ -1,0 +1,1 @@
+\cos \alpha \leqslant \frac{d}{R} \cos \beta-\frac{3(R-d)}{2 R}

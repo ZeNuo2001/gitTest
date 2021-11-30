@@ -1,0 +1,1 @@
+m g+F_{a}=m \frac{u^{\prime 2}}{r}

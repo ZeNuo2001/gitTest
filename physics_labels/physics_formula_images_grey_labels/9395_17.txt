@@ -1,0 +1,1 @@
+E_{\mathrm{m}}=\frac{1}{45} E_{0} Q d

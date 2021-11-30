@@ -1,0 +1,1 @@
+\frac{1}{2} m v^{2}=\frac{G M m}{2 R}=\frac{m}{2}\left(\frac{2 \pi G M}{T}\right)^{2 / 3}

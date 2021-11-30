@@ -1,0 +1,1 @@
+\frac{n_{3}}{n_{4}}=\frac{I_{3}}{I_{2}}=\frac{2.7 \times 10^{3}}{51} \approx 53

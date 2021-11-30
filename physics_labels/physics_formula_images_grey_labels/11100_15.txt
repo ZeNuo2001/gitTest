@@ -1,0 +1,1 @@
+\arctan \frac{v_{x}}{v_{1}}=\omega r / v_{0}

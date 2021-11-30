@@ -1,0 +1,1 @@
+\frac{M m g \cos \theta}{M-m \sin ^{2} \theta}

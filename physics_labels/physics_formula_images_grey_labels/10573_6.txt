@@ -1,0 +1,1 @@
+x=v_{1} t=v_{1}\left(\frac{l}{v_{2}-v_{1}}+\frac{l}{v_{2}+v_{1}}\right)=2 v_{1} v_{2} l /\left(v_{2}^{2}-v_{1}^{2}\right)

@@ -1,0 +1,1 @@
+t\left(t>t_{0}\right)

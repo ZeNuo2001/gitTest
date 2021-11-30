@@ -1,0 +1,1 @@
+a \sim b 、 b \sim c, c \sim d, d \sim e

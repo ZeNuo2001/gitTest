@@ -1,0 +1,1 @@
+R_{\text {内 }}=R+R_{\mathrm{g}}+r

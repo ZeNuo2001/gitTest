@@ -1,0 +1,1 @@
+\Delta E^{\prime}=\frac{1}{2}\left(1+\frac{\sqrt{3}}{2}\right) \frac{\Delta E}{2}

@@ -1,0 +1,1 @@
+v=\frac{M-m}{M+m} v_{0}+\frac{2 M}{M+m} u_{0}

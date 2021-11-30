@@ -1,0 +1,1 @@
+0 \sim 0.5 \mathrm{~V}, 0 \sim 2.5 \mathrm{~V}, 0 \sim 10 \mathrm{~V}, 0 \sim 50 \mathrm{~V}

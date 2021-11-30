@@ -1,0 +1,1 @@
+\sqrt{\frac{q E h}{2 m}}

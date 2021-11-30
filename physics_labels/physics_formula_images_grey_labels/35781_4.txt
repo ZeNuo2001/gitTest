@@ -1,0 +1,1 @@
+40 \sqrt{2} \cos (10 t) \mathrm{V}

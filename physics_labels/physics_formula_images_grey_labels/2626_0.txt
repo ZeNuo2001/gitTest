@@ -1,0 +1,1 @@
+v_{1}=16 \mathrm{~m} / \mathrm{s}

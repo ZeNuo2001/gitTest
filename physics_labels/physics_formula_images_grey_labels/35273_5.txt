@@ -1,0 +1,4 @@
+\begin{array}{l}
+A A^{\prime} C^{\prime} C \\
+A A^{\prime} C^{\prime} C
+\end{array}

@@ -1,0 +1,1 @@
+k=800 \mathrm{~N} / \mathrm{m}

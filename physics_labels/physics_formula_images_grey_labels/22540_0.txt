@@ -1,0 +1,4 @@
+\begin{array}{l}
+\frac{m g}{2 q} \\
+\frac{2 m g}{q}
+\end{array}

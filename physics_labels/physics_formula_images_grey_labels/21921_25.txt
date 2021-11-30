@@ -1,0 +1,1 @@
+t=\frac{\Delta x_{0}^{\prime}}{2 v}

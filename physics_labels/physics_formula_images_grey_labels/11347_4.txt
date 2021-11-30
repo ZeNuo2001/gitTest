@@ -1,0 +1,1 @@
+E=\frac{U}{d}=\frac{4 \pi k d Q}{\varepsilon S d}=\frac{4 \pi k Q}{\varepsilon S}

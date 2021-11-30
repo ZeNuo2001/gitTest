@@ -1,0 +1,5 @@
+\begin{array}{l}
+7 \mathrm{~V} \\
+14 \mathrm{~V} \\
+21 \mathrm{~V}
+\end{array}

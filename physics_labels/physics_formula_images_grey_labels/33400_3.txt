@@ -1,0 +1,1 @@
+{ }_{12}^{24} \mathrm{Mg}+{ }_{0}^{1} \mathrm{n} \rightarrow(\quad)+{ }_{1}^{\prime} \mathrm{H}

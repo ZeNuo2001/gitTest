@@ -1,0 +1,1 @@
+m g \tan 30^{\circ}=m \frac{v_{0}^{2}}{r}=m \frac{v_{0}^{2}}{l \cdot \sin 30^{\circ}}

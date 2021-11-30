@@ -1,0 +1,1 @@
+I^{\prime}=U / R=(220 / 20) \mathrm{A}=11 \mathrm{~A}

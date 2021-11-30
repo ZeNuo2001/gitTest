@@ -1,0 +1,1 @@
+I_{\text {䂏 }}=\frac{I_{1}^{\prime}}{I_{1}^{\prime}-0.110} \times I_{2}^{\prime} \approx 2.5 \mathrm{~A}

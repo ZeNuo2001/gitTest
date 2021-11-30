@@ -1,0 +1,1 @@
+\lambda=\frac{v}{f}=\frac{2 \times 10^{8}}{5.3 \times 10^{14}} \mathrm{~m} / \mathrm{s}=3.77 \times 10^{-7} \mathrm{~m}

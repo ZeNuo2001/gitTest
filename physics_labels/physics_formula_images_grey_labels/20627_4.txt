@@ -1,0 +1,1 @@
+W=6 \times 10^{-6} \mathrm{~J} \quad E>6 \mathrm{~V} / \mathrm{m}

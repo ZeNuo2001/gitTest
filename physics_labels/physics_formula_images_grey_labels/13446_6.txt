@@ -1,0 +1,1 @@
+G \frac{M m}{R^{2}}=m \frac{v^{2}}{R}, v=\sqrt{\frac{G M}{R}}

@@ -1,0 +1,1 @@
+W=h \nu-E_{k}=5.0 \mathrm{eV}-1.5 \mathrm{eV}=3.5 \mathrm{eV}

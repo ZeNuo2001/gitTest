@@ -1,0 +1,1 @@
+\frac{q E+m g \sin \alpha}{k_{0}}

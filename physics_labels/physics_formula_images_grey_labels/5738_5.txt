@@ -1,0 +1,1 @@
+F_{\max } \sin \theta=f+m g \Rightarrow f=F_{\max } \sin \theta-m g

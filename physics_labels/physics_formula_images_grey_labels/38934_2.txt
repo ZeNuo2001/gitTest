@@ -1,0 +1,1 @@
+\text { C. } \sqrt{\frac{\cos \theta-\mu \sin \theta}{\sin \theta+\mu \cos \theta} R g} \leqslant v \leqslant \sqrt{\frac{\cos \theta+\mu \sin \theta}{\sin \theta-\mu \cos \theta} R g}

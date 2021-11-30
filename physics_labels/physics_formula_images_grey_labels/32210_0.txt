@@ -1,0 +1,1 @@
+{ }_{92}^{235} U+{ }_{0}^{1} n \rightarrow{ }_{54}^{136} \mathrm{Xe}+\mathrm{X}+10_{0}^{1} \mathrm{n}

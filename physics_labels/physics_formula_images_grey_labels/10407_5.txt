@@ -1,0 +1,1 @@
+E_{l}=\frac{\varepsilon}{8 \pi k} E S d

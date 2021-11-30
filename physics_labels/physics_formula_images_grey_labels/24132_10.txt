@@ -1,0 +1,1 @@
+a=\quad \mathrm{cm} / \mathrm{s}^{2} .

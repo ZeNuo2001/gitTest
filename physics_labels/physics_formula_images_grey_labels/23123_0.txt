@@ -1,0 +1,1 @@
+100 \sin 50 \pi t(\mathrm{~V})

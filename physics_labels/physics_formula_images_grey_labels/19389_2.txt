@@ -1,0 +1,5 @@
+\begin{array}{c}
+F \\
+m g \\
+\hline
+\end{array}

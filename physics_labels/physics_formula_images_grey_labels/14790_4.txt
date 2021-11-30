@@ -1,0 +1,1 @@
+\overline{E F}=\overline{F G}=\overline{G H}=4.00 \mathrm{~cm}

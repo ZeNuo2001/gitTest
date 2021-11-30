@@ -1,0 +1,1 @@
+v=\frac{q U L}{m d v_{0}}

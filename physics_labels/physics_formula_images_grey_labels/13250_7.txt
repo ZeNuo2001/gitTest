@@ -1,0 +1,1 @@
+=E_{k}+E_{\mathrm{p}}=h y+E_{\mathrm{p}}

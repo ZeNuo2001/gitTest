@@ -1,0 +1,1 @@
+P=U / I=2.8 \times 0.28 \mathrm{~W}=0.784 \mathrm{~W}

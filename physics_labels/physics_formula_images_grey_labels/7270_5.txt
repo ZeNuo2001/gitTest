@@ -1,0 +1,1 @@
+T_{2}=2 \pi \sqrt{\frac{l_{z}}{g}}

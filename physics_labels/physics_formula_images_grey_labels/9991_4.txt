@@ -1,0 +1,1 @@
+\bar{v}_{A}>\bar{v}_{B}>\bar{v}_{C}

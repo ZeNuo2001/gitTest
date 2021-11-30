@@ -1,0 +1,1 @@
+0=v_{0} t \sin (\alpha+\theta)-g t^{2} \cos \alpha / 2

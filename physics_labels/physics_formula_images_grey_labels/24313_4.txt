@@ -1,0 +1,4 @@
+\begin{array}{l}
+V_{a}>V_{b}, T_{a}<T_{b} \\
+V_{a}<V_{b}, T_{a}>T_{b}
+\end{array}

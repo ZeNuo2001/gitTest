@@ -1,0 +1,1 @@
+p_{0} l_{0}=p\left(l_{0}-\frac{\Delta h}{2}\right)

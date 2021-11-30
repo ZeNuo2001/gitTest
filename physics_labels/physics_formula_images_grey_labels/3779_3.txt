@@ -1,0 +1,1 @@
+\frac{g v_{\mathrm{m}}}{a(g+a)}

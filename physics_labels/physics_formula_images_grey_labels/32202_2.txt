@@ -1,0 +1,1 @@
+v_{0}=\frac{2 \sqrt{6}}{3} \mathrm{~m} / \mathrm{s}

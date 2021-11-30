@@ -1,0 +1,1 @@
+p=p_{0}+\frac{m g}{c}=1.2 \times 10^{5} \mathrm{~Pa}

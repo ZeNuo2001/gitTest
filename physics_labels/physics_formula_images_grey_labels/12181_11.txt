@@ -1,0 +1,1 @@
+I_{\mathrm{b}}=I_{2}-I_{\mathrm{a}}=0.3 \mathrm{~A}-0.1 \mathrm{~A}=0.2 \mathrm{~A}

@@ -1,0 +1,1 @@
+\omega=16 \mathrm{t}(\mathrm{rad} / \mathrm{s})

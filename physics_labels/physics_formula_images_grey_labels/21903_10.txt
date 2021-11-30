@@ -1,0 +1,1 @@
+F_{\mathrm{T}}=G_{\mathrm{M}} \sin \theta+F_{\mathrm{f}}^{\prime}

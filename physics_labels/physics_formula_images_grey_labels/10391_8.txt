@@ -1,0 +1,1 @@
+s^{\prime}=\left(v^{\prime}+u\right) t=\sqrt{\frac{M+m}{M}} v t=\sqrt{\frac{M+m}{M}} s

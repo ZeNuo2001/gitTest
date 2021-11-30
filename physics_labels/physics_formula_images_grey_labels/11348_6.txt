@@ -1,0 +1,1 @@
+d=\frac{\varepsilon_{r} S U(t+a)}{4 \pi k b}

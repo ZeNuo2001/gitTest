@@ -1,0 +1,1 @@
+\frac{\sqrt{3}}{2} m g \leqslant F_{N} \leqslant \frac{3 \sqrt{3}}{4} m g

@@ -1,0 +1,1 @@
+\omega=180 \mathrm{rad} / \mathrm{s}

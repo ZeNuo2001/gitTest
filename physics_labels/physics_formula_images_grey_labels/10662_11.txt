@@ -1,0 +1,1 @@
+v_{\cdot}^{2}-v^{2}=-2 g v t_{0}, v_{,}=\sqrt{v^{2}+2 g v t_{0}}=\sqrt{5^{2}+2 \times 10 \times 5 \times 30} \mathrm{~m} / \mathrm{s}=55 \mathrm{~m} / \mathrm{s}

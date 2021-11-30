@@ -1,0 +1,1 @@
+U_{3}=E-I\left(R_{1}+r\right)

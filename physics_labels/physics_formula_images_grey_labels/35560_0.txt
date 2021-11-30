@@ -1,0 +1,1 @@
+\Delta x=3 \mathrm{~m}, g=10 \mathrm{~m} / \mathrm{s}^{2}

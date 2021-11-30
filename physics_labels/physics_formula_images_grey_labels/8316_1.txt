@@ -1,0 +1,4 @@
+\left(\begin{array}{l}
+206 \\
+82
+\end{array} \mathrm{~Pb}\right)

@@ -1,0 +1,1 @@
+\frac{\left(p_{0}+\rho g h_{0}\right) l_{0}}{T_{0}}=\frac{\left(p_{0}+\rho g h_{1}\right) l_{1}}{T_{1}}

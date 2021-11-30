@@ -1,0 +1,1 @@
+{ }_{92}^{235} \mathrm{U}+{ }_{0}^{1} \mathrm{n} \longrightarrow{ }_{38}^{90} \mathrm{Sr}+{ }_{54}^{136} \mathrm{Xe}+x_{0}^{1} \mathrm{n}

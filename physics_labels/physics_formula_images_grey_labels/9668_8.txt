@@ -1,0 +1,1 @@
+\Delta p=\Delta m v=\rho S v^{2} \Delta t

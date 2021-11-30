@@ -1,0 +1,1 @@
+t=\frac{v_{0}-v}{a_{A}}=\frac{v}{a_{B}}

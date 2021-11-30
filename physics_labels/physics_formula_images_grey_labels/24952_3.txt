@@ -1,0 +1,1 @@
+\frac{p}{q^{2}} g, \frac{M T v^{2}}{2 \pi g R}

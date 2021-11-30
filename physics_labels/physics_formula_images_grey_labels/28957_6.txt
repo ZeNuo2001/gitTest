@@ -1,0 +1,1 @@
+{ }_{5}^{10} \mathrm{~B}+\stackrel{1}{2} \mathrm{He}

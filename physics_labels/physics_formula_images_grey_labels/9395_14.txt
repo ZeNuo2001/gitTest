@@ -1,0 +1,1 @@
+m v_{A 0}+\frac{1}{4} m v_{B 0}=\left(m+\frac{1}{4} m\right) v

@@ -1,0 +1,1 @@
+E-E^{\prime}=2 \pi k \sigma_{0} \frac{x}{\left(r^{2}+x^{2}\right)^{1 / 2}}

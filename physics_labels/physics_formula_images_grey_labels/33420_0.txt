@@ -1,0 +1,1 @@
+{ }_{92}^{238} \mathrm{U} \rightarrow{ }_{90}^{234} \mathrm{Th} \rightarrow{ }_{91}^{234} \mathrm{~Pa} \rightarrow{ }_{92}^{234} \mathrm{U} \rightarrow{ }_{90}^{230} \mathrm{Th} \rightarrow{ }_{88}^{226} \mathrm{Ra}

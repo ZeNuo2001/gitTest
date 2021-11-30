@@ -1,0 +1,1 @@
+q v B=q \frac{E}{d}

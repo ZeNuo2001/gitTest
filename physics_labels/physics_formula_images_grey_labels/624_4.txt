@@ -1,0 +1,6 @@
+\begin{array}{l}
+1.0 \mathrm{~V} \\
+1.2 \mathrm{~V} \\
+1.4 \mathrm{~V} \\
+1.6 \mathrm{~V}
+\end{array}

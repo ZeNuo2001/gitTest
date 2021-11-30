@@ -1,0 +1,1 @@
+F-m g \sin \theta-f=m a_{1}, f=F-m g \sin \theta-m a_{1}=(100-10 \times 10 \times 0.6-10 \times 2) \mathrm{N}=20 \mathrm{~N}

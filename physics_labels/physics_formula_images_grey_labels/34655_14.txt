@@ -1,0 +1,1 @@
+R_{x}=\rho-\frac{L}{\pi\left(\frac{d}{2}\right)^{2}}

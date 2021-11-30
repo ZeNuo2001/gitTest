@@ -1,0 +1,1 @@
+\mathrm{A}=234, \mathrm{Z}=92, \mathrm{E}=\frac{119}{118} \mathrm{E} \alpha

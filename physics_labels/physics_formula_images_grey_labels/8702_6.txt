@@ -1,0 +1,1 @@
+\frac{2\left(F_{2}-F_{l}\right) R}{B^{2} L^{2} t_{0}}

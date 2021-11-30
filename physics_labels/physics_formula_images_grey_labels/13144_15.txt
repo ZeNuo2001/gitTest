@@ -1,0 +1,1 @@
+v_{P}=\sqrt{v_{\mathbb{D}}^{2}+v_{y}^{2}}=5 \mathrm{~m} / \mathrm{s}

@@ -1,0 +1,1 @@
+\Delta v=a_{1} \Delta t=5.66 \times 0.5 \mathrm{~m} / \mathrm{s}=2.83 \mathrm{~m} / \mathrm{s}

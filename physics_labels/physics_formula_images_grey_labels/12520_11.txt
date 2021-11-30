@@ -1,0 +1,1 @@
+B=\frac{p}{p_{s}} \times 100 \%=\frac{2.55 \times 10^{3}}{2.33 \times 10^{3}} \times 100 \%>1

@@ -1,0 +1,1 @@
+s_{1}=R \cot 30^{\circ}=\sqrt{3} R

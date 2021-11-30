@@ -1,0 +1,1 @@
+m_{\mathrm{L}}=m_{\mathrm{Sr}}+m_{\mathrm{Xe}}

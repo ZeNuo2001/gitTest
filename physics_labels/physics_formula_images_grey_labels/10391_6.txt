@@ -1,0 +1,1 @@
+u=\frac{m}{M} v^{\prime}=\frac{m}{M} \sqrt{\frac{\bar{M}}{M+m}} v

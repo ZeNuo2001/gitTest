@@ -1,0 +1,1 @@
+e=220 \sqrt{2} \sin 100 \pi t(\mathrm{~V}

@@ -1,0 +1,1 @@
+{ }_{92}^{235} \mathrm{U}+{ }_{0}^{1} \mathrm{n} \longrightarrow{ }_{A}^{Z} \mathrm{X}+{ }_{38}^{94} \mathrm{Sr}+2{ }_{0}^{1} \mathrm{n}

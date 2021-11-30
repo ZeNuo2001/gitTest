@@ -1,0 +1,1 @@
+\Delta t_{1}=1.0 \times 10^{-3} \mathbf{s}

@@ -1,0 +1,1 @@
+\frac{V_{B}}{T_{B}}=\frac{V_{C}}{T_{C}}

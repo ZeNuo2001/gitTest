@@ -1,0 +1,1 @@
+F_{\mathrm{N}}+m g=m \frac{v_{1}^{2}}{R}

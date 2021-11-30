@@ -1,0 +1,1 @@
+k=15 \mathrm{Ns} / \mathrm{m}^{2}

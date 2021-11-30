@@ -1,0 +1,1 @@
+\frac{\varphi_{1}+\varphi_{2}}{2}

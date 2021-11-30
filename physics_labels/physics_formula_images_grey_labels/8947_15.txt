@@ -1,0 +1,1 @@
+T^{\prime}=\frac{v_{P}-v_{S}}{v_{P}-v_{A}} T

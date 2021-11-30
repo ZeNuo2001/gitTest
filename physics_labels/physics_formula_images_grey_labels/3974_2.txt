@@ -1,0 +1,1 @@
+\frac{4 m g}{s}(\sin \theta+\mu \cos \theta)

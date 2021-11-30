@@ -1,0 +1,1 @@
+\left[p_{0}+h-\left(l_{0}-l\right)\right] l=\left[p_{0}-\left(h_{0}-l^{\prime}\right)\right]\left(l_{0}+\right.

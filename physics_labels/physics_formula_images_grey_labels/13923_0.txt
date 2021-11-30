@@ -1,0 +1,1 @@
+\frac{\left(h-\frac{1}{4} h\right) S}{T_{0}}=\frac{h^{\prime} S}{T}

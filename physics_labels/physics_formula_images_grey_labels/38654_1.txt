@@ -1,0 +1,1 @@
+\sqrt{\frac{h^{2}}{2 e m U}}

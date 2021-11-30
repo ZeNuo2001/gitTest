@@ -1,0 +1,1 @@
+v_{B}=\frac{\sqrt{g R}}{4}

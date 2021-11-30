@@ -1,0 +1,1 @@
+v_{n} \geqslant \sqrt{10} \mathrm{~m} / \mathrm{s}

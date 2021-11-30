@@ -1,0 +1,1 @@
+{ }_{92}^{238} \mathrm{U} \stackrel{\mathrm{O}}{\rightarrow}{ }_{90}^{234} \mathrm{Th}

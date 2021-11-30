@@ -1,0 +1,1 @@
+h \boldsymbol{w}_{\mathbf{a}}-E_{\mathbf{k}_{a}}>h_{b}-E_{\mathrm{k} b}

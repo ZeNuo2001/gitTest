@@ -1,0 +1,1 @@
+E=1 \times 10^{6} \mathrm{~N} / \mathrm{C}

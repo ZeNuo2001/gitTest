@@ -1,0 +1,1 @@
+\lambda=\frac{\left(x_{7}-x_{1}\right) d}{6 L_{2}}

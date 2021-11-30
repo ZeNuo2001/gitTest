@@ -1,0 +1,1 @@
+e=311 \sin 50 \pi t(\mathrm{~V})

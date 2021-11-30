@@ -1,0 +1,1 @@
+d=5.00 \mathrm{~mm}, g=9.80 \mathrm{~m} / \mathrm{s}^{2}

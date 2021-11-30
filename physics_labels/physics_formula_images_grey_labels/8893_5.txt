@@ -1,0 +1,1 @@
+t=\frac{1}{4} T=\frac{1}{4} \times \frac{\lambda}{v}=\frac{1}{4} \times \frac{2 L}{3 v}=\frac{L}{6 v}

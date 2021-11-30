@@ -1,0 +1,1 @@
+e=220 \sqrt{2} \sin \omega t(\mathrm{~V})

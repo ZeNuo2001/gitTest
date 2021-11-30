@@ -1,0 +1,1 @@
+I_{10}=2 \times \frac{q U O}{d} \frac{2 L}{3 V}+\frac{q 4 U_{0}}{d} \cdot 2 \times \frac{L}{30}

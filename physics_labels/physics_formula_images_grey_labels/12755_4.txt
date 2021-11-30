@@ -1,0 +1,1 @@
+v^{\prime}=v_{x}=v \cos \theta

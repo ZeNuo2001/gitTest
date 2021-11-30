@@ -1,0 +1,1 @@
+\frac{h \lambda P}{c}

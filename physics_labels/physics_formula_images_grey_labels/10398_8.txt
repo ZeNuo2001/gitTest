@@ -1,0 +1,1 @@
+n=\frac{\sin \beta}{\sin \alpha}

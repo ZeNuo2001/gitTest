@@ -1,0 +1,1 @@
+\frac{m g_{g} R}{R+h}(h+2 R)

@@ -1,0 +1,1 @@
+\Delta t=\frac{2 s}{v} \cdot \Delta t=2.87 \times 10^{8} \mathrm{~s}

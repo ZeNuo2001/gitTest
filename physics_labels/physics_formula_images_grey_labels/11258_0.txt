@@ -1,0 +1,1 @@
+I_{\mathrm{g}}=600 \mu \mathrm{A}

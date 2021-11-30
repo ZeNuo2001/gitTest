@@ -1,0 +1,1 @@
+\mu=\frac{F_{\mathrm{r}}}{m g \cos \theta_{1}}

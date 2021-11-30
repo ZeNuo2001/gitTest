@@ -1,0 +1,1 @@
+W_{f}=-\mu m g \cos \theta \cdot \frac{h}{\sin \theta}

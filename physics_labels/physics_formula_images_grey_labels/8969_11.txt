@@ -1,0 +1,1 @@
+\frac{L}{\sqrt{L^{2}+H^{2}}}=n \cdot \frac{l}{\sqrt{l^{2}+h^{2}}}=\frac{\sqrt{L^{2}+4 H^{2}}}{\sqrt{L^{2}+\bar{H}^{2}}} \cdot \frac{l}{\sqrt{l^{2}+h^{2}}}

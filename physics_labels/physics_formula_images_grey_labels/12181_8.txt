@@ -1,0 +1,1 @@
+I_{\mathrm{a}}=U_{\mathrm{n}} / R_{\mathrm{a}}=0.1 \mathrm{~A}

@@ -1,0 +1,4 @@
+\begin{array}{l}
+0.40 \mathrm{~m} / \mathrm{s} \\
+0.08 \mathrm{~m}
+\end{array}

@@ -1,0 +1,1 @@
+\rho=\frac{3 h}{2 \pi R G t^{2}}

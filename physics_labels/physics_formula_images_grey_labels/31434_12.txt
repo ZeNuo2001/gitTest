@@ -1,0 +1,1 @@
+\frac{R_{1}}{R_{\mathrm{g}}}

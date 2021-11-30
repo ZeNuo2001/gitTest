@@ -1,0 +1,1 @@
+\arcsin \frac{l}{n \sqrt{r^{2}+l^{2}}}

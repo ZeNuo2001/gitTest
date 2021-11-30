@@ -1,0 +1,1 @@
+\Phi=\frac{2 I R T}{\pi} \cos \frac{2 \pi}{T} t

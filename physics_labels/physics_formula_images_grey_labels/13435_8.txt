@@ -1,0 +1,1 @@
+\mu(m g-E q) \cos \theta-(m g-E q) \sin \theta=m L \omega^{\prime 2}

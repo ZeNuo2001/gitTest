@@ -1,0 +1,1 @@
+m_{a}=2\left(m_{n}-m_{\mathrm{P}}\right)

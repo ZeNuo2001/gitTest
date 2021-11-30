@@ -1,0 +1,4 @@
+\begin{array}{c}
+R_{\text {地 }}=6.371 \times \\
+10^{3} \mathrm{~km}
+\end{array}

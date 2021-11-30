@@ -1,0 +1,1 @@
+\sqrt[3]{\left(\frac{t}{t-T}\right)^{2}} R

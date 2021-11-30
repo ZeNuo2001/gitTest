@@ -1,0 +1,1 @@
+v_{\mathrm{m} 1}=\sqrt{\frac{2 e U}{m}}

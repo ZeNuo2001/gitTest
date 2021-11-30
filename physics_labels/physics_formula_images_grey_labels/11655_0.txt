@@ -1,0 +1,1 @@
+p=\frac{F}{S}=\frac{B I l}{d l}=\frac{B I}{d}

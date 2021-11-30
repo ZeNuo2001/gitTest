@@ -1,0 +1,1 @@
+m g^{2} \sqrt{\frac{m}{2 k}}

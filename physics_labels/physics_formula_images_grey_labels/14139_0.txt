@@ -1,0 +1,1 @@
+T=0.1 \mathrm{~s}, x_{1}=4 \mathrm{~cm}, x_{2}=9 \mathrm{~cm}, x_{3}=16 \mathrm{~cm}, \theta=37^{\circ}

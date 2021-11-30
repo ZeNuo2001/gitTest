@@ -1,0 +1,1 @@
+\frac{k Q \cos \theta}{L^{2}}

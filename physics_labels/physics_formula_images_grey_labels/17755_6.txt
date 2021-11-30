@@ -1,0 +1,4 @@
+\begin{array}{r}
+235 \\
+92
+\end{array} \mathrm{~J}

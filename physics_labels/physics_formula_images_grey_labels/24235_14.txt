@@ -1,0 +1,4 @@
+\begin{array}{l}
+r=\\
+\text { \Omega }
+\end{array}

@@ -1,0 +1,1 @@
+\triangle t_{1}=0.0289 \mathrm{~s}, \quad \triangle t_{2}=0.0160 \mathrm{~s}, \quad \triangle t_{12}=0.4040 \mathrm{~s} \circ

@@ -1,0 +1,1 @@
+a_{1}=\frac{\Delta v}{\Delta t}=\frac{4}{0.5} \mathrm{~m} / \mathrm{s}^{2}=8 \mathrm{~m} / \mathrm{s}^{2}

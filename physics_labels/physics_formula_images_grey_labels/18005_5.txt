@@ -1,0 +1,1 @@
+-\hat{i} \mathrm{e}+_{-1} \mathrm{e} \rightarrow 2 \gamma

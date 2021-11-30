@@ -1,0 +1,1 @@
+\sin \alpha \leqslant \frac{2}{5}

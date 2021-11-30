@@ -1,0 +1,1 @@
+U_{x}=500 \mathrm{~m} / \mathrm{s}

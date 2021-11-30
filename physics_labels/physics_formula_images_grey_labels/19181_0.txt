@@ -1,0 +1,1 @@
+v>2 \sqrt{\left(a_{1}+a_{2}\right) d}

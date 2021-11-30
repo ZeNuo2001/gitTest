@@ -1,0 +1,4 @@
+\begin{array}{r}
+0 \\
+-1
+\end{array} e

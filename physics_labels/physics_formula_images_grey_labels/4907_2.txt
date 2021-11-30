@@ -1,0 +1,1 @@
+2 \pi a \sqrt{\frac{2 a}{(4+\sqrt{2}) G m}}

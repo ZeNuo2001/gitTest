@@ -1,0 +1,1 @@
+E_{a}=E_{b}, \varphi_{a}=\varphi_{b}

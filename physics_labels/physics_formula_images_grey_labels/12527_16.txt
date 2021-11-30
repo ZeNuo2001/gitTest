@@ -1,0 +1,1 @@
+m=\rho \cdot 4 \pi R^{2} \cdot h

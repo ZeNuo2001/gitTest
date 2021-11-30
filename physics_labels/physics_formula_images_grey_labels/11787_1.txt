@@ -1,0 +1,1 @@
+R_{\mathrm{g}}=10.0 \Omega

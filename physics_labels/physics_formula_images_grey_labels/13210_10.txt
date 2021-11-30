@@ -1,0 +1,1 @@
+v_{2}=\frac{\Delta s_{2}}{\Delta s} v=4 \mathrm{~cm} / \mathrm{s}

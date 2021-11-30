@@ -1,0 +1,1 @@
+u=2280 \sqrt{2} \sin (100 \pi t) \mathrm{V}

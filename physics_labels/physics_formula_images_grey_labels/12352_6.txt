@@ -1,0 +1,1 @@
+q=\frac{Q}{2 \pi R} \Delta l=\frac{Q}{2 \pi R} R \Delta \theta=\frac{Q \Delta \theta}{2 \pi}

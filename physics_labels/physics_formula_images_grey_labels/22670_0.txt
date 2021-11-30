@@ -1,0 +1,4 @@
+\begin{array}{l}
+\frac{k}{I L}\left(x_{1}+x_{2}\right) \\
+\frac{k}{2 I L}\left(x_{1}+x_{2}\right)
+\end{array}

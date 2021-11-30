@@ -1,0 +1,1 @@
+y_{M}=10 \sin (2 \pi t+\pi) \mathrm{cm}

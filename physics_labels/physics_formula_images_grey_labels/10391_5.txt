@@ -1,0 +1,1 @@
+v^{\prime}=\sqrt{\frac{M}{M+m}} v

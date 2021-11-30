@@ -1,0 +1,1 @@
+\omega=\frac{g h}{R^{2}-h^{2}}

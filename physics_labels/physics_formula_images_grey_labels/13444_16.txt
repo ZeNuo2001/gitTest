@@ -1,0 +1,1 @@
+G \frac{M^{\prime} m}{(R-d)^{2}}=\frac{4}{3} \pi \rho G m(R-d)

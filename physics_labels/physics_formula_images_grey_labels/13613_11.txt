@@ -1,0 +1,5 @@
+\begin{array}{l}
+E q=m a_{x} \\
+v_{x}=a_{x} t \\
+\frac{v_{x}}{2} t=d
+\end{array}

@@ -1,0 +1,1 @@
+E=\frac{\Delta \Phi}{\Delta t}

@@ -1,0 +1,1 @@
+\frac{\lambda_{1} \lambda_{2}}{\lambda_{1}+\lambda_{2}}

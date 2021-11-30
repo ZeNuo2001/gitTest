@@ -1,0 +1,1 @@
+\omega=\sqrt{\frac{g}{8 l}}

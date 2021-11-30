@@ -1,0 +1,1 @@
+K=630 \mathrm{~J} / \mathrm{m}^{2} \cdot \mathrm{s}

@@ -1,0 +1,1 @@
+v=\lambda / T=\frac{\Delta x}{\Delta t}

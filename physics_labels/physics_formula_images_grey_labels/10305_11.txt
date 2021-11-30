@@ -1,0 +1,1 @@
+F=E q=1.25 \times 10^{-11} \mathrm{~N}

@@ -1,0 +1,1 @@
+D_{\beta}=\frac{4}{3} D_{\alpha}

@@ -1,0 +1,1 @@
+\Delta x=\frac{m g \sin \alpha}{k}

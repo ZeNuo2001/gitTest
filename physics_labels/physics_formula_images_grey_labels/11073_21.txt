@@ -1,0 +1,1 @@
+N_{2}^{\prime}+m_{2} a_{1} \sin \theta=m_{2} g \cos \theta

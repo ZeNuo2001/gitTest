@@ -1,0 +1,1 @@
+d t=T \cos \theta \mathrm{d} \theta

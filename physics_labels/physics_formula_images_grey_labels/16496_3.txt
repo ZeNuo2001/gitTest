@@ -1,0 +1,1 @@
+{ }_{92}^{238} \mathrm{U} \rightarrow{ }_{40}^{2.34} \mathrm{Th}+{ }_{2}^{4} \mathrm{He}

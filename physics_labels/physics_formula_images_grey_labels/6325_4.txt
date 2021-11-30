@@ -1,0 +1,1 @@
+B=\frac{2 a m v_{0}}{q\left(a^{2}+b^{2}\right)}

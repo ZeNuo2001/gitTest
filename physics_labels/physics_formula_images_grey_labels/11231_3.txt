@@ -1,0 +1,1 @@
+2 \pi k \sigma r_{0} \frac{x}{r}

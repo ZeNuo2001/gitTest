@@ -1,0 +1,1 @@
+\frac{y_{\mathrm{a}}}{y_{\beta}}=\frac{q_{\mathrm{a}}}{q_{\mathrm{\beta}}} \cdot \frac{m_{\mathrm{B}}}{m_{\mathrm{a}}} \cdot \frac{v_{\mathrm{\beta}}^{2}}{v_{\mathrm{a}}^{2}}=\frac{2}{1} \times \frac{\frac{1}{1840}}{4} \times \frac{(0.99 c)^{2}}{(0.1 c)^{2}} \approx \frac{1}{38}

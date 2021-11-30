@@ -1,0 +1,1 @@
+F_{\mathrm{v}}=\frac{m g}{\tan \theta}

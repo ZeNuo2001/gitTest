@@ -1,0 +1,1 @@
+\frac{q}{m}=\frac{(\sqrt{2}-1) v_{0}}{B L}

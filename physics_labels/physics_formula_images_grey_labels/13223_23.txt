@@ -1,0 +1,1 @@
+v_{\mathrm{B}}=v_{2} \cot \theta+\frac{v_{1}}{\sin \theta}

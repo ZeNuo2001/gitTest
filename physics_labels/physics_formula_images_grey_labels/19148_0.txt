@@ -1,0 +1,1 @@
+n \sqrt{\frac{2 l}{a}}

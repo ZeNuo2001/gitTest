@@ -1,0 +1,1 @@
+m^{\prime \prime}=\frac{m_{0}}{\sqrt{1-(u / c)^{2}}}=4.56 m_{0}

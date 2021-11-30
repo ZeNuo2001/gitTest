@@ -1,0 +1,1 @@
+I_{0}=\frac{E}{R_{\text {内 }}}=103 \mathrm{~mA}

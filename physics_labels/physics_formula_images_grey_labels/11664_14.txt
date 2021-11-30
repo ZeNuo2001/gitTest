@@ -1,0 +1,1 @@
+t_{2}=\frac{2 L}{v_{0}}+\frac{L}{v_{0} / 2}+\frac{L}{v_{0} / 2}=\frac{6 L}{v_{0}}=1.2 \times 10^{-2} \mathrm{~s}

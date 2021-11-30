@@ -1,0 +1,1 @@
+N_{\Lambda}=\frac{V \rho}{m}

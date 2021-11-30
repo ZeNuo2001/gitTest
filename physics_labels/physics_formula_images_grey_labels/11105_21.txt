@@ -1,0 +1,1 @@
+m=\left(M_{2}-M_{1}\right) d /\left(l_{2}-l_{1}\right)

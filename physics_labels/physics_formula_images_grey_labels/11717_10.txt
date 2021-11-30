@@ -1,0 +1,1 @@
+\mu=\frac{m_{3} g-\left(m_{2}+m_{3}\right) a}{m_{2} g}

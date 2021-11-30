@@ -1,0 +1,1 @@
+R_{2}(0 \sim 1000 \Omega, 1 \mathrm{~A})

@@ -1,0 +1,1 @@
+k=\underline{\times 10^{4} \mathrm{~m}^{-1} \cdot \mathrm{s}^{-2}}

@@ -1,0 +1,1 @@
+F_{\mathrm{Ni}}=m_{1} g \cos \theta_{1}

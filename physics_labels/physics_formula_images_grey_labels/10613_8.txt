@@ -1,0 +1,1 @@
+s_{B}=v_{B} t+\frac{1}{2} a t^{2}+\left(v_{B}+a t\right)\left(t_{0}-t\right)

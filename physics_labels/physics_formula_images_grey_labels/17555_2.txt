@@ -1,0 +1,1 @@
+\frac{L_{1}}{2} \sqrt{\frac{g}{6 h}}<v<\frac{1}{2} \sqrt{\frac{\left(4 L_{1}^{2}+L_{2}^{2}\right) g}{6 h}}

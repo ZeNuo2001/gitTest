@@ -1,0 +1,4 @@
+\begin{array}{l}
+E_{C}=24 \mathrm{~N} / \mathrm{C} \\
+E_{C}=12 \mathrm{~N} / \mathrm{C}
+\end{array}

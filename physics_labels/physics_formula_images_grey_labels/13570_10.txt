@@ -1,0 +1,4 @@
+\begin{array}{l}
+\text { B.r. }<r_{B} 、 P_{A}>P_{B} \\
+\text { D. } r_{A}>r_{B}, P_{A}>P_{B}
+\end{array}

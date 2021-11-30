@@ -1,0 +1,1 @@
+m_{\mathrm{e}} v_{a}-m_{\mathrm{U}} v_{\mathrm{U}}=0

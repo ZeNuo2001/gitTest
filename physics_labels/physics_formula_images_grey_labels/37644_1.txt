@@ -1,0 +1,1 @@
+\frac{m_{2}}{m_{2}+m_{3}}\left[2 E_{0}+\left(2 m_{1}-m_{2}-m_{3}\right) c^{2}\right]

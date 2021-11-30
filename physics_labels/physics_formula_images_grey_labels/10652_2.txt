@@ -1,0 +1,1 @@
+a=\Delta v / \Delta t

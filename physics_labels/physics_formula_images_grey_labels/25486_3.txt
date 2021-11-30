@@ -1,0 +1,1 @@
+\frac{R \tan \theta}{\mu(\tan \theta-\mu)}

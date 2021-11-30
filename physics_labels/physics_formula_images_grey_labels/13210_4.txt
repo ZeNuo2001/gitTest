@@ -1,0 +1,1 @@
+v_{1}=\frac{\Delta s_{1}}{\Delta s} v=

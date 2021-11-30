@@ -1,0 +1,1 @@
+v=\frac{M-m}{M+m} v_{0}=0.4 \mathrm{~m} / \mathrm{s}

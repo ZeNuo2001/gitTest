@@ -1,0 +1,1 @@
+v_{1}^{\prime}=\sqrt{G \frac{2 \bar{M}}{3 R}}

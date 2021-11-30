@@ -1,0 +1,1 @@
+y=0.1 \sin \left(10 \pi t+\frac{3}{4} \pi\right) \mathrm{m}

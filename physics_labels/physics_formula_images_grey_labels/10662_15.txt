@@ -1,0 +1,1 @@
+t=-v t_{0}, t=\frac{-2 v t_{0}}{v_{1}-v}=\frac{2 \times 5 \times 30}{55-5} \mathrm{~s}=6 \mathrm{~s}

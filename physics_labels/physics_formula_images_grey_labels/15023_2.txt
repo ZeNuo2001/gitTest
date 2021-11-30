@@ -1,0 +1,1 @@
+\frac{1}{R} \sqrt{\frac{2 N m U}{q}}

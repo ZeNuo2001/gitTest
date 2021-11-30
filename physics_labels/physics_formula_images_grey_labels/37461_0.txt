@@ -1,0 +1,1 @@
+\frac{1}{2}\left[\left(m_{\mathrm{D}}-m_{\mathrm{p}}+m_{\mathrm{n}}\right) c^{2}+E\right]

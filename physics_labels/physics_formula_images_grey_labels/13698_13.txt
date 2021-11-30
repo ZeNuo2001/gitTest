@@ -1,0 +1,1 @@
+U_{2}=\frac{n_{2}}{n_{1}} \cdot U_{1}=6 \mathrm{~V}

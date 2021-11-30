@@ -1,0 +1,1 @@
+{ }_{8}^{16} \bigcirc+{ }_{0}^{1} n \rightarrow{ }_{7}^{16} \mathrm{~N}+\mathrm{X}

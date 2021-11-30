@@ -1,0 +1,1 @@
+v^{\prime}=\frac{v}{\cos \theta}

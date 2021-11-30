@@ -1,0 +1,1 @@
+N=m_{1} g+m_{2} g-F \cos \theta

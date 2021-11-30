@@ -1,0 +1,1 @@
+R_{x} \approx 5 \Omega

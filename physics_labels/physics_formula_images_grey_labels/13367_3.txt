@@ -1,0 +1,3 @@
+\begin{array}{lllll}
+t_{1} & t_{2} & t_{3} & t_{4} & \bar{t}
+\end{array}

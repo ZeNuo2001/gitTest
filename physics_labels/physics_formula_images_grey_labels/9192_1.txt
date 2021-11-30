@@ -1,0 +1,1 @@
+\frac{L}{I} \sqrt{\frac{k}{m}}

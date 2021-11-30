@@ -1,0 +1,1 @@
+v_{4}=\frac{v_{0}}{\cos \theta}

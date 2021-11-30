@@ -1,0 +1,1 @@
+B=\frac{12 \mu m g R}{B_{0} \pi L^{3}} t

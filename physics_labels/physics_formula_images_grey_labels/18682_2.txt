@@ -1,0 +1,1 @@
+\frac{q}{d}=\sqrt{\frac{m g}{k \tan \theta}}

@@ -1,0 +1,1 @@
+U_{\boldsymbol{\omega}}=-3.5 B L^{2} \omega

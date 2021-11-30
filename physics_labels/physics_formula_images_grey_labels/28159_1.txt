@@ -1,0 +1,4 @@
+\begin{array}{c}
+16 \\
+7
+\end{array}

@@ -1,0 +1,1 @@
+L=v_{0} t \cos (\alpha+\theta)+g t^{2} \sin \alpha / 2

@@ -1,0 +1,1 @@
+T^{\prime}=2 T \sin \frac{\theta}{2} \approx 2 T \frac{\theta}{2}=T \theta

@@ -1,0 +1,1 @@
+k=\frac{\Delta m}{\Delta t}

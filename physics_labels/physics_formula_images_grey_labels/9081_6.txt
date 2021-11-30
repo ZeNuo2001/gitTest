@@ -1,0 +1,1 @@
+\Delta l=c \cdot \Delta t=3.0 \times 10^{8} \times 1.0 \times 10^{-11}=3.0 \times 10^{-3}(\mathrm{~m})

@@ -1,0 +1,1 @@
+\frac{n}{n^{\prime}}=\frac{\sin i^{\prime}}{\sin i}=\frac{\tan i^{\prime}}{\tan i}

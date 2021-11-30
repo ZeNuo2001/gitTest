@@ -1,0 +1,1 @@
+\frac{3 \mathrm{~V}}{5 \Omega}=0.6 \mathrm{~A}

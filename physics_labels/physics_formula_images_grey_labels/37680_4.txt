@@ -1,0 +1,4 @@
+\begin{array}{l}
+\frac{4 U^{2}}{9 R} \\
+\frac{3 U^{2}}{5 R}
+\end{array}

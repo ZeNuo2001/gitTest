@@ -1,0 +1,1 @@
+v_{2}=\frac{q B r_{2}}{m}=80 \mathrm{~m} / \mathrm{s}

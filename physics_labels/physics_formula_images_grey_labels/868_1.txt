@@ -1,0 +1,1 @@
+\cos \theta=2 \sin ^{2} \frac{\theta}{2}

@@ -1,0 +1,6 @@
+\begin{array}{l}
+F_{1} \\
+F_{1} \\
+F_{2} \\
+F_{2}
+\end{array}

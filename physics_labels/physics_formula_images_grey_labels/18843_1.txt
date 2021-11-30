@@ -1,0 +1,1 @@
+R_{\Lambda}=6.0 \Omega

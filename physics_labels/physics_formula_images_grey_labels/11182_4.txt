@@ -1,0 +1,1 @@
+q_{1} q_{2}=\frac{r^{2}}{k} F=\frac{\left(10 \times 10^{-2}\right)^{2}}{9 \times 10^{9}} \times 9 \times 10^{-4} \mathrm{C}^{2}

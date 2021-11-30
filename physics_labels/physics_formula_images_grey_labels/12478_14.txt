@@ -1,0 +1,1 @@
+T_{C}=\frac{p_{C} V_{C}}{p_{A} V_{A}}=600 \mathrm{~K}

@@ -1,0 +1,4 @@
+A.vq
+B. \( \frac{q}{v} \)
+C. \( q u S \)
+D. \( \frac{q v}{S} \)

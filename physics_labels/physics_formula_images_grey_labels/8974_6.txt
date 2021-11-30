@@ -1,0 +1,1 @@
+h=\sqrt{n^{2}-1} \cdot \frac{L}{l} r

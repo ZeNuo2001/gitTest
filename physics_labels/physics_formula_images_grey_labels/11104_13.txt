@@ -1,0 +1,1 @@
+W_{3} \cdot A P=W \cdot A C \cdot D E / D F+W_{1} \cdot(A B-A C \cdot D E / D F)

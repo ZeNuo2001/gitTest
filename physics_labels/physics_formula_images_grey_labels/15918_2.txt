@@ -1,0 +1,1 @@
+\frac{\omega L \sin \beta}{\sin \alpha}

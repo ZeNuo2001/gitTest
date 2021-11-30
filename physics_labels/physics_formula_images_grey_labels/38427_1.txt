@@ -1,0 +1,1 @@
+y=A \sin \left(\frac{3 \pi}{T} t\right)(A>0)

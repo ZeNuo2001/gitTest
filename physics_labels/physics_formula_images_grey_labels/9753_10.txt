@@ -1,0 +1,1 @@
+\lambda=\lambda_{0}\left(1+\frac{v}{c}\right)

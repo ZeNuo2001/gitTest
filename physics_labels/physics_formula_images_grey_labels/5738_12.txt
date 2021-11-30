@@ -1,0 +1,1 @@
+10 \mathrm{~N} \leqslant F \leqslant 50 \mathrm{~N}

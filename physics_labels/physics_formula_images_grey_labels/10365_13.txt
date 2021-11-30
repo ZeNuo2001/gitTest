@@ -1,0 +1,1 @@
+r=\rho \frac{d}{L h}

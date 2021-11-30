@@ -1,0 +1,1 @@
+\frac{k q\left(4 \pi r^{2}-S\right)}{r^{2}}

@@ -1,0 +1,1 @@
+\frac{\rho h}{T}\left(g t+\frac{11 v}{10}\right)

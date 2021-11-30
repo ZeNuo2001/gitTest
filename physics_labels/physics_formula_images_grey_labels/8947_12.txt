@@ -1,0 +1,1 @@
+v_{P}\left(t_{1}^{\prime}-t_{1}\right)=L+v_{A}\left(t_{1}^{\prime}-t_{1}\right)

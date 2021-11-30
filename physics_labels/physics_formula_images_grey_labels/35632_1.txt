@@ -1,0 +1,1 @@
+\sqrt{2 a_{0}\left(x_{2}+x_{3}\right)}

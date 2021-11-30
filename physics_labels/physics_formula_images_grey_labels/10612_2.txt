@@ -1,0 +1,1 @@
+t^{\prime}=\frac{1}{2} t_{1}, d=\frac{1}{2} S

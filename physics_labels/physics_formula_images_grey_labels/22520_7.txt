@@ -1,0 +1,4 @@
+\begin{array}{l}
+40 \mathrm{~m} \\
+20 \mathrm{~kg} \cdot \mathrm{m} / \mathrm{s}
+\end{array}

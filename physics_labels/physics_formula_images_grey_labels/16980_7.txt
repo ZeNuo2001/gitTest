@@ -1,0 +1,1 @@
+a_{B}=3 \mathrm{~m} / \mathrm{s}^{2}

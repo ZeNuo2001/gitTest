@@ -1,0 +1,1 @@
+v_{t}=\sqrt{v_{0}^{2}+2 g h}=55 \mathrm{~m} / \mathrm{s} .

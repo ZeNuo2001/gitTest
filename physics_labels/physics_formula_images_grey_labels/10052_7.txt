@@ -1,0 +1,1 @@
+I=F_{1} \Delta l_{1}+F_{2} \Delta_{2}+F_{3} \Delta t_{3}, I=18 \mathrm{~N} \cdot \mathrm{s}

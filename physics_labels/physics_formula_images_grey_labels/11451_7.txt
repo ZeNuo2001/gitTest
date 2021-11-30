@@ -1,0 +1,1 @@
+R_{E F}=\frac{(R+9 R) \cdot \frac{10}{9} R}{(R+9 R)+\frac{10}{9} R}=R

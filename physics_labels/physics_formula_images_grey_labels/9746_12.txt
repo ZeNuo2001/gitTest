@@ -1,0 +1,1 @@
+\frac{1}{2} m v_{1}^{\prime}-\frac{G M m}{2 R}=\frac{1}{2} m v_{2}^{\prime}-\frac{G m M}{4 R}

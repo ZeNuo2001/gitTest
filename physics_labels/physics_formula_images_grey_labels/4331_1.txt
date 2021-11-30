@@ -1,0 +1,1 @@
+k_{1}=200 \mathrm{~N} / \mathrm{m}

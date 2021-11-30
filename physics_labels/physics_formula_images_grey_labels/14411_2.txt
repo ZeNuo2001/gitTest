@@ -1,0 +1,1 @@
+i_{R}=\sqrt{2} \sin 100 \pi t(\mathrm{~A})

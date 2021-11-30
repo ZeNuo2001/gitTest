@@ -1,0 +1,1 @@
+y=5 \sin \left(5 \pi t+\frac{\pi}{2}\right) \mathrm{cm}

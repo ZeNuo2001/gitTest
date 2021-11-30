@@ -1,0 +1,1 @@
+v_{2}=\sqrt{2 g h_{2}}=\sqrt{2 \times 10 \times 5.0} \mathrm{~m} / \mathrm{s}=10 \mathrm{~m} / \mathrm{s}

@@ -1,0 +1,1 @@
+a_{1}=1.0 \mathrm{~m} / \mathrm{s}^{2}, a_{2}=-1.0 \mathrm{~m} / \mathrm{s}^{2}

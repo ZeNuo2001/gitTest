@@ -1,0 +1,4 @@
+\begin{array}{l}
+r_{1} \\
+r_{2}
+\end{array}

@@ -1,0 +1,1 @@
+\Delta E^{\prime}=\frac{1}{2} m v_{1}^{2}-\frac{1}{2} m V_{2}^{2}

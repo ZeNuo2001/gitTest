@@ -1,0 +1,1 @@
+\text { A. } a_{1}=\mu\left(1+\frac{m_{2}}{m_{1}}\right) g, a_{B}=\mu g

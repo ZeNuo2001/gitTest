@@ -1,0 +1,1 @@
+{ }_{923}^{238} \mathrm{U} \longrightarrow{ }_{90}^{23.1} \mathrm{Th}+(\mathrm{X})

@@ -1,0 +1,1 @@
+x_{1}=0.4 \mathrm{~m}, g=10 \mathrm{~m} / \mathrm{s}^{2}

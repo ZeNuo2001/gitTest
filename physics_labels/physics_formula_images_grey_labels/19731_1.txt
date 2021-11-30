@@ -1,0 +1,1 @@
+\tan \theta=\frac{2 \mu_{1}+\mu_{2}}{3}

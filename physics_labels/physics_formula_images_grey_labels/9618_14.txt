@@ -1,0 +1,1 @@
+\frac{R_{\mathrm{H}_{\mathrm{c}}}}{R_{\mathrm{H}}}=\frac{40}{3}

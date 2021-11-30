@@ -1,0 +1,1 @@
+\Delta V=S v_{0} \Delta t

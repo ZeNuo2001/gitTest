@@ -1,0 +1,1 @@
+\text { A. } v \frac{\cos \alpha}{\cos \beta}

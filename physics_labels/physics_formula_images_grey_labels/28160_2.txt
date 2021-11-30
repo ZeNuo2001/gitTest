@@ -1,0 +1,1 @@
+{ }_{12}^{24} \mathrm{Mg}+{ }_{2}^{4} \mathrm{He} \longrightarrow{ }_{13}^{27} \mathrm{Al}+\mathrm{X}_{4}

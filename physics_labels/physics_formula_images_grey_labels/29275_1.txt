@@ -1,0 +1,4 @@
+\begin{array}{l}
+\nu=0.8 c \\
+1
+\end{array}

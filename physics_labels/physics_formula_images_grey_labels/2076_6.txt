@@ -1,0 +1,1 @@
+\frac{\operatorname{lng} x}{\cos \theta}

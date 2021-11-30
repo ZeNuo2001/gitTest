@@ -1,0 +1,1 @@
+{ }_{27}^{60} \mathrm{Co} \rightarrow{ }_{Z}^{4} \mathrm{Ni}+{ }_{-1}^{0} \mathrm{e}+\vec{\nu}_{\mathrm{r}}

@@ -1,0 +1,1 @@
+E_{\mathrm{p}}=-G \frac{M m}{r}=-G \frac{M h r}{c^{2} r}

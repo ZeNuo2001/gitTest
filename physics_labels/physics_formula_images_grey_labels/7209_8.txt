@@ -1,0 +1,1 @@
+{ }_{42}^{215} \mathrm{U} \rightarrow{ }_{42}^{207} \mathrm{Ph}+m_{2}^{+} \mathrm{He}+n_{-1}^{11} \mathrm{e}

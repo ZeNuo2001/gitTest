@@ -1,0 +1,1 @@
+v_{A} \cos \alpha=v_{e} \sin \alpha

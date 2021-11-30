@@ -1,0 +1,1 @@
+p=m v_{\mathrm{m}}=\sqrt{2 m E_{\mathrm{k}}}

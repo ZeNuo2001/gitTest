@@ -1,0 +1,1 @@
+\frac{c}{\lambda_{a \tau}}=\frac{c}{n \lambda_{k T}}=\frac{3 \times 10^{8}}{\frac{4}{3} \times 0.51 \times 10^{-6}} \mathrm{~Hz}=

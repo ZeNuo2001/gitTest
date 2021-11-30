@@ -1,0 +1,1 @@
+\varepsilon=h \nu=h c / \lambda=6.63 \times 10^{-34} \times 3 \times 10^{8} / 187.5 \mathrm{~J}=1.06 \times 10^{-27} \mathrm{~J}

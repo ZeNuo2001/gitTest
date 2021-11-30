@@ -1,0 +1,1 @@
+\Delta E_{k}=\frac{l m v}{e} \Delta I

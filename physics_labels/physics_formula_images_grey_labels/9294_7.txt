@@ -1,0 +1,1 @@
+\tau=\tau_{0} / \sqrt{1-\beta^{2}}

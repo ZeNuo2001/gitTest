@@ -1,0 +1,1 @@
+\lambda=600 \mathrm{~nm}

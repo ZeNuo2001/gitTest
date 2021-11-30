@@ -1,0 +1,1 @@
+E=\frac{\Delta \Phi}{\Delta t}=\frac{\Delta B}{\Delta l} \cdot \mathrm{S}=\frac{\Delta B}{\Delta l} \cdot \pi r^{2}

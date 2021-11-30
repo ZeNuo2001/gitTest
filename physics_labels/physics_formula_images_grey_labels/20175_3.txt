@@ -1,0 +1,1 @@
+e=4 E_{\mathrm{m}} \sin 2 \omega t

@@ -1,0 +1,1 @@
+\frac{\left(F_{2}-F_{1}\right) t^{2}}{12 h}

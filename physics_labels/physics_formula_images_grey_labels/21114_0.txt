@@ -1,0 +1,1 @@
+F_{\mathrm{v}}=m g \cos \alpha

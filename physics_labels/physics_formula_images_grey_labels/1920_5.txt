@@ -1,0 +1,1 @@
+E=1 \times 10^{2} \mathrm{~N} / \mathrm{m}

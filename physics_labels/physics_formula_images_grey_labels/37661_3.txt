@@ -1,0 +1,4 @@
+\begin{array}{c}
+t_{2} \sim t_{3} \\
+t_{4} \sim t_{7}
+\end{array}

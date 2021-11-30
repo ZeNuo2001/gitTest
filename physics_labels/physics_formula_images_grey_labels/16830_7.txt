@@ -1,0 +1,1 @@
+T_{2}=M g, f_{2}=(M+m) g \sin \theta

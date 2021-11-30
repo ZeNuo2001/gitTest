@@ -1,0 +1,1 @@
+E_{p}=\frac{G M m h}{R(R+h)}

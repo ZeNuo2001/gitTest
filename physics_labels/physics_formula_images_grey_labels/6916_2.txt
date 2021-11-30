@@ -1,0 +1,1 @@
+v_{L}=60 \mathrm{~m} / \mathrm{s}

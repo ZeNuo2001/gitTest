@@ -1,0 +1,1 @@
+s^{\prime}=s_{0}-\frac{1}{2} \cdot a\left(\frac{T}{4}\right)^{2}=7 \mathrm{~m}

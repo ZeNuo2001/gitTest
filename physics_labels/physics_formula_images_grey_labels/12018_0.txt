@@ -1,0 +1,1 @@
+d=1 \mathrm{~m}, m=0.5 \mathrm{~kg}, R=0.5 \Omega, B=0.5 \mathrm{~T}, \theta=30^{\circ}

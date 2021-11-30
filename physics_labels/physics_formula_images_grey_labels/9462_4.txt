@@ -1,0 +1,1 @@
+n=\frac{E^{\prime}}{E}=\frac{5 \times 10^{-13}}{4.0 \times 10^{-19}}=1.25 \times 10^{6}(\uparrow)

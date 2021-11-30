@@ -1,0 +1,1 @@
+r_{\mathrm{i}+1}>r_{\mathrm{k} \mathrm{j}}=r_{\mathrm{j}}>r_{\mathrm{C}}

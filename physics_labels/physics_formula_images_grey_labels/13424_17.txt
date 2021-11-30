@@ -1,0 +1,1 @@
+\frac{g t}{2 v_{0}}=\frac{1}{2 \tan 30^{\circ}}=\frac{\sqrt{3}}{2}

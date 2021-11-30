@@ -1,0 +1,1 @@
+\frac{\left(x_{2}+x_{1}\right) \Delta v}{x_{2}-x_{1}}

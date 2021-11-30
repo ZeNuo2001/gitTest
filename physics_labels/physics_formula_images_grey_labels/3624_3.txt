@@ -1,0 +1,1 @@
+24 \sqrt{\frac{\cos ^{3} \alpha}{\cos ^{3} \beta}}

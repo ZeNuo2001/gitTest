@@ -1,0 +1,1 @@
+\omega=\pi \times 10^{16} \mathrm{rad} / \mathrm{s}

@@ -1,0 +1,1 @@
+v_{\mathrm{a}} \cos \theta=v_{\mathrm{b}} \sin \theta

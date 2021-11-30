@@ -1,0 +1,1 @@
+F=\frac{m v_{2}-m v_{1}}{\Delta}+m g=\frac{60 \times 10-60 \times(-8)}{1.2} \mathrm{~N}+60 \times 10 \mathrm{~N}=1.5 \times 10^{3} \mathrm{~N}

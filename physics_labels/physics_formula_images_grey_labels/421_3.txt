@@ -1,0 +1,1 @@
+\frac{\mu m v^{2} \cos \theta}{2(\mu \cos \theta-\sin \theta)}

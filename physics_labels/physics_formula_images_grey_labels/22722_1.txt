@@ -1,0 +1,4 @@
+\begin{array}{l}
+B=\frac{\sqrt{3} m v_{0}}{2 q d} \\
+B=\frac{3 m v_{0}}{2 q d}
+\end{array}

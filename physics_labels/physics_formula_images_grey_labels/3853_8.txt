@@ -1,0 +1,1 @@
+v_{A B}=\frac{2 m g \sin \theta(R+r)}{3 B^{2} L^{2}}

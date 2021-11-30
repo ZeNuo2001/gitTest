@@ -1,0 +1,1 @@
+v_{2}^{\prime}=\frac{O_{1} O_{2}}{\Delta t}=\frac{v_{2}}{\sin \theta}

@@ -1,0 +1,1 @@
+\frac{T_{1}}{T_{2}}=\left(\frac{r_{2}}{r_{1}}\right)^{\frac{3}{2}}

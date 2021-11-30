@@ -1,0 +1,1 @@
+s_{2}=\left(v_{2}-v_{1}\right) t^{\prime}

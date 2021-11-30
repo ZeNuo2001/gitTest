@@ -1,0 +1,1 @@
+v_{b}=\sqrt{10} \mathrm{~m} / \mathrm{s}

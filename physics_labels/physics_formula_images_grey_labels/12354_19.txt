@@ -1,0 +1,1 @@
+\Delta r_{k}=\frac{C}{r_{k}+r_{k+1}}

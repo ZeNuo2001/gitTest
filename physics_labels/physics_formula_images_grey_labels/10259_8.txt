@@ -1,0 +1,1 @@
+v^{\prime}=\frac{M-m}{M} \cdot u_{0}=2.7 \mathrm{~m} / \mathrm{s}

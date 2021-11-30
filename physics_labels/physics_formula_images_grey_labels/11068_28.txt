@@ -1,0 +1,1 @@
+s=\frac{v_{0}^{\prime 2}}{2 a}=\frac{m v_{0}^{2}}{3 F}<L-2 r

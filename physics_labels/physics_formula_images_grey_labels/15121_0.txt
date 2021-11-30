@@ -1,0 +1,1 @@
+B=\frac{\sqrt{2}}{10} \mathrm{~T}

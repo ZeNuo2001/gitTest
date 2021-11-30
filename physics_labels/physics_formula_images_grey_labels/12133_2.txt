@@ -1,0 +1,1 @@
+\frac{Q}{\Delta E_{k}}=\frac{d}{d+L}=\frac{2}{2+1}=\frac{2}{3}

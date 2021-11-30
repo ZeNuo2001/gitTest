@@ -1,0 +1,1 @@
+L=2.49 \times 10^{6} \mathrm{~J} / \mathrm{kg}

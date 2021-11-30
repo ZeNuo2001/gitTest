@@ -1,0 +1,1 @@
+F_{a}=B I L, F_{b}=\frac{\sqrt{3}}{2} B I L

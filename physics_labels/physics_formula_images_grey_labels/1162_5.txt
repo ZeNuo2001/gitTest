@@ -1,0 +1,1 @@
+\Phi=0.02 \sin 2 \pi t \mathrm{~Wb}

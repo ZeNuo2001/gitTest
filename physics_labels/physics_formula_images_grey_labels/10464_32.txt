@@ -1,0 +1,1 @@
+\pi\left(D_{1}-\frac{L}{n}\right)

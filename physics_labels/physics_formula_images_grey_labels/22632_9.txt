@@ -1,0 +1,4 @@
+\begin{array}{l}
+0.75 \mathrm{~W} \\
+0.30 \mathrm{~W}
+\end{array}

@@ -1,0 +1,1 @@
+\sqrt{\frac{s\left(a+a^{\prime}\right)}{a a^{\prime}}}

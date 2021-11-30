@@ -1,0 +1,1 @@
+l=l_{0} \cdot \sqrt{1-\left(\frac{v}{c}\right)^{2}}=

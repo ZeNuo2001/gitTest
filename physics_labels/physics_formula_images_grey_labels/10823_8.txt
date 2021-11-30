@@ -1,0 +1,1 @@
+m g \sin \theta-F_{\mathrm{N}} \sin \theta-F \cos \theta=m a

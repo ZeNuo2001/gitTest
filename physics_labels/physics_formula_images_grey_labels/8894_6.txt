@@ -1,0 +1,1 @@
+v=1.4 \times 10^{3} \mathrm{~m} / \mathrm{s}

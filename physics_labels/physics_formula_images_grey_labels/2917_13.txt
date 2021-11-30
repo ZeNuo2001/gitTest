@@ -1,0 +1,1 @@
+\frac{n\left(B_{2}-B_{1}\right) S}{t_{2}-t_{1}}

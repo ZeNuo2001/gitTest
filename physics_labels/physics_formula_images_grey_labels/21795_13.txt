@@ -1,0 +1,1 @@
+h \nu_{\mathrm{a}}-E_{\mathrm{ka}}>h \nu_{\mathrm{b}}-E_{\mathrm{kb}}

@@ -1,0 +1,1 @@
+0 \leqslant y \leqslant \frac{u}{2}

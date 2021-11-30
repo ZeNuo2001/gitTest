@@ -1,0 +1,1 @@
+\gamma=c / \lambda, \gamma_{1}=1.5 \times 10^{13} \mathrm{~Hz}, \gamma_{2}=3 \times 10^{13} \mathrm{~Hz}

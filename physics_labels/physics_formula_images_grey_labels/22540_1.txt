@@ -1,0 +1,4 @@
+\begin{array}{l}
+\frac{\sqrt{3} m g}{2 q} \\
+\frac{m g}{q}
+\end{array}

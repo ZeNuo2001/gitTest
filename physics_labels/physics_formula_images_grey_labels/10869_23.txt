@@ -1,0 +1,1 @@
+\left[F \cos 37^{\circ}-\mu\left(m g-F \sin 37^{\circ}\right)\right] s-\mu m g(L-s)=0

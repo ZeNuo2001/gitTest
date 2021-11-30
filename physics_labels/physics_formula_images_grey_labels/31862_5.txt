@@ -1,0 +1,1 @@
+F=\frac{Q^{2}}{\varepsilon_{0} S}

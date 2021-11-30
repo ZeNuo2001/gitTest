@@ -1,0 +1,1 @@
+m_{1} \cdot(\overline{O B}-\overline{O A})=m_{2} \cdot \overline{O C}

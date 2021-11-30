@@ -1,0 +1,1 @@
+v_{\mathrm{m}}=\frac{P_{\mathrm{m}}}{F}=\frac{P_{\mathrm{m}}}{m g}=15 \mathrm{~m} / \mathrm{s}

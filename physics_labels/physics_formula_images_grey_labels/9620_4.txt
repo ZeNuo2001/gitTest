@@ -1,0 +1,1 @@
+k=\frac{m}{M}=\frac{6.1 \times 10^{39}}{3 \times 10^{41}} \approx 2 \%

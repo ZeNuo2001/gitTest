@@ -1,0 +1,6 @@
+\begin{aligned}
+t &=1 \mathrm{~s} \\
+t &=2 \mathrm{~s} \\
+t &=3 \mathrm{~s} \\
+t &=4 \mathrm{~s}
+\end{aligned}

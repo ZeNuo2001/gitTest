@@ -1,0 +1,1 @@
+\frac{\left(R+h_{2}\right)^{2}}{\left(R+h_{1}\right)^{2}}

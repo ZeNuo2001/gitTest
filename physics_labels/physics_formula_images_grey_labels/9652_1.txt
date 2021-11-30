@@ -1,0 +1,1 @@
+\frac{1}{2} m_{\mathrm{n}} v_{\mathrm{n}}^{2}=\frac{1}{2} m_{\mathrm{n}} v_{\mathrm{n}}^{\prime 2}+\frac{1}{2} m_{A} v_{A}^{\prime 2}

@@ -1,0 +1,1 @@
+\frac{\omega_{A}}{\omega_{B}}=\frac{v / R_{A}}{v / R_{B}}=\frac{R_{B}}{R_{A}}=\frac{1}{2}

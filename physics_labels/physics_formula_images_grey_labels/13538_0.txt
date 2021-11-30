@@ -1,0 +1,4 @@
+A. \( \frac{q E}{8} \)
+B. \( \frac{q E}{4} \)
+C. \( \frac{q E}{2} \)
+D. \( q E \)

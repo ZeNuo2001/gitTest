@@ -1,0 +1,1 @@
+t=\frac{1}{4} \cdot \frac{2 \pi m}{B q}+\frac{1}{6} \cdot \frac{2 \pi m}{\frac{1}{2} B q}=\frac{7 \pi m}{6 q B}

@@ -1,0 +1,1 @@
+\frac{k(R-r)}{2 \lambda}

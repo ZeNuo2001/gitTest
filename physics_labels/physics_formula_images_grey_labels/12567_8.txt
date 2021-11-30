@@ -1,0 +1,1 @@
+\Delta E=W_{f}=\mu m g \theta \cos \theta \cdot L=0.25 \times 1 \times 10 \times 0.8 \times 1 \mathrm{~J}=2 \mathrm{~J}

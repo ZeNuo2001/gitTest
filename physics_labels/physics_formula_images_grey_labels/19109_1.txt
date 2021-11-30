@@ -1,0 +1,1 @@
+\frac{\sin \frac{\alpha+\theta}{2}}{\sin \frac{\alpha}{2}}

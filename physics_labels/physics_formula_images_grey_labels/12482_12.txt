@@ -1,0 +1,1 @@
+\sqrt[3]{V_{0}}=\sqrt[3]{\frac{M}{2 N_{A} \rho}}

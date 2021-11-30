@@ -1,0 +1,1 @@
+1.7 \times 10^{-x} \Omega \cdot \mathrm{m}

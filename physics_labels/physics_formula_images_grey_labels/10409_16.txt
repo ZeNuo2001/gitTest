@@ -1,0 +1,1 @@
+F_{V}=m g \cos \theta-m a \sin \theta

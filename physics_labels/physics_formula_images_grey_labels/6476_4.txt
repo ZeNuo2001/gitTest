@@ -1,0 +1,1 @@
+-\frac{\lambda}{2} \leqslant x \leqslant 0

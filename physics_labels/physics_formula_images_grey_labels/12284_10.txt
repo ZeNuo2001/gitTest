@@ -1,0 +1,1 @@
+p_{1}=\frac{T_{1}}{T} p=\frac{273 \mathrm{~K} \times 60 \mathrm{cmHg}}{300 \mathrm{~K}}=54.6 \mathrm{cmHg}

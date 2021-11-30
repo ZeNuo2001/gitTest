@@ -1,0 +1,1 @@
+F=m\left(\operatorname{gtan} \beta-\frac{2 L}{t^{2}}\right)

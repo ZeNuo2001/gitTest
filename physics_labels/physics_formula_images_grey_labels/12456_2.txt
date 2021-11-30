@@ -1,0 +1,1 @@
+l_{2}=T_{2} \frac{l_{1}}{T_{1}}=490 \times \frac{12}{420} \mathrm{~cm}=14 \mathrm{~cm}

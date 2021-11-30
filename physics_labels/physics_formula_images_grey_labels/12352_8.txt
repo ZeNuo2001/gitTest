@@ -1,0 +1,1 @@
+\Delta m=\frac{m}{2 \pi R} \Delta l=\frac{\Delta \theta}{2 \pi} m

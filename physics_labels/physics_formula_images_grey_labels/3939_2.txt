@@ -1,0 +1,1 @@
+B=\frac{8 m}{q} \sqrt{\frac{2 g}{h}}

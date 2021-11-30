@@ -1,0 +1,1 @@
+\cos \alpha \cdot \sqrt{\cos \alpha}

@@ -1,0 +1,1 @@
+\frac{t_{\text {甲 }}}{t_{\text {乙 }}}=\frac{v}{\sqrt{v^{2}-v_{0}^{2}}}>1

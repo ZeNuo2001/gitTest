@@ -1,0 +1,1 @@
+0.6, \sin 15^{\circ}=\frac{\sqrt{2-\sqrt{3}}}{2}

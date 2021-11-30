@@ -1,0 +1,1 @@
+\left|E_{a}-E_{b}\right|=\left|E_{b}-E_{c}\right|

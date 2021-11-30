@@ -1,0 +1,1 @@
+v_{B}=30 \mathrm{~m} / \mathrm{s}

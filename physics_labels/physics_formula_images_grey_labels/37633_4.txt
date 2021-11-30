@@ -1,0 +1,1 @@
+v_{0}^{\prime}=\frac{\sqrt{2 g h}}{2}

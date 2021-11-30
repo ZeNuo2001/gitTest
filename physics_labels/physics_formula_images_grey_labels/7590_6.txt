@@ -1,0 +1,1 @@
+\left(\frac{n_{2}}{n_{1}}\right) \frac{U_{m}^{2}}{4 r}

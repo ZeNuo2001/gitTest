@@ -1,0 +1,1 @@
+O A=2 L, \angle A O B=90^{\circ}, \angle O A B=60^{\circ}

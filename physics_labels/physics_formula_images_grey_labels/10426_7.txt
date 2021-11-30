@@ -1,0 +1,1 @@
+\eta_{2}=\frac{\Delta h}{h}=\frac{0.01 \mathrm{~m}}{2 \mathrm{~m}} \times 100 \%=0.5 \%

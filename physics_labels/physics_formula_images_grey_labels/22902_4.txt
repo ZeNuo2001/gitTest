@@ -1,0 +1,1 @@
+{ }_{53}^{131} \rightarrow{ }_{54}^{131} \mathrm{X} \mathrm{e}+{ }_{-1}^{0} \mathrm{e}

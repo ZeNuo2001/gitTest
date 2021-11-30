@@ -1,0 +1,1 @@
+E=\eta \cdot E_{\mathrm{p}}=8.58 \times 10^{4} Q h \eta(\mathrm{kW} \cdot \mathrm{h})

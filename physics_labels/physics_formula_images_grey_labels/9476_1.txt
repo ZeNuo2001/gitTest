@@ -1,0 +1,1 @@
+\Delta p \geqslant 0.53 \times 10^{-25} \mathrm{~kg} \cdot \mathrm{m} / \mathrm{s}

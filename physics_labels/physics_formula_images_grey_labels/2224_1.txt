@@ -1,0 +1,1 @@
+\varphi_{\mathrm{C}}=2 \mathrm{~V}, \varphi_{E}=(2+\sqrt{3}) \mathrm{V}

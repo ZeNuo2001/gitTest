@@ -1,0 +1,1 @@
+u=220 \sin 100 \pi t(\mathrm{~V})

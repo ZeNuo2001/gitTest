@@ -1,0 +1,1 @@
+\varepsilon=9 \times 10^{-12} \mathrm{~F} / \mathrm{m}

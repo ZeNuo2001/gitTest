@@ -1,0 +1,1 @@
+p_{2}=p_{0}+\frac{M g}{S}=1.5 \times 10^{5} \mathrm{~Pa}

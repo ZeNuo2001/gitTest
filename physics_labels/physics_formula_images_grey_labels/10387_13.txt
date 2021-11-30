@@ -1,0 +1,1 @@
+\mu v_{3}=(\mu \cos \theta+\sin \theta) v_{1}

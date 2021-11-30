@@ -1,0 +1,1 @@
+\Delta x=\frac{4 a c-b^{2}}{4 a}=6 \mathrm{~m}

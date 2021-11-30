@@ -1,0 +1,4 @@
+\begin{array}{r}
+206 \\
+82
+\end{array} P b

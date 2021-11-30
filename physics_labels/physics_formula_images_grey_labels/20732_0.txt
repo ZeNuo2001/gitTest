@@ -1,0 +1,3 @@
+\begin{array}{llll}
+6 & \mathrm{~V} & 3.5 & \mathrm{~W}
+\end{array}

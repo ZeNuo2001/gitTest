@@ -1,0 +1,1 @@
+c_{0}=4.20 \times 10^{3} \mathrm{~J} \cdot\left(\mathrm{kg} \cdot{ }^{\circ} \mathrm{C}\right)^{-1}

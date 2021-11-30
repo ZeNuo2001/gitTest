@@ -1,0 +1,1 @@
+\varphi_{C}=\frac{3 m g^{2} t^{2}}{4 q}

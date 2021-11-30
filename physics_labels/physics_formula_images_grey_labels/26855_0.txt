@@ -1,0 +1,1 @@
+G \frac{M m}{h^{2}}=m\left(\frac{2 \pi}{T}\right)^{2} h

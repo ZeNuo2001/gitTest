@@ -1,0 +1,1 @@
+\rho=\frac{3 \pi}{G T^{2} \tan ^{3} \frac{\theta}{2}}

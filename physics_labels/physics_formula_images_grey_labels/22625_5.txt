@@ -1,0 +1,2 @@
+\( 1 \Omega, 8 \mathbb{W} \)
+\( 0.5 \Omega, 8 \mathrm{~W} \)

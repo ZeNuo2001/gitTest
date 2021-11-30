@@ -1,0 +1,1 @@
+y=\sin \frac{\pi x}{3} \mathrm{~m}

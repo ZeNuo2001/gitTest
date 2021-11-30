@@ -1,0 +1,1 @@
+U_{A B}=\frac{m g d}{q}

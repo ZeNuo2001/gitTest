@@ -1,0 +1,3 @@
+\mathrm{L}\left(\begin{array}{llll}
+2.8 & \mathrm{~V} & 1.8 & \mathrm{~W}
+\end{array}\right.

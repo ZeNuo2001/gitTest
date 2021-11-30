@@ -1,0 +1,1 @@
+{ }_{90}^{232} \mathrm{Th} \rightarrow 6_{2}^{4} \mathrm{He}+4-i \mathrm{e}+{ }_{82}^{208} \mathrm{~Pb}

@@ -1,0 +1,1 @@
+\frac{m_{1}}{m_{2}}=\frac{L+c \Delta t^{\prime}}{\lambda+c \Delta t^{\prime}}=\frac{2.25 \times 10^{6}+4.2 \times 10^{3} \times 50}{3.34 \times 10^{5}+4.2 \times 10^{3} \times 50}=4.5

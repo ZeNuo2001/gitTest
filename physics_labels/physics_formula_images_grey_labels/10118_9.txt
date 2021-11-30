@@ -1,0 +1,1 @@
+Q E_{0} d=\frac{1}{2} m v_{\Lambda_{0}}^{2}, q E_{0} d=\frac{1}{2} \cdot \frac{m}{4} v_{H_{0}}^{2}

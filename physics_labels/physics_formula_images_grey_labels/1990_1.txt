@@ -1,0 +1,1 @@
+10^{9} \sim 6 \times 10^{9} \mathrm{~Hz}

@@ -1,0 +1,3 @@
+\begin{array}{lll}
+4 & 500 & 1
+\end{array}

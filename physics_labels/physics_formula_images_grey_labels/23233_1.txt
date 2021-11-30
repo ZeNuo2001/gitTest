@@ -1,0 +1,1 @@
+\sqrt{\frac{2 n L}{(n+1) a}}

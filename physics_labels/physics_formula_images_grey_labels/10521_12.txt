@@ -1,0 +1,1 @@
+\Delta t^{\prime \prime}=\Delta l-\frac{\Delta t^{\prime}}{2}=

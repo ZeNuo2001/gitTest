@@ -1,0 +1,1 @@
+F=\frac{m\left(v_{1}-v_{2}\right)}{t}

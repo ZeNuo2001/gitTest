@@ -1,0 +1,1 @@
+\sqrt{\frac{\mu g}{2 L}}

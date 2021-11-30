@@ -1,0 +1,1 @@
+m g \sin \theta-\mu F_{\mathrm{N}}-k v \cos \theta=0

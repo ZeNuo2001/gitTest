@@ -1,0 +1,1 @@
+I=\frac{n B S \omega}{R+r}

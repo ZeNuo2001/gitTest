@@ -1,0 +1,1 @@
+u=108 \sqrt{2} \sin \omega t

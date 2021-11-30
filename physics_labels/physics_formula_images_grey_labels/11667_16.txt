@@ -1,0 +1,1 @@
+T_{0}=\frac{T}{2}=\frac{\pi m}{q B_{0}}=\frac{\pi}{20 n}(\mathrm{~s})(n=1,2,3, \cdots)

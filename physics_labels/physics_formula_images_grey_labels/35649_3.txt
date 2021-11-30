@@ -1,0 +1,1 @@
+I_{\mathrm{m}}=\frac{k L_{2}}{B L_{1}}

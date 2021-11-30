@@ -1,0 +1,1 @@
+W=E_{x}-E_{1}=\frac{G M m}{2 R}=\frac{m}{2}\left(\frac{2 \pi G M}{T}\right)^{2 / 3}

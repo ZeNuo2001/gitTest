@@ -1,0 +1,1 @@
+r=\frac{R}{2}=\frac{m v_{0}}{2 q B}

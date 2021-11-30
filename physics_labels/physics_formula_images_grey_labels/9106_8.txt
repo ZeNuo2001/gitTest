@@ -1,0 +1,1 @@
+I=\frac{I_{\mathrm{m}}}{\sqrt{2}}=\frac{0.14}{1.4} \mathrm{~A}=0.10 \mathrm{~A}

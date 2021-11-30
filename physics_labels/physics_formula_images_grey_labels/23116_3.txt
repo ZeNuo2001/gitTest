@@ -1,0 +1,1 @@
+\sqrt{\frac{2 R h v_{0}}{x}}

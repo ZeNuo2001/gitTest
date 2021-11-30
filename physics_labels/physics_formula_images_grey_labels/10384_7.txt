@@ -1,0 +1,1 @@
+\sqrt{\frac{2 h}{g}}+\frac{L-h}{\sqrt{2 g h}}

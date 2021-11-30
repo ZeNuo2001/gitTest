@@ -1,0 +1,1 @@
+U_{\mathrm{m}}=\frac{\sqrt{2} m d^{2} v^{2}}{e l^{2}}

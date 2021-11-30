@@ -1,0 +1,4 @@
+\left(\begin{array}{c}
+20 \\
+10
+\end{array} \mathrm{Ne}\right)

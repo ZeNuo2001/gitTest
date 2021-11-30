@@ -1,0 +1,1 @@
+{ }_{2}^{4} \mathrm{H} \mathrm{e}+{ }_{7}^{14} \mathrm{~N} \rightarrow{ }_{8}^{17} \mathrm{O}+{ }_{1} \mathrm{I}

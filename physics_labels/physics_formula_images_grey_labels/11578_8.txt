@@ -1,0 +1,1 @@
+E=I\left(R_{\text {内 }}+R\right)=1.54 \mathrm{~V}

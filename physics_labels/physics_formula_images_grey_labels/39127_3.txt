@@ -1,0 +1,1 @@
+Q=\left(\frac{m g \sin \theta q}{B L}+\frac{m^{3} g^{2} \sin ^{2} \theta(R+r)}{8 B^{4} L^{4}}\right)(R+r)

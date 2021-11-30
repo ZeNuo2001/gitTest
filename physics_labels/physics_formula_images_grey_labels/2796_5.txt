@@ -1,0 +1,1 @@
+u=22 \sqrt{2} \sin 50 \pi t(\mathrm{~V})

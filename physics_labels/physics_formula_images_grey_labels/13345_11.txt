@@ -1,0 +1,1 @@
+F=\frac{\mu m g}{\sqrt{1+\mu^{2}}} \frac{m}{\sin (\alpha+\beta)}

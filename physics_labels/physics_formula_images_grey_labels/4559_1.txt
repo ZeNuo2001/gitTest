@@ -1,0 +1,1 @@
+\left(m \frac{v_{1}}{t_{1}}+F_{f}\right) v_{1}

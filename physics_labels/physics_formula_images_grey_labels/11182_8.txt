@@ -1,0 +1,1 @@
+q_{1}=\frac{1}{2}\left(a \pm \sqrt{a^{2}-4 b}\right)=\frac{1}{2} \times\left(3 \times 10^{-8}\right.

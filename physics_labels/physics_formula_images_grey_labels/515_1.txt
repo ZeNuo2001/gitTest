@@ -1,0 +1,1 @@
+\frac{\pi s^{3}}{G t^{3} \theta}

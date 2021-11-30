@@ -1,0 +1,1 @@
+=50 \times 0.4 \times 0.20 \times 0.25 \times 100 \pi \mathrm{V}=314 \mathrm{~V}

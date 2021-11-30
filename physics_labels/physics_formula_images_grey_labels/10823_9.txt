@@ -1,0 +1,1 @@
+m g \cos \theta+F \sin \theta-F_{\mathrm{N}} \cos \theta=0

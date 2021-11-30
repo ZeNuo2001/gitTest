@@ -1,0 +1,1 @@
+B=\frac{m v_{2}}{q \sqrt{2} R_{0}}=\frac{\sqrt{2} m v_{2}}{2 q R_{0}}

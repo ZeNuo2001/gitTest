@@ -1,0 +1,4 @@
+\begin{array}{l}
+16 \pi \times 10^{-5} \mathrm{~s} \\
+4 \pi \times 10^{-5} \mathrm{~s}
+\end{array}

@@ -1,0 +1,1 @@
+\omega=\frac{1}{\sin \theta} \sqrt{\frac{g \cos \theta}{h}}

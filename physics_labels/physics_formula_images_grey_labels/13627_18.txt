@@ -1,0 +1,1 @@
+B \pi r^{\prime 2}\left(\cos 30^{\circ}-1\right)=0.8 \times 3.14 \times\left(5 \times 10^{-3}\right)^{2} \times(0.866-1) \quad \mathrm{Wb}=-8.4 \times

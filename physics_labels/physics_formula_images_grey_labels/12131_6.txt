@@ -1,0 +1,1 @@
+c=0.11 \mathrm{cal} /\left(\mathrm{g} \cdot{ }^{\circ} \mathrm{C}\right)

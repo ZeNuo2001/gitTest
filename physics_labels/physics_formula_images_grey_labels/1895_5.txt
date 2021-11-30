@@ -1,0 +1,1 @@
+0.0005 \mathrm{~m} / \mathrm{s}^{2}

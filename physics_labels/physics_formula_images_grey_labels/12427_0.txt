@@ -1,0 +1,1 @@
+\sqrt{\frac{2(2+\sqrt{2}) m v_{0} r}{B^{2}}+\left(v_{0} t_{0}\right)^{2}}

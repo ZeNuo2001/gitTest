@@ -1,0 +1,1 @@
+\frac{U_{1} e}{\nu_{1}-\nu_{\mathrm{c}}}

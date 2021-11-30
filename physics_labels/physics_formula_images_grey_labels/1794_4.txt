@@ -1,0 +1,1 @@
+y=0.05 \sin \left(2 \pi t+\frac{\pi}{2}\right)

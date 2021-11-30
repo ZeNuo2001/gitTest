@@ -1,0 +1,1 @@
+\text { A. } \frac{v_{0}}{g}<\Delta l<\frac{2 v_{0}}{g}

@@ -1,0 +1,1 @@
+\left(\frac{b \Delta U}{R}\right)^{2} R

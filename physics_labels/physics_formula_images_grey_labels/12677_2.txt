@@ -1,0 +1,1 @@
+R_{\mathrm{s}}=6.96 \times 10^{5} \mathrm{~km}

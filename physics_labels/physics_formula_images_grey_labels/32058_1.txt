@@ -1,0 +1,1 @@
+E_{\mathrm{m}}=\frac{1}{2} B l_{1} l_{2} \omega

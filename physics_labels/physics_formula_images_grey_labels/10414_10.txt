@@ -1,0 +1,1 @@
+2 \pi k \sigma_{0}\left[1-\frac{x}{\left(r^{2}+x^{2}\right)^{1 / 2}}\right]

@@ -1,0 +1,1 @@
+x=v t=10 \times 5 \mathrm{~m}=50 \mathrm{~m}

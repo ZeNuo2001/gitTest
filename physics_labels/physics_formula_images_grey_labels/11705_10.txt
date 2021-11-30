@@ -1,0 +1,1 @@
+M=\frac{m I t}{q}

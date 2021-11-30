@@ -1,0 +1,1 @@
+F_{\mathrm{I}}=\frac{E_{\mathrm{k} 0}}{x_{0}}

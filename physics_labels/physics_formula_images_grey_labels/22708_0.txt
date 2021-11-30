@@ -1,0 +1,6 @@
+\begin{array}{l}
+U_{1} \\
+U_{1} \\
+U_{1} \\
+U_{1}
+\end{array}

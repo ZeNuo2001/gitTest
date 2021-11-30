@@ -1,0 +1,1 @@
+{ }_{11}^{24} \mathrm{Na} \rightarrow{ }_{12}^{24} \mathrm{Mg}+{ }_{-1}^{0} \mathrm{e}

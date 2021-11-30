@@ -1,0 +1,1 @@
+E_{2}=\frac{m g \tan \alpha}{Q}

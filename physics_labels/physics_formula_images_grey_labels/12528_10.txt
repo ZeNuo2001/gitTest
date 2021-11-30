@@ -1,0 +1,1 @@
+m_{1} \lambda+m_{\mathrm{I}} c \Delta t^{\prime}=m_{2} L+c m_{2} \Delta t^{\prime}

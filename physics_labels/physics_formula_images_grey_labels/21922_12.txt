@@ -1,0 +1,1 @@
+\tan \alpha=\frac{E_{a 2}}{E_{a 1}}=\frac{1}{2}

@@ -1,0 +1,1 @@
+\frac{\Delta U}{\Delta I}=2 R_{0}

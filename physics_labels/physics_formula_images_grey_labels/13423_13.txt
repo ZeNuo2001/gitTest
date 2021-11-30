@@ -1,0 +1,1 @@
+v_{\mathrm{y}}=g t=20 \mathrm{~m} / \mathrm{s}

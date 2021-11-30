@@ -1,0 +1,1 @@
+R=\frac{1}{B} \sqrt{\frac{2 m U}{q}}

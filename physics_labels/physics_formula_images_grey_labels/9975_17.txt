@@ -1,0 +1,1 @@
+t=\sqrt{\frac{2 L}{a+2.3^{2} a}}=\sqrt{\frac{2 \times 20}{11.5+2.3^{2} \times 5}} \mathrm{~s} \approx 1.03 \mathrm{~s}

@@ -1,0 +1,1 @@
+H=50 \mathrm{~cm}, h_{1}=31 \mathrm{~cm}, h_{2}=45 \mathrm{~cm}

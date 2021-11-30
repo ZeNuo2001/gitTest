@@ -1,0 +1,4 @@
+\begin{array}{l}
+c \rightarrow d \\
+d \rightarrow a
+\end{array}

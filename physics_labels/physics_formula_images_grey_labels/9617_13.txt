@@ -1,0 +1,1 @@
+v_{a}=\frac{E}{B}=1.11 \times 10^{8} \mathrm{~m} / \mathrm{s}

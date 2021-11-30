@@ -1,0 +1,6 @@
+\begin{array}{l}
+F_{\mathrm{Nt}_{2}}=F_{\mathrm{N} 1} \sin \theta_{1}=m_{1} g \cos \theta_{1} \sin \theta_{1} \\
+F_{\mathrm{N} 2 \mathrm{x}}=F_{\mathrm{N} 2} \sin \theta_{2}=m_{2} g \cos \theta_{2} \sin \theta_{2} \\
+F_{12}=F_{1} \cos \theta_{1}=m_{1} g \cos \theta_{1} \sin \theta_{1} \\
+F_{2 \mathrm{x}}=F_{2} \cos \theta_{2}=m_{2} g \cos \theta_{2} \sin \theta_{2}
+\end{array}

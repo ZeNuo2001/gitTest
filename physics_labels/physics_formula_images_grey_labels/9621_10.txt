@@ -1,0 +1,1 @@
+Q=P t=1.0 \times 10^{9} \times 3.6 \times 10^{3} \times 24 \times 365 \mathrm{~J}=3.2 \times 10^{16} \mathrm{~J}

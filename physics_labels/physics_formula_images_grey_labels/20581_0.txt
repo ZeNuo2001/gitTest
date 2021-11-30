@@ -1,0 +1,1 @@
+\frac{m+M}{m} \sqrt{2 \mu g s}

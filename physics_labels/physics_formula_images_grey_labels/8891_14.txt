@@ -1,0 +1,1 @@
+\Delta x=n \lambda+(\lambda-0.2)=2 n+1.8(n=0,1,2, \cdots)

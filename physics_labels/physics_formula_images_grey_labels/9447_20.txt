@@ -1,0 +1,1 @@
+\frac{\pi \sigma T^{4} r^{2}}{(400)^{2}}=4 \pi r^{2} \sigma T^{4}

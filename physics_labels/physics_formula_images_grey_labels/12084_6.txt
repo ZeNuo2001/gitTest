@@ -1,0 +1,1 @@
+\Phi=\frac{T}{\pi} \sin \frac{2 \pi}{T} t

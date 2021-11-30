@@ -1,0 +1,1 @@
+R_{4}(0 \sim 10 \Omega, 1 \mathrm{~A})

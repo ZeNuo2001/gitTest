@@ -1,0 +1,1 @@
+v \Delta t=v^{\prime} \Delta t \cdot \cos \theta

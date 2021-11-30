@@ -1,0 +1,6 @@
+\begin{aligned}
+n &=1.5 \\
+n &=1.5 \\
+n &=0.67 \\
+n &=0.67
+\end{aligned}

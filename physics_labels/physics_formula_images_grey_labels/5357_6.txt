@@ -1,0 +1,1 @@
+\varphi_{P}=k \frac{q d}{x}

@@ -1,0 +1,1 @@
+\frac{B d v}{R+\rho \frac{d}{S}}=\frac{B d v S}{R S+\rho d}

@@ -1,0 +1,1 @@
+C=\frac{\varepsilon S}{4 \pi k d}

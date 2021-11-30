@@ -1,0 +1,1 @@
+\Delta E_{\mathrm{p}_{\boldsymbol{\rho}}}=E_{\mathrm{pa}}-E_{\mathrm{p} b}=3 q(\mathrm{~J})

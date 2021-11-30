@@ -1,0 +1,5 @@
+\begin{array}{r}
+U_{0} \\
+O \\
+-U_{0}
+\end{array}

@@ -1,0 +1,1 @@
+p h S=(p+\Delta p)\left(h-\frac{1}{4} h\right) S

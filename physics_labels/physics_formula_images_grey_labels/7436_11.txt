@@ -1,0 +1,1 @@
+\frac{P}{\sqrt{m^{2} v_{0}^{2}+2 m(P t-f d)}} \cos \theta-\frac{f}{m}

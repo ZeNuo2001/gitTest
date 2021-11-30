@@ -1,0 +1,1 @@
+l_{2} \cos 37^{\circ}, \cdots, W_{n}=F l_{n} \cos 37^{\circ}

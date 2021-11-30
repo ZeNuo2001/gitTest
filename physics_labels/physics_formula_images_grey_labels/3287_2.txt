@@ -1,0 +1,1 @@
+a=\frac{4 I}{m_{0}} \sqrt{\frac{M U}{e}}

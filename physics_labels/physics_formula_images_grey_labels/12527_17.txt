@@ -1,0 +1,1 @@
+h=\frac{m}{4 \pi R^{2} \rho}=\frac{5.14 \times 10^{17}}{4 \pi \times\left(6.37 \times 10^{6}\right)^{2} \times 10^{3}} \mathrm{~m}=1.01 \times 10^{3} \mathrm{~mm}

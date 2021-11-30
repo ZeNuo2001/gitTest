@@ -1,0 +1,5 @@
+\begin{array}{l}
+a \rightarrow b \\
+a \rightarrow b \\
+b \rightarrow c
+\end{array}

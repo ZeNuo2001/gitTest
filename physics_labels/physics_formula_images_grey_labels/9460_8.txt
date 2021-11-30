@@ -1,0 +1,1 @@
+P_{w}=\frac{n h \nu}{\Delta t}

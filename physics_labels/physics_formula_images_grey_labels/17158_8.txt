@@ -1,0 +1,1 @@
+10 \sin \left(\frac{5}{3}\right) \pi t(\mathrm{~cm})

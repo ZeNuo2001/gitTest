@@ -1,0 +1,1 @@
+N=\frac{M}{4 m_{\mathrm{p}}} \times 10 \%

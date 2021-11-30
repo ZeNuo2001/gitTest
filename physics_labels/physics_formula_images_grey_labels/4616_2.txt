@@ -1,0 +1,1 @@
+E_{\mathrm{k}_{1}}=E_{\mathrm{k}_{2}}

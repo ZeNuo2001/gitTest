@@ -1,0 +1,1 @@
+l_{2}=\frac{p_{1} l_{1}}{p_{2}}=75 \times \frac{40}{50} \mathrm{~cm}=60 \mathrm{~cm}

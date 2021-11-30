@@ -1,0 +1,1 @@
+\left|\frac{\Delta U}{\Delta I}\right|=\frac{R_{1}}{k^{2}}

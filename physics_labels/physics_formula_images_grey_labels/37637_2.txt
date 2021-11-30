@@ -1,0 +1,1 @@
+d=\frac{T}{4} \sqrt{\frac{q U}{m}}

@@ -1,0 +1,1 @@
+L+\frac{F}{k}=L+\frac{m g}{k \cos \theta}

@@ -1,0 +1,5 @@
+\begin{array}{l}
+F_{C}=G \\
+F_{A}=\frac{\sqrt{3}}{2} G \\
+F_{B}=\frac{1}{2} G
+\end{array}

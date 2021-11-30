@@ -1,0 +1,1 @@
+t=\sqrt{\frac{2 d}{a}}=\sqrt{\frac{2 d m}{Q E_{0}}}

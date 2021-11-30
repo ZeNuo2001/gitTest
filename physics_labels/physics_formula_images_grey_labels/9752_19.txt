@@ -1,0 +1,1 @@
+\frac{1}{2} m v_{0}^{2}=\frac{1}{2} m\left(v_{A}+v_{B}\right)^{2}-m v_{A} v_{B}+h \nu=\frac{1}{2} m v_{0}^{2}-m v_{A}\left(v_{0}-v_{A}\right)+

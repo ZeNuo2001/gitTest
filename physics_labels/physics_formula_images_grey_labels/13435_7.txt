@@ -1,0 +1,1 @@
+\sqrt{\frac{\mu g \cos \theta-g \sin \theta}{L}}, \mathrm{C}

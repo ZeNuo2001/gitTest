@@ -1,0 +1,1 @@
+\frac{v^{\prime}}{v}=\sqrt{\frac{M^{\prime}}{M} \cdot \frac{R}{R^{\prime}}}=\sqrt{\frac{p}{q}}

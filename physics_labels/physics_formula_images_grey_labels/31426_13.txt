@@ -1,0 +1,1 @@
+P_{\mathrm{m}}=5 \times 10^{6} \mathrm{~W}

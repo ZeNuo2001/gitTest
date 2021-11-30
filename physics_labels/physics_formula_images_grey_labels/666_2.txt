@@ -1,0 +1,1 @@
+{ }_{1}^{2} \mathrm{H}+{ }_{1} \mathrm{H} \rightarrow{ }_{2}^{4} \mathrm{He}+{ }_{0}^{1} \mathrm{n}

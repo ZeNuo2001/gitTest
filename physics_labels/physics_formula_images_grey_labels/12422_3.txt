@@ -1,0 +1,1 @@
+-\frac{B^{2} l^{2}}{R} \sum v \Delta t=m \sum \Delta v

@@ -1,0 +1,1 @@
+\frac{2 R}{v}<t<\frac{(2+\pi) R}{2 v}

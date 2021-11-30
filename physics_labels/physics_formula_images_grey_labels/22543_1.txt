@@ -1,0 +1,1 @@
+Q_{B}=\frac{m g d^{2} \tan \theta}{k Q}

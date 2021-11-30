@@ -1,0 +1,1 @@
+I_{\min }=\frac{4 \mathrm{~V}}{(15+50+100) \Omega} \approx 24 \mathrm{~mA}

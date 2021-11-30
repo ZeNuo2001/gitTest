@@ -1,0 +1,1 @@
+\frac{h\left(\lambda_{0}-\lambda\right)}{e \lambda_{0} \lambda}

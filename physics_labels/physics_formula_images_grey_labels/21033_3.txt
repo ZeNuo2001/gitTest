@@ -1,0 +1,1 @@
+\left(\frac{N}{N-1}\right)^{\frac{3}{2}}

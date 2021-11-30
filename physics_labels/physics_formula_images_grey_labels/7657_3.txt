@@ -1,0 +1,1 @@
+\frac{m_{1}}{\sqrt{B^{\prime} N}}=\frac{m_{1}}{\sqrt{B^{\prime} M}}+\frac{m_{B}}{\sqrt{B^{\prime} P}}

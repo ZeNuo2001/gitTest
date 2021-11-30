@@ -1,0 +1,1 @@
+{ }_{7}^{14} \mathrm{~N}+{ }_{2}^{4} \mathrm{He} \longrightarrow{ }_{8}^{17} \mathrm{O}+_{1}^{1} \mathrm{H}

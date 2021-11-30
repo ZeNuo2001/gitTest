@@ -1,0 +1,1 @@
+\frac{I \Delta l}{e S} \sqrt{\frac{m}{2 e U}}

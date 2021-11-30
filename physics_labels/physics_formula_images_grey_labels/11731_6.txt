@@ -1,0 +1,1 @@
+F=k Q q\left[\frac{1}{x^{2}}-\frac{2}{(x+1)^{2}}\right]

@@ -1,0 +1,1 @@
+U_{R}=6 \mathrm{~V}-2.8 \mathrm{~V}=3.2 \mathrm{~V}

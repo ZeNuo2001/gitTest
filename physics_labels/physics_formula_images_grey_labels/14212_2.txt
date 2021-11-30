@@ -1,0 +1,1 @@
+E=\frac{m g(h+d)}{q d}

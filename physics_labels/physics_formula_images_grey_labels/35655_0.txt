@@ -1,0 +1,4 @@
+\begin{array}{l}
+1: 1 \\
+\sqrt{3}: \sqrt{2}
+\end{array}

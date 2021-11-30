@@ -1,0 +1,1 @@
+\frac{e U_{\mathrm{c} 2}-e U_{\mathrm{cl}}}{h}

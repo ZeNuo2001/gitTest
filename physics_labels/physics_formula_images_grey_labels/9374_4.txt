@@ -1,0 +1,1 @@
+\left(m_{A}+m_{B}\right) v=\left(m_{A}+m_{B}+m_{C}\right) v_{1}

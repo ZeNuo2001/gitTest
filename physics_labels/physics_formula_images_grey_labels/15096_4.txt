@@ -1,0 +1,1 @@
+\frac{(F-m g \sin \alpha) R}{B^{2} l_{1}^{2}}

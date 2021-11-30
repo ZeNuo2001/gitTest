@@ -1,0 +1,7 @@
+{ }_{6}^{14} \longrightarrow \rightarrow \begin{array}{c}
+14 \\
+7
+\end{array} \mathrm{~N}+\begin{array}{c}
+0 \\
+-1
+\end{array}

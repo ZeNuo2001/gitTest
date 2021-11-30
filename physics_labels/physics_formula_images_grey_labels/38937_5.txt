@@ -1,0 +1,1 @@
+\sqrt{\frac{\left(R+h_{1}\right)^{3}}{\left(R+h_{2}\right)^{3}}}

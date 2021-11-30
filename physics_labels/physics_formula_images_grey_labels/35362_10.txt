@@ -1,0 +1,1 @@
+R_{1}(0 \sim 3 \Omega, 2.0 \mathrm{~A})

@@ -1,0 +1,1 @@
+\frac{F}{f}=\frac{G R_{\mathrm{e}} S T^{2}}{4 \pi g R c r_{\mathrm{sc}}}

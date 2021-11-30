@@ -1,0 +1,1 @@
+\text { B. } \frac{\omega^{2} r}{\sqrt{g^{2}-\left(\omega^{2} r\right)^{2}}}

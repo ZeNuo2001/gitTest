@@ -1,0 +1,1 @@
+T=\frac{60}{10} \mathrm{~s}=6 \mathrm{~s}

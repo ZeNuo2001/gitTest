@@ -1,0 +1,1 @@
+\rho=\frac{m v S \Delta I}{e t I^{2}}

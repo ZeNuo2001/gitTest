@@ -1,0 +1,1 @@
+T=2 \pi \sqrt{L C}=2 \pi \sqrt{4 \times 10^{-4} \times \frac{10^{-8}}{\pi^{2}}} \mathrm{~s}=4 \times 10^{-6} \mathrm{~s}

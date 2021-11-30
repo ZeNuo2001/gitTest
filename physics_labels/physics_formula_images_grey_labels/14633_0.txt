@@ -1,0 +1,1 @@
+G_{A}=\frac{1}{2} G_{B}=\frac{1}{3} G_{C}=10 \mathrm{~N}

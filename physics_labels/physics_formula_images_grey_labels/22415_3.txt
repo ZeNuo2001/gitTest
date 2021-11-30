@@ -1,0 +1,4 @@
+\begin{array}{l}
+9 F_{0} \\
+5 F_{0}
+\end{array}

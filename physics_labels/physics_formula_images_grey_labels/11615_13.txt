@@ -1,0 +1,1 @@
+I_{\mathrm{m}} \approx \frac{E}{R_{x}+R_{\mathrm{A}_{1}}} \approx 0.14 \mathrm{~A}

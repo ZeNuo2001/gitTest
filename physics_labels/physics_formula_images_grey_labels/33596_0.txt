@@ -1,0 +1,4 @@
+f(x)=\left\{\begin{array}{l}
+2^{x}, x \leqslant 0, \\
+f(x-3), x>0
+\end{array}\right.

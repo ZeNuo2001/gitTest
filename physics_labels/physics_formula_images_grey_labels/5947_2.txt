@@ -1,0 +1,1 @@
+G \frac{M m}{\left(R+h_{1}\right)^{2}}=m \frac{v_{1}^{2}}{r}, G \frac{M m}{\left(R+h_{2}\right)^{2}}=m \frac{v_{2}^{2}}{R+h_{2}}

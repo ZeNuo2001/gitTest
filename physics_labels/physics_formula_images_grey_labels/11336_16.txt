@@ -1,0 +1,1 @@
+W_{G}=m g l \sin 45^{\circ}+2 m g l\left(1-\sin 60^{\circ}\right)

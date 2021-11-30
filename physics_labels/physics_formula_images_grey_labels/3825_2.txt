@@ -1,0 +1,1 @@
+F_{\mathrm{N}}=\frac{16 m \pi^{2} R}{T^{2}}

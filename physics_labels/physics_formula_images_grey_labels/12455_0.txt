@@ -1,0 +1,1 @@
+p_{1}=p_{0}+\frac{F_{1}}{S_{A}-S_{B}}=1.2 \times 10^{5} \mathrm{~Pa}

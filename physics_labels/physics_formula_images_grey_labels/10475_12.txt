@@ -1,0 +1,1 @@
+\frac{L_{2}}{v}=\frac{d}{u}=\frac{L_{1}}{u-v}+\frac{L_{1}}{u+v}

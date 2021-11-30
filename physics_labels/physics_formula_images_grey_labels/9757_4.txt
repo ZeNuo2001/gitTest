@@ -1,0 +1,1 @@
+2 \pi\left(2 r_{n}\right)=n \lambda_{n}

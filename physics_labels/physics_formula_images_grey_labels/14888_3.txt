@@ -1,0 +1,1 @@
+q=\frac{v g}{k U d}

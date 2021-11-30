@@ -1,0 +1,1 @@
+x=0.08 \sin \pi t(\mathrm{~m})

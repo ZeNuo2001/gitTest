@@ -1,0 +1,1 @@
+h=\frac{m H+\frac{1}{8} \pi \rho L^{2} d^{2}}{\frac{5}{8} \pi m+\frac{1}{4} \pi \rho L d^{2}-m}=\frac{60 \times 10+\frac{1}{8} \pi \times 10^{3} \times 1^{2} \times(0.30)^{2}}{\frac{5}{8} \pi \times 60+\frac{1}{4} \pi \times 10^{3} \times 1 \times(0.30)^{2}-60} \mathrm{~m}=4.9 \mathrm{~m}

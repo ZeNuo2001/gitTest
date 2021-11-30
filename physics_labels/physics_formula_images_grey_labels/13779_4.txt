@@ -1,0 +1,1 @@
+p_{A}=12 \mathrm{~kg} \cdot \mathrm{m} / \mathrm{s}, p_{B}=13 \mathrm{~kg} \cdot \mathrm{m} / \mathrm{s}

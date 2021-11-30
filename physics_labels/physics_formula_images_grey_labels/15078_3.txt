@@ -1,0 +1,1 @@
+I=\frac{2 \pi B R v}{\rho}

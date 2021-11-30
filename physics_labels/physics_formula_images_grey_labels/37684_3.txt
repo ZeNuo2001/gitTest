@@ -1,0 +1,4 @@
+\begin{array}{l}
+E_{2} \\
+E_{1}
+\end{array}

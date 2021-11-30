@@ -1,0 +1,1 @@
+=\frac{2 m g v \sin \theta}{3}

@@ -1,0 +1,4 @@
+\left(\begin{array}{ll}
+60 & 00 \\
+27 & (\mathrm{O})
+\end{array}\right.

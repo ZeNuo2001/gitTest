@@ -1,0 +1,1 @@
+\varphi_{x}=\frac{C}{\sqrt{d^{2}+x^{2}}}

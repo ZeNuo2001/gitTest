@@ -1,0 +1,1 @@
+P=50 \mathrm{~kW}, v_{1}=90 \mathrm{~km} / \mathrm{h}=25 \mathrm{~m} / \mathrm{s}

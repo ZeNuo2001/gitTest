@@ -1,0 +1,1 @@
+\frac{\sqrt{2} E_{\mathrm{k}}}{2 q d}

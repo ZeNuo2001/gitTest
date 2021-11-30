@@ -1,0 +1,1 @@
+u_{0}=9.6 \mathrm{~km} / \mathrm{s}

@@ -1,0 +1,1 @@
+q=B L^{2}\left(\frac{\sqrt{3}}{2 R}+2 \omega C\right)

@@ -1,0 +1,1 @@
+U_{\mathrm{k} \mathrm{x}}=0, U_{\mathrm{cd}}=6 \mathrm{~V}

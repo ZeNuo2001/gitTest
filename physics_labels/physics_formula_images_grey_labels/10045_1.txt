@@ -1,0 +1,1 @@
+\frac{1}{v} /\left(\mathbf{B} \cdot \mathbf{m}^{-1}\right)

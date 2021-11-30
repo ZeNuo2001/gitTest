@@ -1,0 +1,1 @@
+I_{\mathrm{m}}^{\prime} \approx \frac{E}{R_{x}+R_{\mathrm{A}_{2}}} \approx 0.18 \mathrm{~A}

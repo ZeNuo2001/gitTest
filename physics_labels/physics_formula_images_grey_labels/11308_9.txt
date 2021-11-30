@@ -1,0 +1,1 @@
+\frac{m v_{B}^{2}}{2 q s \cos \theta}=\frac{75000}{\cos \theta} \mathrm{V} / \mathrm{m}

@@ -1,0 +1,1 @@
+\sqrt{F^{2}+\left(m g+m_{1} g\right)^{2}}

@@ -1,0 +1,1 @@
+a=\left(M^{\prime}+m^{\prime}\right) g / M

@@ -1,0 +1,1 @@
+q=6.4 \times 10^{7} \mathrm{~J} / \mathrm{kg}

@@ -1,0 +1,1 @@
+\omega=200 \mathrm{rad} / \mathrm{s}

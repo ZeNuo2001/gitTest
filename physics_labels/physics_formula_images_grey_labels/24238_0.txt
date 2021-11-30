@@ -1,0 +1,1 @@
+R=\frac{\Delta U}{\Delta I}=\frac{2.6-1.0}{0.45} \Omega=3.6 \Omega

@@ -1,0 +1,1 @@
+{ }_{84}^{210} \mathrm{Po} \rightarrow{ }_{82} \mathrm{X}+{ }_{2}^{4} \mathrm{He}+\gamma

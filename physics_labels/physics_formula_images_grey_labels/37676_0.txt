@@ -1,0 +1,4 @@
+\begin{array}{c}
+{ }_{6}^{12} \mathrm{C} \\
+{ }_{2} \mathrm{He} /{ }^{16} \mathrm{O}
+\end{array}

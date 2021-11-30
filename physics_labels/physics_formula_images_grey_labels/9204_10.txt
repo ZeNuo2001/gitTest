@@ -1,0 +1,4 @@
+\begin{array}{l}
+y / \mathrm{cm} \\
+t=2.5 \mathrm{~s}
+\end{array}

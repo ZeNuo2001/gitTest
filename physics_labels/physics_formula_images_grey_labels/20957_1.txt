@@ -1,0 +1,1 @@
+\mathcal{V}_{\mathrm{BA}}=v_{\mathrm{B}}-v_{\mathrm{A}}

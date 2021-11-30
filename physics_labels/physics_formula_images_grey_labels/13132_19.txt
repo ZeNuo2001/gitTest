@@ -1,0 +1,1 @@
+\sqrt{v_{0}^{2}-\frac{f l}{2 m}}<v<\sqrt{v_{0}^{2}+\frac{3 f l}{2 m}}

@@ -1,0 +1,1 @@
+\sqrt{R g \sin \frac{\theta}{2}}

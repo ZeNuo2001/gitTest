@@ -1,0 +1,1 @@
+v^{2}-\frac{q B R \sin \theta}{m} v+\frac{g R \sin ^{2} \theta}{\cos \theta}=0

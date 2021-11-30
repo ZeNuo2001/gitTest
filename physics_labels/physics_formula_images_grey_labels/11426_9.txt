@@ -1,0 +1,1 @@
+R=\frac{U_{0}}{I_{0}}=\frac{\Delta U_{2}}{\Delta I_{2}}

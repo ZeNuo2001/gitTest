@@ -1,0 +1,1 @@
+\rho\left[\pi R^{2}(h-R)+\frac{1}{2} \times \frac{4}{3} \pi R^{3}\right] \lambda .

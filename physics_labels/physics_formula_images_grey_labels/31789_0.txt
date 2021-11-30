@@ -1,0 +1,1 @@
+E_{r}=\frac{k q Q}{r}

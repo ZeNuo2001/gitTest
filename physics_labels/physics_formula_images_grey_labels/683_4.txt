@@ -1,0 +1,1 @@
+\cos \alpha \leqslant \cos \beta-\frac{R-d}{2 R}

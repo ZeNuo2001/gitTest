@@ -1,0 +1,1 @@
+\frac{\left|v_{n}^{\prime}\right|}{\left|v_{n}\right|}=\frac{k-1}{k+1}

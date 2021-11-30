@@ -1,0 +1,4 @@
+\begin{array}{l}
+0.3 \mathrm{~A} \\
+0.08 \mathrm{~A}
+\end{array}

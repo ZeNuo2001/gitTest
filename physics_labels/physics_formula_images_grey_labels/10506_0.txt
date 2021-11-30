@@ -1,0 +1,1 @@
+t=\frac{N}{u+v}=\frac{16}{u}, t^{\prime}=\frac{N}{u-v}=\frac{48}{u}

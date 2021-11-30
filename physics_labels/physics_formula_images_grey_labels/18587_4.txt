@@ -1,0 +1,1 @@
+E_{\mathrm{k}}=10.0 \mathrm{~J}

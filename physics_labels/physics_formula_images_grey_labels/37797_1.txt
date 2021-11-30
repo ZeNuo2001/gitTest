@@ -1,0 +1,1 @@
+v_{\mathrm{mi}}=\frac{P}{F_{\mathrm{si}}}

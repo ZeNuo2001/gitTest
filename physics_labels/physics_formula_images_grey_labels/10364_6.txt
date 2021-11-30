@@ -1,0 +1,1 @@
+F_{\mathrm{n} 1}=2 N B L^{2} \omega

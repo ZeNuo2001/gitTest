@@ -1,0 +1,5 @@
+\begin{array}{l}
+\mathrm{S}_{2} \\
+\mathrm{~S}_{2} \\
+\mathrm{~S}_{2}
+\end{array}

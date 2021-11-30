@@ -1,0 +1,1 @@
+N_{A}=50 \sqrt{3} \mathrm{~N}, N_{B}=50 \mathrm{~N}

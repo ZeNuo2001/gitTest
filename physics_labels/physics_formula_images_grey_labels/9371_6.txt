@@ -1,0 +1,1 @@
+3 v \cdot t+\left|v^{\prime}\right| t=4 v \sqrt{\frac{2 h}{g}}

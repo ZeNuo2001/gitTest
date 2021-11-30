@@ -1,0 +1,1 @@
+{ }_{810}^{210} \mathrm{Po} \rightarrow{ }_{8}^{y} \mathrm{X}+{ }_{2}^{4} \mathrm{He}+\gamma

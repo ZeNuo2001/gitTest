@@ -1,0 +1,1 @@
+T^{\prime}=\frac{p}{p_{1}} T_{1}=\frac{59}{60} \times 300 \mathrm{~K}=295 \mathrm{~K}

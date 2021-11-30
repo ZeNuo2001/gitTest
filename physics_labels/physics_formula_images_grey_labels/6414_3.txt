@@ -1,0 +1,1 @@
+m_{1}=0.2 \mathrm{~kg}, m_{2}=0.5 \mathrm{~kg}

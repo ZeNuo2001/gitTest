@@ -1,0 +1,1 @@
+\bar{P}=\frac{W_{1}+W_{2}}{2 t}=\frac{2 \times 1+2.5}{2}=\frac{4.5}{2} \mathrm{~W}=\frac{9}{4} \mathrm{~W}

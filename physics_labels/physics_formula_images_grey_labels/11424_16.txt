@@ -1,0 +1,1 @@
+E=\frac{U}{d}=\frac{1 \times 10^{9}}{1000} \mathrm{~V} / \mathrm{m}=1 \times 10^{6} \mathrm{~V} / \mathrm{m}

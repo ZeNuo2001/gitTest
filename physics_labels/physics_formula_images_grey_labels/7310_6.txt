@@ -1,0 +1,1 @@
+\frac{1}{2} v\left(t_{0}-t\right), \frac{M_{0}}{U_{0}}\left(U-U_{0}\right)

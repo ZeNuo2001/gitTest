@@ -1,0 +1,1 @@
+T=2 \pi \sqrt{L C}=6.28 \times 10^{-5} \mathrm{~s}

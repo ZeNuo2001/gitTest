@@ -1,0 +1,1 @@
+v_{1}^{\prime} \approx v_{1}

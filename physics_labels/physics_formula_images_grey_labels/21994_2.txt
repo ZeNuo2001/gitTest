@@ -1,0 +1,1 @@
+\frac{p_{0}}{\cos \theta}+\frac{m g}{S \cos \theta}

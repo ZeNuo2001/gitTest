@@ -1,0 +1,1 @@
+P_{1}=F(\sin \theta-\cos \theta) v=\frac{(B l v)^{2}}{2 R}(\sin \theta-\cos \theta)^{2}

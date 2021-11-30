@@ -1,0 +1,1 @@
+\text { D. } \frac{P v_{1} v_{2}}{m\left(v_{1}-v_{2}\right)}

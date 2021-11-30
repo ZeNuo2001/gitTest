@@ -1,0 +1,1 @@
+\delta=\frac{\left|k-k_{0}\right|}{k_{0}} \times 100 \%

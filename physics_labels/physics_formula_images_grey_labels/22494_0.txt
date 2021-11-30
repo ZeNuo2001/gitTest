@@ -1,0 +1,1 @@
+\frac{\Delta m v_{0}}{M-\Delta m}

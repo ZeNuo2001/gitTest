@@ -1,0 +1,4 @@
+\begin{array}{l}
+20 \mathrm{~m} / \mathrm{s} \\
+25 \mathrm{~m} / \mathrm{s}
+\end{array}

@@ -1,0 +1,1 @@
+I=\frac{1}{2} a t^{2}=\frac{1}{2} \frac{F}{m} t^{2}=\frac{q U t^{2}}{2 m L}

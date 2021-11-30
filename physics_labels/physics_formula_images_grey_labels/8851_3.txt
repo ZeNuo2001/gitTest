@@ -1,0 +1,1 @@
+T^{\prime}=T_{0}\left[1+a \sin ^{2} \frac{\theta}{2}\right]

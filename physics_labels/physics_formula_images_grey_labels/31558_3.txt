@@ -1,0 +1,1 @@
+T^{\prime}=2 \pi \sqrt{\frac{r^{3}}{G m}}

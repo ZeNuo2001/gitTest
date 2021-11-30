@@ -1,0 +1,1 @@
+E_{\mathrm{km}}=h \cdot 3 \nu_{0}-W_{0}=2 h \nu_{0}

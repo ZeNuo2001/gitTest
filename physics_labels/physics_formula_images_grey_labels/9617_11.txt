@@ -1,0 +1,1 @@
+\lambda=\frac{h c}{E}=\frac{6.63 \times 10^{-34} \times 3 \times 10^{8}}{0.09 \times 10^{6} \times 1.6 \times 10^{-19}} \mathrm{~m}=1.38 \times 10^{-11} \mathrm{~m}

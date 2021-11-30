@@ -1,0 +1,1 @@
+(1+\sqrt{3}) \omega R \sqrt{\frac{2 R}{g}}

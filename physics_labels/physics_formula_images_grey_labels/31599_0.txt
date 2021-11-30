@@ -1,0 +1,1 @@
+F_{\mathrm{X}}=m g \cos \alpha

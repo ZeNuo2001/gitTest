@@ -1,0 +1,1 @@
+\frac{\left|p_{\mathrm{K}}-\right|}{\left|p_{\mathrm{x}}-\right|}=\frac{\left|R_{\mathrm{K}}-\right|}{\left|R_{\mathrm{\pi}}-\right|}=\frac{2}{1}

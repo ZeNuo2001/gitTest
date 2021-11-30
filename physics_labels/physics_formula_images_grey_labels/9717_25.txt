@@ -1,0 +1,1 @@
+\Delta t=\frac{2 u_{1}}{g}=2 \sqrt{\frac{2 h}{g}}

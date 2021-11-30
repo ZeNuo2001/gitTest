@@ -1,0 +1,1 @@
+v_{0}=3.0 \times 10^{\circ} \mathrm{m} / \mathrm{s}

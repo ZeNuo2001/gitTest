@@ -1,0 +1,1 @@
+a^{\prime}=\frac{m g+F}{m}=g+\frac{F}{m}>g

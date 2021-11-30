@@ -1,0 +1,1 @@
+v_{A 0}=\sqrt{2} \cdot \sqrt{\frac{E_{0} Q d}{m}}

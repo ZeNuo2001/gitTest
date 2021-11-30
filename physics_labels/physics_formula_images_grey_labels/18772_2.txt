@@ -1,0 +1,1 @@
+k=9 \times 10^{9} \mathrm{~N} \cdot \mathrm{m}^{2} / \mathrm{C}^{2}

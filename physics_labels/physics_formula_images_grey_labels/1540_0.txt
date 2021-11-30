@@ -1,0 +1,1 @@
+\frac{R^{2}}{(R+h)^{2}} \sqrt{\frac{g}{R+h}}

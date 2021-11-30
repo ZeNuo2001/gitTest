@@ -1,0 +1,1 @@
+{ }_{4}^{9} \mathrm{Be}+{ }_{2}^{1} \mathrm{He} \rightarrow{ }_{6}^{12} \mathrm{C}+\mathrm{X}

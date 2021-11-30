@@ -1,0 +1,1 @@
+y=v_{0} t \sin \theta-\frac{1}{2} g t^{2}

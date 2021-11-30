@@ -1,0 +1,1 @@
+\frac{\sin i}{\sin r}=\frac{1}{n}

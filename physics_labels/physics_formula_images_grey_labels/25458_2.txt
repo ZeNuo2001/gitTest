@@ -1,0 +1,1 @@
+{ }_{z}^{A} \mathrm{X} \longrightarrow{ }_{z+1}^{A} \mathrm{Y}+{ }_{-1}^{0} \mathrm{e}

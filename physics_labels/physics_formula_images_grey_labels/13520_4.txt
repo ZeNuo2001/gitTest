@@ -1,0 +1,1 @@
+E_{P}=n E_{x}=n k \frac{Q}{n\left(R^{2}+L^{2}\right)} \cos \theta=k \frac{Q L}{\left(R^{2}+L^{2}\right)^{\frac{3}{2}}}

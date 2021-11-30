@@ -1,0 +1,1 @@
+E /\left(R_{0}+R+R_{x}+R_{\mathrm{g}}\right)

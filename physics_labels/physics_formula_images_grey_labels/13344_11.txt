@@ -1,0 +1,1 @@
+F_{B} \leqslant 100 \mathrm{~N}

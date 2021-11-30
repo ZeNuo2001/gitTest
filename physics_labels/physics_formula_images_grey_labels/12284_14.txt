@@ -1,0 +1,1 @@
+\frac{p}{T}=\frac{p_{1}}{T_{1}}=\frac{p^{\prime}}{T^{\prime}}

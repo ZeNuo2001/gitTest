@@ -1,0 +1,4 @@
+\left(\begin{array}{c}
+210 \\
+84
+\end{array} \text { Po }\right)

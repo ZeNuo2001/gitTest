@@ -1,0 +1,1 @@
+k=\sqrt{\frac{g\left(T^{2} h\right)_{0}}{4 \pi^{2}}}=

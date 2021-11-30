@@ -1,0 +1,1 @@
+I_{1}=\frac{P_{0}}{U_{1}}=\frac{6.24 \times 10^{5}}{240} \mathrm{~A}=2600 \mathrm{~A}

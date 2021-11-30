@@ -1,0 +1,1 @@
+B=\frac{\sqrt{E_{\mathrm{k}}^{2}+2 E_{0} E_{\mathrm{k}}}}{e R c}=0.146 \mathrm{~T}

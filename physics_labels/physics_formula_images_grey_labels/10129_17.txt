@@ -1,0 +1,1 @@
+F_{B}=I B l=\frac{B^{2} l^{2} v}{R}=m g \sin \theta

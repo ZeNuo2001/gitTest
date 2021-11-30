@@ -1,0 +1,1 @@
+\frac{\sin \angle 1}{\sin \angle 2}=n

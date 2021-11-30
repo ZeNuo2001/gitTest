@@ -1,0 +1,4 @@
+\begin{array}{l}
+{ }_{88}^{26} \\
+\mathrm{Ra}
+\end{array}

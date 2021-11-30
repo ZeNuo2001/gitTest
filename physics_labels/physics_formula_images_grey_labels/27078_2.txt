@@ -1,0 +1,1 @@
+E_{\mathrm{m}} \sin \omega t

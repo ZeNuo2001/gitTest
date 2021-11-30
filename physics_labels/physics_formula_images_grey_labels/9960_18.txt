@@ -1,0 +1,1 @@
+f=\frac{30}{100} F=5.28 \times 10^{3} \mathrm{~N}

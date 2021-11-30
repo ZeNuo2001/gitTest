@@ -1,0 +1,1 @@
+q v_{0} B=m \frac{v_{0}^{2}}{R}, \text { 即 } R=\frac{m v_{0}}{q B}

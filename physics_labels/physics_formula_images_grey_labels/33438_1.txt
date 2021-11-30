@@ -1,0 +1,1 @@
+\sqrt{\frac{F L}{5 m}}

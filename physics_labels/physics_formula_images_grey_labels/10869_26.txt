@@ -1,0 +1,1 @@
+a=\frac{F\left(\cos 37^{\circ}+\mu \sin 37^{\circ}\right)}{m}-\mu g=\frac{30 \times(0.8+0.5 \times 0.6)}{2} \mathrm{~m} / \mathrm{s}^{2}-0.5 \times 10 \mathrm{~m} / \mathrm{s}^{2}=11.5 \mathrm{~m} / \mathrm{s}^{2}

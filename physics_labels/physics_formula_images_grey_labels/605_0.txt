@@ -1,0 +1,5 @@
+\begin{array}{l}
+\mathbf{A}_{1} \\
+\mathbf{A}_{2} \\
+\mathbf{V}_{1}
+\end{array}

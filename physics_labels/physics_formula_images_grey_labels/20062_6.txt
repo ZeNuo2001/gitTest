@@ -1,0 +1,1 @@
+U_{a b}=6 \mathrm{~V}, U_{a d}=0 \mathrm{~V}, U_{r d}=6 \mathrm{~V}

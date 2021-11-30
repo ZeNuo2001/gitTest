@@ -1,0 +1,1 @@
+p_{0} V=p\left(V+V_{0}\right), p_{1}=\frac{V}{V+V_{0}} p_{0}

@@ -1,0 +1,1 @@
+E_{\mathrm{m}}=2 N B \overline{a b} \cdot v_{a b}

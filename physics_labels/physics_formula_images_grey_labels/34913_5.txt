@@ -1,0 +1,1 @@
+F_{\text {同 }}=m a_{\text {向 }}=m \frac{v^{2}}{r}=m \omega^{2} r=m \frac{4 \pi^{2}}{T^{2}} r

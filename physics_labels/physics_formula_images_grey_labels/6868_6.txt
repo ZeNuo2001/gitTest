@@ -1,0 +1,1 @@
+y=10 \sin \frac{5+12 n}{3} \pi t \operatorname{cm}(n=0,1,2, \cdots)

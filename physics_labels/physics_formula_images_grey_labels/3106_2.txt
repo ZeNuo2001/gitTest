@@ -1,0 +1,1 @@
+\varphi_{A}=0, \varphi_{B}=\varphi_{0}=\frac{\varphi_{C}}{2}

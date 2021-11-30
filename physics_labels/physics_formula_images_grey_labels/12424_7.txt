@@ -1,0 +1,1 @@
+m g=B I l \sin \theta-B I l \cos \theta

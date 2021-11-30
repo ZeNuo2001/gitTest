@@ -1,0 +1,1 @@
+\text { B. } \frac{v_{1}}{v_{2}}=\sqrt{\frac{r_{2}}{r_{1}}}

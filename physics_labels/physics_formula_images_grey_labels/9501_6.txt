@@ -1,0 +1,1 @@
+m_{\mathrm{n}} v_{0}=m_{\mathrm{n}} v_{1}+m v_{2}

@@ -1,0 +1,1 @@
+q=\frac{\Delta \Phi}{\frac{3}{2} R}=\frac{B L^{2}}{6 R}

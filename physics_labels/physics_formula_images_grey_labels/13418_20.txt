@@ -1,0 +1,1 @@
+x_{\min }=\left(v_{水}-v_{\text {船 }} \cos \theta\right) \cdot \frac{l}{v_{\text {船 }} \sin \theta}

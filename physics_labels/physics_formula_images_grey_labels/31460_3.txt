@@ -1,0 +1,1 @@
+\frac{\sqrt{B^{4} L^{4} F d+4 F^{2} R^{2} m}}{4 m R \sqrt{m}}

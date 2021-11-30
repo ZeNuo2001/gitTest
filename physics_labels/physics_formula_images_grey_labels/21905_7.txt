@@ -1,0 +1,1 @@
+m_{\mathrm{P}} g_{\mathrm{M}}=k x_{0}

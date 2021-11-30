@@ -1,0 +1,4 @@
+\begin{array}{l}
+t=0.15 \mathrm{~s} \\
+t=0.15 \mathrm{~s}
+\end{array}

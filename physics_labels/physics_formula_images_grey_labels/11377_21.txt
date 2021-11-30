@@ -1,0 +1,1 @@
+x_{2}=\frac{\left(m_{0}+m\right) g}{k}

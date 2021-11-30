@@ -1,0 +1,1 @@
+R_{\max }=\frac{1}{B} \sqrt{\frac{2 m(U+\Delta U)}{q}}

@@ -1,0 +1,1 @@
+s_{1}=\frac{1}{2} a_{1} t^{2}=\frac{1}{2} \times 2 \times 1^{2} \mathrm{~m}=1 \mathrm{~m}

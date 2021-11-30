@@ -1,0 +1,1 @@
+=\mu\left(m_{A}+m_{B}\right) g=\left(m_{A}+m_{B}\right) a, a=\mu g

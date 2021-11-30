@@ -1,0 +1,1 @@
+{ }_{0}^{1} \mathrm{n} \longrightarrow{ }_{60}^{143} \mathrm{Nd}+{ }_{40}^{90} \mathrm{Zr}+3 \mathrm{X}+8{ }_{--1}{ }_{1} \mathrm{e}

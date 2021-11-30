@@ -1,0 +1,1 @@
+\frac{v_{y}}{v_{D}}=\tan 53^{\circ}

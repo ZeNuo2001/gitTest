@@ -1,0 +1,1 @@
+v_{1}=\left(s_{1}-s_{2}\right) /\left(t+t^{\prime}\right)=(15-9) /(0.75+0.75) \mathrm{km} / \mathrm{h}=4 \mathrm{~km} / \mathrm{h}

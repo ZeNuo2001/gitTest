@@ -1,0 +1,4 @@
+\begin{array}{ll}
+E=8 \mathrm{~V}, P=6 \mathrm{~W} & \text { B. } E=8 \mathrm{~V}, P=7 \mathrm{~W} \\
+F=9 \mathrm{~V} \cdot P=8 \mathrm{~W} & \text { D. } E=9 \mathrm{~V} \cdot P=9 \mathrm{~W}
+\end{array}

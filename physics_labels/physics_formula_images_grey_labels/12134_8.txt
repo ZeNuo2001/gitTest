@@ -1,0 +1,1 @@
+n=2 \mathrm{~cm}_{2} \Delta t /\left(\eta_{1} \times \eta_{2} \times m_{1} v^{2}\right)=16

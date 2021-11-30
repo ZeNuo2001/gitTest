@@ -1,0 +1,1 @@
+v=\sqrt{u_{0}^{2}+a^{2} t^{2}}=5 \mathrm{~cm} / \mathrm{s}

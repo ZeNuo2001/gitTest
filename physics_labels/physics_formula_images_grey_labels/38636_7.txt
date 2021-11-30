@@ -1,0 +1,1 @@
+e=500 \sqrt{2} \sin 100 \sqrt{2} t(\mathrm{~V})

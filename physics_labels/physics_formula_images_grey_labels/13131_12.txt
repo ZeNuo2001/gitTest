@@ -1,0 +1,1 @@
+=s=\frac{(M-\mu m) h}{\mu(M+m)}

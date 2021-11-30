@@ -1,0 +1,1 @@
+y=6 \sin \left(\frac{\pi}{2} t+\pi\right) \mathrm{cm}

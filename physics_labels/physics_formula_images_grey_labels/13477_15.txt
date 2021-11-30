@@ -1,0 +1,1 @@
+x=\frac{1}{2} a t^{2}=\frac{1}{2} \times 2 \times 2^{2} \mathrm{~m}=4 \mathrm{~m}

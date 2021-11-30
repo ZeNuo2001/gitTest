@@ -1,0 +1,1 @@
+\sqrt{a_{\mathrm{n} 1} x_{2}}

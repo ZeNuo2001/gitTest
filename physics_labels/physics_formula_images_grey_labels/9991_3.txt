@@ -1,0 +1,1 @@
+v_{B}=5 \mathrm{~m} / \mathrm{s}

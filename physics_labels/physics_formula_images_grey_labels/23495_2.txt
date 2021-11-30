@@ -1,0 +1,1 @@
+\left(\frac{R-d}{R+h}\right)^{2}

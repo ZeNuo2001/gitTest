@@ -1,0 +1,4 @@
+\begin{array}{l}
+139 \\
+57
+\end{array}

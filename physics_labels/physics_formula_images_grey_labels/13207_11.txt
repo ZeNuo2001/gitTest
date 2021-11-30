@@ -1,0 +1,1 @@
+v_{0}=\frac{g L}{2 \Delta h} \Delta t=4 \mathrm{~m} / \mathrm{s}

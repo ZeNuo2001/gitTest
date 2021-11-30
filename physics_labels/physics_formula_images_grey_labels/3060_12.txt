@@ -1,0 +1,1 @@
+n=\sqrt{3}, \angle A=30^{\circ}

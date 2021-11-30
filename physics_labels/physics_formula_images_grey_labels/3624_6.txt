@@ -1,0 +1,1 @@
+\sqrt{\frac{\cos \beta}{\cos \alpha}}

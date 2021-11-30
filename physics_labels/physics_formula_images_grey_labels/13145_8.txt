@@ -1,0 +1,1 @@
+E_{p}=m g r \cdot \cos \omega t

@@ -1,0 +1,1 @@
+\frac{k\left(R^{2}+r^{2}\right)}{\lambda(R+r)}

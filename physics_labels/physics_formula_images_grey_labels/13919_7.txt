@@ -1,0 +1,1 @@
+p_{1}=p_{0}-p_{a}=75 \mathrm{cmHg}-10 \mathrm{cmHg}=65 \mathrm{cmHg}

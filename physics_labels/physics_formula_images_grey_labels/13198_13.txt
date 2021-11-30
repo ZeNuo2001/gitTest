@@ -1,0 +1,1 @@
+v_{2}=\frac{L}{t_{2}}=\frac{0.05}{0.02} \mathrm{~m} / \mathrm{s}=2.5 \mathrm{~m} / \mathrm{s}

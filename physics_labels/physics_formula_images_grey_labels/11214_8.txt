@@ -1,0 +1,1 @@
+q=\frac{m g \tan \theta}{E}

@@ -1,0 +1,1 @@
+\mu \sigma_{3}=(\mu \cos \theta-\sin \theta) v_{2}

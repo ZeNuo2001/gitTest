@@ -1,0 +1,1 @@
+a_{\mathrm{m}}=g+\frac{\mu q v_{0} B}{m}

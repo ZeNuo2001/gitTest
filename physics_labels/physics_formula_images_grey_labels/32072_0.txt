@@ -1,0 +1,1 @@
+\varphi_{A}=1 \mathrm{~V}, \varphi_{B}=2 \mathrm{~V}, \varphi_{C}=3 \mathrm{~V}

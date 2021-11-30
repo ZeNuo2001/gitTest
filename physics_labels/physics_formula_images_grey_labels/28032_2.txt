@@ -1,0 +1,1 @@
+\frac{\Delta s}{2} \cot i

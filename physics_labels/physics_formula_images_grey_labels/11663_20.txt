@@ -1,0 +1,1 @@
+y=\left(\overline{O P}+y^{\prime}\right) \sin \theta+x^{\prime} \cos \theta=8.5 \mathrm{~m}

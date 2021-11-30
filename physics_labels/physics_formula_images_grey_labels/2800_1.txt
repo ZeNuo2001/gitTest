@@ -1,0 +1,1 @@
+v_{a}=\frac{8}{3} \mathrm{~m} / \mathrm{s}

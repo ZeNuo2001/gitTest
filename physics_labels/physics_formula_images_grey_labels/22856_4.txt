@@ -1,0 +1,1 @@
+u=U_{\mathrm{r} 1} \sin \omega t

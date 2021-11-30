@@ -1,0 +1,4 @@
+\begin{array}{l}
+40 \mathrm{~N} / \mathrm{m} \\
+200 \mathrm{~N} / \mathrm{m}
+\end{array}

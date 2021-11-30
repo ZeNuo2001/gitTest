@@ -1,0 +1,1 @@
+w_{0}=\frac{x}{t}=\frac{0.60}{0.2}=3.0 \mathrm{~m} / \mathrm{s}

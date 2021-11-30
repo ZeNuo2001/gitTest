@@ -1,0 +1,1 @@
+t=\sqrt{\frac{2 d m}{q E}}, a=\sqrt{\left(\frac{q E}{2}\right)^{2}+g^{2}}

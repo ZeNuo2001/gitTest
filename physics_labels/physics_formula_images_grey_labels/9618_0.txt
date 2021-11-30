@@ -1,0 +1,4 @@
+\begin{array}{l}
+6 \\
+3
+\end{array} \text { i }

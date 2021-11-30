@@ -1,0 +1,1 @@
+m a_{\text {的 }}=m \frac{v^{2}}{r}=m \frac{4 \pi^{2}}{T^{2}} r

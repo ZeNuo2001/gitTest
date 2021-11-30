@@ -1,0 +1,1 @@
+R_{0}=100, k=0.5 \Omega / \mathrm{N}

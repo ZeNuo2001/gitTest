@@ -1,0 +1,1 @@
+{ }_{92}^{235} \mathrm{U}+{ }_{9}^{1} \mathrm{n} \longrightarrow{ }_{3 x}^{95} \mathrm{Sr}+{ }_{54}^{138} \mathrm{Xe}+3 \mathrm{X}_{1}

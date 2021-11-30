@@ -1,0 +1,1 @@
+\varphi_{B}-\varphi_{D}=\varphi_{D}-\varphi_{C}

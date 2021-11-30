@@ -1,0 +1,1 @@
+T_{1}=T_{0} \times \frac{\left(p_{0}+\rho g h_{1}\right) l_{1}}{\left(p_{0}+\rho g h_{0}\right) l_{0}}=273 \mathrm{~K} \times \frac{80 \times 12}{78 \times 8}=420 \mathrm{~K}

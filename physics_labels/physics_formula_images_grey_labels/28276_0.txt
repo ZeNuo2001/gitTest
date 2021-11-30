@@ -1,0 +1,1 @@
+\Delta{u}_{t}=0.29 \mathrm{~s}

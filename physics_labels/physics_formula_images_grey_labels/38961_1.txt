@@ -1,0 +1,1 @@
+\frac{\varepsilon_{\mathrm{r}} S Q}{4 \pi k d}

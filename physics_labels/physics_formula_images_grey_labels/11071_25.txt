@@ -1,0 +1,1 @@
+v^{2}=\frac{2 \mu m g}{M} \frac{\mu m^{2} g l}{(F-\mu m g) M-\mu m^{2} g}

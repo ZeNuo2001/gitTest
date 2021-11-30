@@ -1,0 +1,4 @@
+\begin{array}{l}
+16 \mathrm{~s} \\
+4 \mathrm{~s}
+\end{array}

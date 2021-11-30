@@ -1,0 +1,1 @@
+-F L \cos \theta

@@ -1,0 +1,1 @@
+E_{\mathrm{kY}}=\frac{m_{\mathrm{Y}}\left(m_{\mathrm{X}}-m_{\mathrm{Y}}-m_{\mathrm{a}}\right) c^{2}}{m_{\mathrm{Y}}+m_{\mathrm{a}}}

@@ -1,0 +1,1 @@
+m g l \sin \theta-\mu m g l \cos \theta=\frac{1}{2} m v_{B}^{2}

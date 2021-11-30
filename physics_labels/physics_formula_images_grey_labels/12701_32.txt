@@ -1,0 +1,1 @@
+p^{\prime}{ }_{B} V^{\prime}{ }_{B}=n_{B} R T^{\prime}

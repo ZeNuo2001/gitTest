@@ -1,0 +1,1 @@
+S=20 \mathrm{~cm}^{2}, L=0.6 \mathrm{~m}

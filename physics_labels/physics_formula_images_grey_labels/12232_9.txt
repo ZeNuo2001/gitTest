@@ -1,0 +1,1 @@
+P_{1}=\frac{75 \% \times\left(m g h+m v_{1}^{2} / 2-m v_{2}^{2} / 2\right)}{t}=\left[Q p h+Q p \frac{v_{1}^{2}-v_{2}^{2}}{2}\right] \times 75 \%=7.8 \times 10^{5} \mathrm{~W}

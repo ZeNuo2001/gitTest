@@ -1,0 +1,1 @@
+\rho=\frac{(B d v-I R) S}{I d}

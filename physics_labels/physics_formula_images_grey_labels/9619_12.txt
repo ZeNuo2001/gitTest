@@ -1,0 +1,1 @@
+p=q B R=2 \times 1.60 \times 10^{-19} \times 0.500 \times 1.00=1.60 \times 10^{-19} \mathrm{~kg} \cdot \mathrm{m} / \mathrm{s}

@@ -1,0 +1,1 @@
+v_{\max }=\frac{3 e B R}{4 m(2-\sin \alpha)}

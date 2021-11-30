@@ -1,0 +1,1 @@
+M_{1}=n B I_{\mathrm{g}} S=100 \times 1 \times 2.5 \times 10^{-2} \times 2.4 \times 10^{-2} I_{\mathrm{R}} \mathrm{N} \cdot \mathrm{m}=6.0 \times 10^{-2} I_{\mathrm{g}} \mathrm{N} \cdot \mathrm{m}

@@ -1,0 +1,1 @@
+B=\frac{5}{2} \sqrt{3} \mathrm{~T}

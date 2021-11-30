@@ -1,0 +1,1 @@
+T=3 d \sqrt{\frac{2 m}{q U_{0}}}

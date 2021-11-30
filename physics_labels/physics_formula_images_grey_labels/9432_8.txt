@@ -1,0 +1,1 @@
+n=\left(\frac{\pi r^{2}}{4 \pi R^{2}}\right) \times N=4 \times 10^{23}

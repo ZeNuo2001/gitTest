@@ -1,0 +1,1 @@
+\Delta t=t_{2}-t_{1}=\frac{s}{3.7}-\frac{s}{9.1}=50 \mathrm{~s}

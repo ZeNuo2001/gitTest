@@ -1,0 +1,1 @@
+h^{\prime}=\frac{3 T}{4 T_{0}} h

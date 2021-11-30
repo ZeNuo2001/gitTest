@@ -1,0 +1,1 @@
+\Delta t_{B}=3.500 \mathrm{~ms}

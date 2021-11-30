@@ -1,0 +1,1 @@
+0.25 p_{0} V=\left(n_{0}-0.75 \times 10^{-3}\right) R T

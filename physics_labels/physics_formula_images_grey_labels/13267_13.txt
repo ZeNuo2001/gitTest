@@ -1,0 +1,1 @@
+m g(H+h)-\frac{\pi \rho L^{2} d^{2} g}{8}-\frac{\pi \rho L d^{2}(h-L) g}{4}-\frac{5 \rho m g h}{8}=0

@@ -1,0 +1,1 @@
+F=2 f_{y}=2 f \cos \theta=\frac{\mu m g}{\sqrt{1+\left(\omega r / v_{0}\right)^{2}}}=2.01 \mathrm{~N}

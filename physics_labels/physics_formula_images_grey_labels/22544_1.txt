@@ -1,0 +1,4 @@
+\begin{array}{l}
+q_{B}=\frac{9}{16} q \\
+q_{B}=\frac{9}{16} q
+\end{array}

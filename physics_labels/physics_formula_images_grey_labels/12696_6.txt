@@ -1,0 +1,1 @@
+c=0.880 \times 10^{3} \mathrm{~J} \cdot\left(\mathrm{kg} \cdot{ }^{\circ} \mathrm{C}\right)

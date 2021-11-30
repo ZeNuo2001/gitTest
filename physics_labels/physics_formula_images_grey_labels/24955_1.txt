@@ -1,0 +1,1 @@
+\sqrt{\sin ^{3} \theta} \cdot T_{1}

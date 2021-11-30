@@ -1,0 +1,1 @@
+\sin \beta \leqslant \frac{2 r \cos \theta_{0}}{g\left(\frac{s}{v_{0}}-\frac{v_{0}}{2 a}\right)^{2}}

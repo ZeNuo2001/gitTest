@@ -1,0 +1,1 @@
+V_{2}=\frac{T_{2}}{T_{1}} V_{1}=\frac{400}{300} \times 1.0 \times 10^{-2} \mathrm{~m}^{3} \approx

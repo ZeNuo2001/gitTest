@@ -1,0 +1,1 @@
+a=\frac{0.1060+0.0861-0.0660-0.0460}{4 \times 0.1^{2}} \mathrm{~m} / \mathrm{s}^{2}=2.00 \mathrm{~m} / \mathrm{s}^{2}

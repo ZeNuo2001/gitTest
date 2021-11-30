@@ -1,0 +1,1 @@
+t=d \sqrt{\frac{m}{E q}}=2 \times 10^{-2} \times \sqrt{\frac{1}{10 \times 10^{5}}} \mathrm{~s}=2 \times 10^{-5} \mathrm{~s}

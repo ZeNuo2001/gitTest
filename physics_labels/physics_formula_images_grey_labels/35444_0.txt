@@ -1,0 +1,1 @@
+T_{04}=6 \mathrm{~h}, T_{05}=24 \mathrm{~h}, T_{06}=12 \mathrm{~h}

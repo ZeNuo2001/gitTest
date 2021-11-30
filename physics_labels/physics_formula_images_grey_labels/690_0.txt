@@ -1,0 +1,1 @@
+B=1 \mathrm{~T}, v=6 \mathrm{~m} / \mathrm{s}, d=1 \mathrm{~m}, \beta=30^{\circ}, R=1 \Omega

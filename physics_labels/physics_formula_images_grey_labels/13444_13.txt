@@ -1,0 +1,1 @@
+M^{\prime}=\frac{4}{3} \pi \rho(R-d)^{3}

@@ -1,0 +1,1 @@
+v_{1}=\frac{1}{t_{1}}=\frac{0.05}{0.05} \mathrm{~m} / \mathrm{s}=1 \mathrm{~m} / \mathrm{s}

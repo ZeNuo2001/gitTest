@@ -1,0 +1,1 @@
+R_{1}=2 \Omega, R_{2}=3 \Omega, R_{3}=7.5 \Omega

@@ -1,0 +1,1 @@
+0 \leqslant f \leqslant \frac{1}{2} m g

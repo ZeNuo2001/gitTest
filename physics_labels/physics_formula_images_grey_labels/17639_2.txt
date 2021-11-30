@@ -1,0 +1,1 @@
+2 \pi \sqrt{\frac{k^{3} R q}{g p}}

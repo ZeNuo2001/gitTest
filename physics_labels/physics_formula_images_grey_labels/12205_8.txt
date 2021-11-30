@@ -1,0 +1,1 @@
+h_{1}=\frac{p^{\prime}-p_{0}}{\rho g}=(80-76) \mathrm{cm}=4 \mathrm{~cm}

@@ -1,0 +1,1 @@
+t=\sqrt{\frac{2 m}{q U}} L=0.02 \mathrm{~s}

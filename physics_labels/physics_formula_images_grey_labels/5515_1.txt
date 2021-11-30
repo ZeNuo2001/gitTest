@@ -1,0 +1,1 @@
+{ }_{27}^{60} \mathrm{Co} \longrightarrow_{Z}^{\Lambda} \mathrm{Ni}+_{-1}^{0} \mathrm{e}+\bar{\nu}_{\mathrm{e}}

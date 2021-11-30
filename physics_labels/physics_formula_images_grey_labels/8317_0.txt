@@ -1,0 +1,1 @@
+E_{\mathrm{k} 2}=3 E_{\mathrm{k} 1}, p_{2}=3 p_{1}

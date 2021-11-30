@@ -1,0 +1,1 @@
+x_{1}=2 l \cdot \sin \frac{\theta_{1}}{2}

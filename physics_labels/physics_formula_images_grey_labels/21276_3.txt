@@ -1,0 +1,5 @@
+\begin{array}{|c|c|c|c|c|c|c|}
+\hline t /{ }^{\circ} \mathrm{C} & 30.0 & 40.0 & 50.0 & 60.0 & 70.0 & 80.0 \\
+\hline R_{\mathrm{t}} / \Omega & 199.5 & 145.4 & 108.1 & 81.8 & 62.9 & 49.1 \\
+\hline
+\end{array}

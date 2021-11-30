@@ -1,0 +1,1 @@
+u=\sqrt{2} U \sin \omega t

@@ -1,0 +1,1 @@
+F=72 \times 10^{-3} \cdot L \cdot 2=0.144 L

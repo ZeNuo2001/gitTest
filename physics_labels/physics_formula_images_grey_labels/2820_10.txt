@@ -1,0 +1,1 @@
+q=\frac{B v\left(t_{4}-t_{3}\right) L}{2 r}

@@ -1,0 +1,1 @@
+\frac{m\left(v_{1}^{2}-v_{2}^{2}\right)}{2 q L \sin \theta}

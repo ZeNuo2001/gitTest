@@ -1,0 +1,1 @@
+2 \sqrt{L g} \leqslant v \leqslant \sqrt{10 L g}

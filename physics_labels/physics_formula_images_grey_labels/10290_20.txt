@@ -1,0 +1,1 @@
+v_{1}=\sqrt{2 g h_{2}}=\sqrt{80} \mathrm{~m} / \mathrm{s} \approx 9 \mathrm{~m} / \mathrm{s}

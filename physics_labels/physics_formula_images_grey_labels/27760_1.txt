@@ -1,0 +1,1 @@
+\Delta \boldsymbol{\omega}=L^{2} \Delta \boldsymbol{B}

@@ -1,0 +1,1 @@
+s=\frac{l}{\cos \theta}=\frac{l v_{\text {水 }}}{v_{\text {船 }}}

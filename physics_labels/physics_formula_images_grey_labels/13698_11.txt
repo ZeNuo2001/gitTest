@@ -1,0 +1,1 @@
+f=\frac{\omega}{2 \pi}=50 \mathrm{~Hz}

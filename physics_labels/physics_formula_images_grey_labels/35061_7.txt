@@ -1,0 +1,1 @@
+m\left(v_{1}+v_{2}\right)+m g \Delta t

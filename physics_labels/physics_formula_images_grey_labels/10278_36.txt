@@ -1,0 +1,1 @@
+\varphi=\pi-\theta=\pi-\frac{2 k \pi}{n}

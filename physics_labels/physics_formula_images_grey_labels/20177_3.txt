@@ -1,0 +1,1 @@
+100 \sin \frac{100 \pi}{3} t(\mathrm{~V})

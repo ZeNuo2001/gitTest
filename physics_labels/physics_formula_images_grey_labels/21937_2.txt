@@ -1,0 +1,1 @@
+\frac{\sin i}{\sin \alpha}=n

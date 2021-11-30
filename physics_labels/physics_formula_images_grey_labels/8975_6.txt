@@ -1,0 +1,1 @@
+\sin i=n \sin r=1.5 \times \sin 30^{\circ}=0.75, i=\arcsin 0.75

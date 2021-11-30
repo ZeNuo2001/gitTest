@@ -1,0 +1,1 @@
+B_{\min }=\frac{2 m}{q} \sqrt{\frac{g}{R \cos \theta}}

@@ -1,0 +1,1 @@
+{ }_{34}^{82} \mathrm{Se} \longrightarrow{ }_{36}^{82} \mathrm{Kr}+2_{-1}^{0} \mathrm{e}

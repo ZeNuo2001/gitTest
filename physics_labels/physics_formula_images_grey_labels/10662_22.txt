@@ -1,0 +1,1 @@
+v_{t}=v-g t=5-10 \times 6=-55 \mathrm{~m} / \mathrm{s}

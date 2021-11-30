@@ -1,0 +1,1 @@
+h_{1}=\frac{v_{0}^{2}}{2 g}=\frac{10^{2}}{2 \times 10} \mathrm{~m}=5 \mathrm{~m}

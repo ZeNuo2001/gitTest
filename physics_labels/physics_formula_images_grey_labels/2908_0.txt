@@ -1,0 +1,1 @@
+{ }_{90}^{234} \mathrm{Th} \longrightarrow{ }_{91}^{234} \mathrm{~Pa}+{ }_{-1}^{0} \mathrm{e}

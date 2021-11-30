@@ -1,0 +1,1 @@
+{ }_{0}^{1} \mathrm{n}+{ }_{92}^{239} \mathrm{U} \longrightarrow{ }_{34}^{140} \mathrm{Xe}+{ }_{33}^{94} \mathrm{Sr}+2_{0}^{1} \mathrm{n}

@@ -1,0 +1,1 @@
+\sqrt{2 g l \sin \alpha-2 \mu_{0} g l \cos \alpha}

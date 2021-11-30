@@ -1,0 +1,1 @@
+\Delta x=(2 n+1) \frac{\lambda}{2}(n=0,1,2, \cdots)

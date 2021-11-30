@@ -1,0 +1,1 @@
+n^{\prime}=\frac{\sin i^{\prime}}{\sin r^{\prime}}=\sqrt{2}

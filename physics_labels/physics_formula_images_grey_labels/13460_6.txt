@@ -1,0 +1,1 @@
+E=E_{p}+E_{k}=-\frac{G M m}{2 r}

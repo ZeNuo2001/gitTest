@@ -1,0 +1,1 @@
+E=100 \sin \frac{100 \pi t}{3}(\mathrm{~V})

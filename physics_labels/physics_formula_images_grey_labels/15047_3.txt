@@ -1,0 +1,1 @@
+B_{0}=\frac{1}{3 r} \sqrt{\frac{6 m U}{e}}

@@ -1,0 +1,1 @@
+{ }_{11}^{23} \mathrm{Na}+{ }_{2}^{4} \mathrm{He} \rightarrow \mathrm{X}+{ }_{12}^{26} \mathrm{Mg}

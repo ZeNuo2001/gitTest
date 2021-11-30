@@ -1,0 +1,1 @@
+h=l+\frac{1}{2} \Delta h-l^{\prime}+h_{1}=(40+1-38+4) \mathrm{cm}=7 \mathrm{~cm}

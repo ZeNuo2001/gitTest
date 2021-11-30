@@ -1,0 +1,1 @@
+\sqrt{\frac{2\left(h \nu+E_{1}\right)}{m}}

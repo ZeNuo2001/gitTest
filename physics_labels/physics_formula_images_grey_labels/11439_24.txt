@@ -1,0 +1,1 @@
+I=\frac{E}{R}=\frac{15}{25 \times 10^{3}} \mathrm{~A}=600 \mu \mathrm{A}

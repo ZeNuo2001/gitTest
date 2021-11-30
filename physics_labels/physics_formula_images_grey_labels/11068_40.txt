@@ -1,0 +1,1 @@
+\Delta s=s_{A}-s_{B}=\frac{v+v_{0}}{2} t-\frac{1}{2} v t=\frac{m v_{0}^{2}}{3 F}

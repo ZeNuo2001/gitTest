@@ -1,0 +1,1 @@
+\Delta v_{B}=v_{2}^{\prime}-v_{2}=\left(1-\sqrt{\frac{2}{3}}\right) \sqrt{\frac{G M}{4 R}}

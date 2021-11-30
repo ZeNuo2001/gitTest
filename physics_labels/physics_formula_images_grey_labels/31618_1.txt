@@ -1,0 +1,1 @@
+m g \sqrt{\frac{2 F_{s}}{m}}

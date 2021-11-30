@@ -1,0 +1,1 @@
+\varphi=\frac{\varphi_{0}}{3}

@@ -1,0 +1,1 @@
+m g \sin \theta-\mu m g \cos \theta=m a_{2}

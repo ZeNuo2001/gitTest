@@ -1,0 +1,1 @@
+{ }_{2}^{4} \mathrm{He}+{ }_{11}^{2 \pi} \mathrm{Na} \longrightarrow \stackrel{1}{\longrightarrow} \mathrm{H}

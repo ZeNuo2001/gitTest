@@ -1,0 +1,1 @@
+\frac{v_{A}}{v_{B}}=\frac{\sqrt{3}}{\sqrt{2}}

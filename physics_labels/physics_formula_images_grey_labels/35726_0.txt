@@ -1,0 +1,1 @@
+2.0 \times 10^{-7} \sim 3.0 \times 10^{-7} \Omega \cdot \mathrm{m}

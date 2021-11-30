@@ -1,0 +1,1 @@
+\Delta t_{z}<\Delta t_{b}

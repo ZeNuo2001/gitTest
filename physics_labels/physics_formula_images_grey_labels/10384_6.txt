@@ -1,0 +1,1 @@
+\sqrt{\frac{2 L}{g \sin \alpha}}=\frac{2 L}{\sqrt{2 g h}}

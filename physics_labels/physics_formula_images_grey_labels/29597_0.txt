@@ -1,0 +1,1 @@
+x=\frac{F}{2 w}\left(t_{1}+t_{2}\right)

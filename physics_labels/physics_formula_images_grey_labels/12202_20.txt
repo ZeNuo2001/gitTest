@@ -1,0 +1,1 @@
+a=\frac{F-(M+m) g}{M+m}=2.5 \mathrm{~m} / \mathrm{s}^{2}

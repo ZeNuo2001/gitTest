@@ -1,0 +1,1 @@
+\frac{\left(v_{1}+v_{2}\right)\left(t_{2}-t_{1}\right)}{2}

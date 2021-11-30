@@ -1,0 +1,1 @@
+a=\frac{P}{\sqrt{m^{2} v_{0}^{2}+2 m\left(P t_{1}-f d\right)}}-\frac{f}{m}

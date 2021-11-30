@@ -1,0 +1,1 @@
+k \frac{Q}{\left(R+\frac{L}{2}\right)^{2}}

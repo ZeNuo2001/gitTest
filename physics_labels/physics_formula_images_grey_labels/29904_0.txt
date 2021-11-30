@@ -1,0 +1,4 @@
+B=\begin{array}{l}
+F \\
+\|
+\end{array}

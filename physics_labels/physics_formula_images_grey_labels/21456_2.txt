@@ -1,0 +1,4 @@
+\begin{array}{l}
+{ }_{925}^{15} \mathrm{U}+{ }_{0}^{1} \mathrm{n}{ }_{56}^{144} \mathrm{Ba}+{ }_{36}^{89} \mathrm{Kr}+3{ }_{0}^{1} \mathrm{n} \\
+\mathrm{n}
+\end{array}

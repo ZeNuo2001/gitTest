@@ -1,0 +1,1 @@
+L=\frac{F x_{1}}{\mu m g \cos 53^{\circ}}=85 \mathrm{~m}

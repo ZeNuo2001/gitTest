@@ -1,0 +1,1 @@
+L=10.00 \mathrm{~m}, R=0.32 \mathrm{~m}, h=1.25 \mathrm{~m}

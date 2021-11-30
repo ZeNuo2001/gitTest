@@ -1,0 +1,1 @@
+u_{n-1} \Delta t=v_{n-1} \Delta t+\frac{1}{2} g(\Delta t)^{2}

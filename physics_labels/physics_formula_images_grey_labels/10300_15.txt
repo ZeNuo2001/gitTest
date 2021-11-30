@@ -1,0 +1,1 @@
+\sin \alpha=\frac{R}{2 r}

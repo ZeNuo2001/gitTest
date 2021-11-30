@@ -1,0 +1,1 @@
+2 T_{0}+\Delta t_{1}+\dot{\Delta} t_{2}

@@ -1,0 +1,1 @@
+m v_{2}=(m+M) v+m v^{\prime}

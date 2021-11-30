@@ -1,0 +1,1 @@
+r=R \tan \frac{\pi}{3}

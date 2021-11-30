@@ -1,0 +1,1 @@
+p^{\prime}=\frac{V+n V_{0}}{V} p_{0}=\left(1+n \frac{V_{0}}{V}\right) p_{0}

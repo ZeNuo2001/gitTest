@@ -1,0 +1,4 @@
+\begin{array}{c}
+{ }_{56}^{144} \\
+\mathrm{Ba}
+\end{array}

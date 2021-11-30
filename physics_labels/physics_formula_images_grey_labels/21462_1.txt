@@ -1,0 +1,1 @@
+{ }_{53}^{131} \mathrm{I} \rightarrow{ }_{51}^{127} \mathrm{Sb}+{ }_{2}^{4} \mathrm{He}

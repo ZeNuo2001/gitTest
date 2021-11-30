@@ -1,0 +1,1 @@
+\Delta x=\frac{v t}{2}

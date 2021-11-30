@@ -1,0 +1,1 @@
+x_{1}=3 a \sin \left(4 \pi b t+\frac{\pi}{4}\right)

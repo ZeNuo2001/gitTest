@@ -1,0 +1,1 @@
+W_{\mathrm{p}}=E_{\mathrm{p}}

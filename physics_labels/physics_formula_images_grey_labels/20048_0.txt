@@ -1,0 +1,1 @@
+r=1 \Omega, R_{1}=2 \Omega, R_{2}=6 \Omega

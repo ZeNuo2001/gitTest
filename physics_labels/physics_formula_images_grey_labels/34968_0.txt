@@ -1,0 +1,1 @@
+T_{\mathbb{G}}>T_{\mathbb{I}}>T_{\mathrm{I}}

@@ -1,0 +1,4 @@
+\begin{array}{ll}
+\mathrm{B} .0 .5 \Omega & 8 \mathrm{~W} \\
+\mathrm{I}) .1 .5 \Omega & 6 \mathrm{~W}
+\end{array}

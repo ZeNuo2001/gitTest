@@ -1,0 +1,1 @@
+\left.-\left(1+\frac{l}{2 r}\right)^{-2}\right] \approx k \frac{2 q l}{r^{3}}=k \frac{2 p}{r^{3}}

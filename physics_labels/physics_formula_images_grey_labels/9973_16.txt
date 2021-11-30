@@ -1,0 +1,1 @@
+t=\sqrt{\frac{2 h}{a}}=12 \sqrt{5} \mathrm{~s}>10 \mathrm{~s}

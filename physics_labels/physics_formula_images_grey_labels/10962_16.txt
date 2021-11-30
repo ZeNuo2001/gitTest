@@ -1,0 +1,1 @@
+\Delta N=\left(\rho_{2}-\rho_{1}\right) V \cdot \frac{\rho_{2}-\rho_{1}}{\rho_{2}} g=\left(1-\frac{\rho_{1}}{\rho_{2}}\right)^{2} \rho_{2} V g=\left(1-\frac{\rho_{1}}{\rho_{2}}\right)^{2} m

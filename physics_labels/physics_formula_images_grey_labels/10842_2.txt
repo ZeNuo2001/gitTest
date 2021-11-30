@@ -1,0 +1,1 @@
+\frac{\mu}{1+\sqrt{2} \mu}

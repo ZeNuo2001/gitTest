@@ -1,0 +1,1 @@
+v_{0}^{2}-v^{2}=2 a_{0} L\left(1-\sin 30^{\circ}\right)

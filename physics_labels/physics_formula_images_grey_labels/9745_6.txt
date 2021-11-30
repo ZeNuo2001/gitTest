@@ -1,0 +1,1 @@
+G \frac{M m}{r_{A}}=\frac{1}{2} m v_{A}^{2}-G \frac{m M}{a-c}

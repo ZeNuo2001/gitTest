@@ -1,0 +1,1 @@
+E_{\mathrm{kBmax}}=\frac{1}{2} m \cdot\left(\frac{2}{9} v_{0}\right)^{2}=\frac{2}{81} m v_{0}^{2}

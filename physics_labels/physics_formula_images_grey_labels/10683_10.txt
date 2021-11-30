@@ -1,0 +1,1 @@
+\Delta x_{3}=\frac{m g}{3 k_{1}}

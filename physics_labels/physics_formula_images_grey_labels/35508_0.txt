@@ -1,0 +1,4 @@
+\left(\begin{array}{l}
+611 \\
+28
+\end{array} \mathrm{Ni}\right)

@@ -1,0 +1,1 @@
+p=n F \propto n_{0} m \bar{v}^{2}

@@ -1,0 +1,6 @@
+\begin{array}{l}
+-18 \mathrm{~m} / \mathrm{s},-2 \mathrm{~m} / \mathrm{s}, 6 \mathrm{~m} / \mathrm{s} \\
+-18 \mathrm{~m} / \mathrm{s},-2 \mathrm{~m} / \mathrm{s}, 2 \mathrm{~m} / \mathrm{s} \\
+-2 \mathrm{~m} / \mathrm{s},-2 \mathrm{~m} / \mathrm{s},-18 \mathrm{~m} / \mathrm{s} \\
+-18 \mathrm{~m} / \mathrm{s}, 6 \mathrm{~m} / \mathrm{s}, 6 \mathrm{~m} / \mathrm{s}
+\end{array}

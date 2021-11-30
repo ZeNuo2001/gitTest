@@ -1,0 +1,1 @@
+\frac{m_{B} g}{\sin \gamma}=\frac{F}{\sin \alpha}

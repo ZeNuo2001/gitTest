@@ -1,0 +1,1 @@
+\frac{m g}{B q} n \frac{2 \pi m}{B q}=n \frac{2 \pi m^{2} g}{B^{2} q^{2}}

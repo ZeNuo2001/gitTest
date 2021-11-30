@@ -1,0 +1,4 @@
+\left(\begin{array}{ll}
+1 & \mathrm{n} \\
+0 & \mathrm{n}
+\end{array}\right)

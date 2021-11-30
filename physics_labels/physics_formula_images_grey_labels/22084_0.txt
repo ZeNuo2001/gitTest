@@ -1,0 +1,1 @@
+g=10 \mathrm{~m} / \mathrm{s}^{2}, \sin 53^{\circ}=0.8, \cos 53^{\circ}=0.6

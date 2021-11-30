@@ -1,0 +1,1 @@
+e=400 \sin 50 t(\mathrm{~V})

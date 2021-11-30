@@ -1,0 +1,1 @@
+\frac{q}{m}=2.5 \times 10^{-2} \mathrm{C} / \mathrm{kg}

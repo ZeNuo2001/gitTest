@@ -1,0 +1,1 @@
+\left(r_{g}^{\top} \varphi\right)

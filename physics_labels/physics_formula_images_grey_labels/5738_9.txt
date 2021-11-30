@@ -1,0 +1,1 @@
+F_{\min } \sin \theta+f^{\prime}-m g=0 \Rightarrow f^{\prime}=m g-F_{\min } \sin \theta

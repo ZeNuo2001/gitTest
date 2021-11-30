@@ -1,0 +1,1 @@
+\text { A. } \frac{v^{2}}{g \cos \theta}

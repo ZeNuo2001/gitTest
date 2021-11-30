@@ -1,0 +1,1 @@
+\sqrt{\frac{g I}{6}}

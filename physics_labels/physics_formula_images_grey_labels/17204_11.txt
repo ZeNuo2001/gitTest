@@ -1,0 +1,1 @@
+\frac{\Delta p_{\mathrm{A}}}{\Delta t}: \frac{\Delta p_{\mathrm{B}}}{\Delta t}: \frac{\Delta p_{C}}{\Delta t}=1: 1: 1

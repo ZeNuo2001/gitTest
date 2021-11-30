@@ -1,0 +1,1 @@
+T=\frac{2 \pi R}{\sin \frac{\alpha}{2}} \sqrt{G M \sin \frac{\alpha}{2}}

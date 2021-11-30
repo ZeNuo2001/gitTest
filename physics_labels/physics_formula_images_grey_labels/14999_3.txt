@@ -1,0 +1,1 @@
+\frac{B_{0} R S}{4 \pi \rho t_{0}}

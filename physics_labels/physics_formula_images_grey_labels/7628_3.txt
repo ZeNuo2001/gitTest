@@ -1,0 +1,4 @@
+\begin{array}{l}
+32 \\
+15
+\end{array}

@@ -1,0 +1,1 @@
+\frac{\pi B a^{2}}{\Delta t}

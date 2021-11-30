@@ -1,0 +1,1 @@
+{ }_{92}^{235} \mathrm{U}+{ }_{0}^{1} \mathrm{n} \rightarrow{ }_{36}^{89} \mathrm{Kr}+{ }_{56}^{144} \mathrm{Ba}+3_{0}^{1} \mathrm{n}

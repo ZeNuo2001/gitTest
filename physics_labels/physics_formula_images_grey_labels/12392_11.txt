@@ -1,0 +1,1 @@
+F=B I d=\varepsilon \pi R^{2} B^{2} d \Delta v / \Delta t

@@ -1,0 +1,1 @@
+v^{\prime}=v_{x}+v^{\prime \prime}_{x}=v \cos \theta+v^{\prime \prime} \sin \theta

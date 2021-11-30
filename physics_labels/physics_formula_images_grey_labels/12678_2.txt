@@ -1,0 +1,1 @@
+\sigma=0.49 \mathrm{~N} / \mathrm{m}

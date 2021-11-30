@@ -1,0 +1,1 @@
+v_{B}=\frac{A B+B C}{2 t}

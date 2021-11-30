@@ -1,0 +1,4 @@
+\begin{array}{c}
+118 \\
+50
+\end{array}

@@ -1,0 +1,1 @@
+\frac{\sqrt{3} B L^{2} \omega}{3 R}

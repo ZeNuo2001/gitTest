@@ -1,0 +1,1 @@
+\frac{3}{2} r=\frac{1}{2} \cdot \frac{q E}{m} \cdot \frac{\left(\frac{\sqrt{3}}{2} r\right)^{2}}{v^{2}}

@@ -1,0 +1,1 @@
+p_{A 2}=\frac{T_{2} p_{A}}{T}=\frac{540 \times 1}{450} \mathrm{~atm}=1.2 \mathrm{~atm}

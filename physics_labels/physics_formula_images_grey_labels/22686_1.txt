@@ -1,0 +1,1 @@
+t=\frac{5 \pi m}{3 q B}

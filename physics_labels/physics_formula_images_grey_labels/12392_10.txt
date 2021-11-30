@@ -1,0 +1,1 @@
+I=\Delta Q / \Delta t=\varepsilon \pi R^{2} B \Delta v / \Delta t

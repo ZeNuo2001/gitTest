@@ -1,0 +1,4 @@
+\begin{array}{ll}
+28 & \Theta i \\
+14 & 1
+\end{array}

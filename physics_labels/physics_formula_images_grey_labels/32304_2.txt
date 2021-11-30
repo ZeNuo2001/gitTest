@@ -1,0 +1,1 @@
+\frac{2 \pi(R+h)}{T} \sqrt{\frac{R+h}{R}}

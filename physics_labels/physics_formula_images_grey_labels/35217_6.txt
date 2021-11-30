@@ -1,0 +1,4 @@
+\begin{array}{l}
+8 \times 10^{14} \mathrm{~Hz} \\
+8 \times 10^{15} \mathrm{~Hz}
+\end{array}

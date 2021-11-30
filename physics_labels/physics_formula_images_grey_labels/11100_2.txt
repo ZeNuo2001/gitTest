@@ -1,0 +1,1 @@
+\omega=40 \mathrm{rad} / \mathrm{s}

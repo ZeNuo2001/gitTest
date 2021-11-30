@@ -1,0 +1,1 @@
+2 m v_{A}=2 m v_{A}^{\prime}+m \sqrt{2 g L}

@@ -1,0 +1,1 @@
+\frac{\pi(l+\Delta r)}{T}

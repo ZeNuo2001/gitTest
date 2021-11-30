@@ -1,0 +1,3 @@
+\begin{array}{lll}
+1 & 000 & W
+\end{array}

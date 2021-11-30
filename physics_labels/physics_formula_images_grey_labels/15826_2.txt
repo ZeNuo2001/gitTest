@@ -1,0 +1,1 @@
+v_{0}=5.0 \mathrm{~m} / \mathrm{s}

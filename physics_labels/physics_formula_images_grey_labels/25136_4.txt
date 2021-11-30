@@ -1,0 +1,1 @@
+R=\cot 45^{\circ}=1.0 \Omega

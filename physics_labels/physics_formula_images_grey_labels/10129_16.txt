@@ -1,0 +1,1 @@
+v^{2}=2 a s, a=\frac{v^{2}}{2 s}=\frac{16}{2 \times 16} \mathrm{~m} / \mathrm{s}^{2}=0.5 \mathrm{~m} / \mathrm{s}^{2}, a=g \sin \theta, \theta=\arcsin \frac{a}{g}=\arcsin 0.05

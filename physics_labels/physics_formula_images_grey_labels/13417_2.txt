@@ -1,0 +1,1 @@
+\text { B. } \frac{v^{2}}{g \tan \theta}

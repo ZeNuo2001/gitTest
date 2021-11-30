@@ -1,0 +1,1 @@
+\frac{1}{2} m v_{A 0}^{2}+\frac{1}{2} \cdot \frac{1}{4} m v_{B 0}^{\prime 2}=\frac{1}{2} m v_{A}^{\prime 2}

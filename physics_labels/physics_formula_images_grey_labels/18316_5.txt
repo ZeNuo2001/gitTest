@@ -1,0 +1,1 @@
+v=\sqrt{\frac{g}{2 h}\left(\frac{L^{2}}{4}+s^{2}\right)+4 g h}

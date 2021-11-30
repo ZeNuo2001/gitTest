@@ -1,0 +1,4 @@
+\begin{array}{l}
+6 \mathrm{~Hz} \\
+3 \mathrm{~m}
+\end{array}

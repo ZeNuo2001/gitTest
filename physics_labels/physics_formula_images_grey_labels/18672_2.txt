@@ -1,0 +1,1 @@
+T=\frac{\Delta t}{50}

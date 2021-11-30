@@ -1,0 +1,4 @@
+\begin{array}{r}
+\times 100 \\
+\times 1 \mathrm{k}
+\end{array}

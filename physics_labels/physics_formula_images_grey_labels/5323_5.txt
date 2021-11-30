@@ -1,0 +1,1 @@
+F L=\frac{1}{2}(M+m)\left(\frac{d}{\Delta t}\right)^{2}

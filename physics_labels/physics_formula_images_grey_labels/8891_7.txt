@@ -1,0 +1,1 @@
+\Delta x=n \lambda+\frac{\lambda}{10}=\lambda\left(n+\frac{1}{10}\right)=2\left(n+\frac{1}{10}\right) m(n=0,1

@@ -1,0 +1,1 @@
+\frac{Q^{2} \sin ^{2} \theta}{S^{2} g}

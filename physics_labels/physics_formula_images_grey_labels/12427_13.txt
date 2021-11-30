@@ -1,0 +1,1 @@
+B \frac{B v}{(2+\sqrt{2}) r} l \Delta t=m \Delta v

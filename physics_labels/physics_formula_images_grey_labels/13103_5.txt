@@ -1,0 +1,1 @@
+a=g \sin \theta-\mu g \cos \theta=\frac{\sqrt{3}}{3} g

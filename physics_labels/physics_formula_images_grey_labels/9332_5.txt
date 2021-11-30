@@ -1,0 +1,1 @@
+m g \frac{h}{16}=\frac{1}{2} m v_{1}^{\prime 2}

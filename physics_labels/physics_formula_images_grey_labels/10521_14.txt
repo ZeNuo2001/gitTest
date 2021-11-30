@@ -1,0 +1,1 @@
+v=\frac{s_{1}-s_{2}}{\Delta t^{\prime \prime}}=\frac{17}{0.95} \mathrm{~m} / \mathrm{s}=17.9 \mathrm{~m} / \mathrm{s}

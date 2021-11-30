@@ -1,0 +1,1 @@
+F_{n}=m a \cos \theta, F_{X}=m(g-a \sin \theta)

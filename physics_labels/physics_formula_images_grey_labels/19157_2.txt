@@ -1,0 +1,1 @@
+\frac{1}{8} g\left(T_{a}^{2}-T_{b}^{2}\right)

@@ -1,0 +1,1 @@
+\tan r \approx \sin r

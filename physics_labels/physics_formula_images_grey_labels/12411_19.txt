@@ -1,0 +1,1 @@
+\frac{g}{\sqrt{(v B)^{2}+E^{2}}}=1.96 \mathrm{C} / \mathrm{kg}

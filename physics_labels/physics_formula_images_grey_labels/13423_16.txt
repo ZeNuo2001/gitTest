@@ -1,0 +1,1 @@
+\operatorname{an} \varphi=2 \tan \theta

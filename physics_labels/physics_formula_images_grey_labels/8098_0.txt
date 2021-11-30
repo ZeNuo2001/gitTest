@@ -1,0 +1,1 @@
+m_{A}=1 \mathrm{~kg}, m_{B}=2 \mathrm{~kg}

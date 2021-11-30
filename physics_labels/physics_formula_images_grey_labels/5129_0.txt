@@ -1,0 +1,1 @@
+v_{0}=\frac{\sqrt{3} q B a}{3 m}

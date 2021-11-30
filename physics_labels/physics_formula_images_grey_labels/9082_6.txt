@@ -1,0 +1,1 @@
+\frac{\alpha}{2}=r-(i-r)=2 r-i

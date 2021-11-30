@@ -1,0 +1,1 @@
+I_{\mathrm{A}}=300 \mathrm{~mA}

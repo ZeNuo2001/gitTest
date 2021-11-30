@@ -1,0 +1,1 @@
+E=\frac{m g \cot \theta}{q}

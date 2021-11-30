@@ -1,0 +1,4 @@
+\begin{array}{l}
+\nu+E h \\
+\nu+\frac{E}{h}
+\end{array}

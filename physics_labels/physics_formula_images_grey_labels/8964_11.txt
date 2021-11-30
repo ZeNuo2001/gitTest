@@ -1,0 +1,1 @@
+\theta_{2}=90^{\circ}-\theta^{\prime}=90^{\circ}-\theta_{1}

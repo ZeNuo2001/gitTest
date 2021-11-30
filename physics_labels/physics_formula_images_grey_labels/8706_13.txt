@@ -1,0 +1,4 @@
+\begin{array}{l}
+B_{0} \\
+B_{1}
+\end{array}

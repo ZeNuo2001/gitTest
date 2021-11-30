@@ -1,0 +1,1 @@
+v=\left(4 B^{2} I^{2} v_{\mathrm{m}}-F, R\right) / 4 B^{2} I^{2}

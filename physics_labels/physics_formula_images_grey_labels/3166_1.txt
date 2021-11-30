@@ -1,0 +1,1 @@
+I=\frac{B L v}{R}

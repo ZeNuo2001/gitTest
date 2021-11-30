@@ -1,0 +1,1 @@
+F_{1}=m\left(g+a_{1}\right)=2.0 \times 10^{3} \times(10+1.0) \mathrm{N}=2.2 \times 10^{4} \mathrm{~N}

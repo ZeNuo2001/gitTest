@@ -1,0 +1,1 @@
+\frac{1}{v_{0}}\left[l+\left(\frac{M}{m}+1\right) s\right]

@@ -1,0 +1,4 @@
+\begin{array}{l}
+m_{h}>m_{u}>m_{c} \\
+m_{c}>m_{1}>m_{u}
+\end{array}

@@ -1,0 +1,1 @@
+\Delta P=I^{2} \cdot R=\frac{\Delta U^{2}}{R}=

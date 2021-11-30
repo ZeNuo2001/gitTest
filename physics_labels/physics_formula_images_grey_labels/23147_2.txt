@@ -1,0 +1,1 @@
+\frac{q E+m g \sin \alpha-k q^{2} / s_{0}^{2}}{m}

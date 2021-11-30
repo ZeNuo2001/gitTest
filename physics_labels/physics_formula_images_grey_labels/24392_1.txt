@@ -1,0 +1,4 @@
+\begin{array}{l}
+t=1.5 \times 10^{-7} \mathrm{~s} \\
+0 \sim 1.25 \times 10^{-7} \mathrm{~s}
+\end{array}

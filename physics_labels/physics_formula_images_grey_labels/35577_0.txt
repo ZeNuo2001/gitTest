@@ -1,0 +1,1 @@
+-d \leqslant x \leqslant d

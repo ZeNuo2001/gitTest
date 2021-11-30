@@ -1,0 +1,1 @@
+\Delta E=\frac{1}{2} m v^{2}-\frac{1}{2}(M+m) v_{1}^{2}=\frac{1}{2} m v^{2}\left(1-\frac{m}{M+m}\right)=\frac{1}{2} m v^{2} \cdot \frac{M}{M+m}

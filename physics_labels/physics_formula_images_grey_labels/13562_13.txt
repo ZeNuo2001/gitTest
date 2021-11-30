@@ -1,0 +1,1 @@
+\frac{E^{2} R_{0}}{\left(r+R_{0}\right)^{2}}=\frac{6^{2} \times 0.5}{1.5^{2}} \mathrm{~W}=8 \mathrm{~W}

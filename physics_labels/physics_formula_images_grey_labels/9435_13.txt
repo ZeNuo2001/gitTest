@@ -1,0 +1,1 @@
+E_{\mathrm{k}}=E_{\mathrm{km}}+e U=h c\left(\frac{1}{\lambda}-\frac{1}{\lambda_{0}}\right)+e U

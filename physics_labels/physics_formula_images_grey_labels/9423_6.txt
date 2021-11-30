@@ -1,0 +1,1 @@
+v_{0}=\frac{I}{m_{A}}=\frac{1}{0.5} \mathrm{~m} / \mathrm{s}=2 \mathrm{~m} / \mathrm{s}

@@ -1,0 +1,1 @@
+C . a_{4}=\mu\left(1+\frac{m_{2}}{m_{1}}\right) g, a_{B}=0

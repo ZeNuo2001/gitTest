@@ -1,0 +1,1 @@
+v_{\mathrm{m}}=\sqrt{\frac{2 q \varphi_{0}}{m}}

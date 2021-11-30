@@ -1,0 +1,1 @@
+m v_{A 0}+\frac{1}{4} m v_{B 0}^{\prime}=m v_{A}^{\prime}

@@ -1,0 +1,1 @@
+\left(\frac{n \Delta U}{R}\right)^{2} R

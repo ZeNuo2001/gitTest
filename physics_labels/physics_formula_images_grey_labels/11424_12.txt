@@ -1,0 +1,1 @@
+I_{\text {平 }}=\frac{Q}{t}=1 \times 10^{5} \mathrm{~A}

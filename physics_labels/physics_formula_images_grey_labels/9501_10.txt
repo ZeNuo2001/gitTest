@@ -1,0 +1,1 @@
+v_{1 \mathrm{H}}=\frac{m_{\mathrm{n}}-m_{\mathrm{H}}}{m_{\mathrm{n}}+m_{\mathrm{H}}} v_{0}=-\frac{1}{3} v_{0}

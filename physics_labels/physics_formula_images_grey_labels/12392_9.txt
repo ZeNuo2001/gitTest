@@ -1,0 +1,1 @@
+Q=C U=\left(\varepsilon \pi R^{2} / d\right) \cdot B v d=\varepsilon \pi R^{2} B v

@@ -1,0 +1,1 @@
+\frac{u_{2}-u_{1}}{n B l_{2}\left(t_{2}-t_{1}\right)}

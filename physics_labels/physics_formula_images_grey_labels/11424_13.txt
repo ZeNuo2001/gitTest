@@ -1,0 +1,1 @@
+P=\frac{W}{t}=1 \times 10^{14} W

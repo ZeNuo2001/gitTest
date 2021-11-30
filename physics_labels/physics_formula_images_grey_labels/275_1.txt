@@ -1,0 +1,4 @@
+\begin{array}{r}
+14 \\
+7
+\end{array} N

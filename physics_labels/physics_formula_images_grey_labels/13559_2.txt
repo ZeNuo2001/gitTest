@@ -1,0 +1,1 @@
+I=\frac{Q^{\circ}}{t}=v q

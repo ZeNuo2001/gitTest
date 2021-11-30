@@ -1,0 +1,1 @@
+E_{k}=\frac{1}{2}\left(m_{B}+m_{C}\right) v_{B}^{2}>48 \mathrm{~J}

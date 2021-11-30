@@ -1,0 +1,1 @@
+t=t_{1}+t_{2}=\frac{v_{\mathrm{m}}}{a_{1}}+\frac{v_{\mathrm{m}}-v_{2}}{a_{2}}=\left(\frac{36}{4}+\frac{36-20}{8}\right) \mathrm{s}=11 \mathrm{~s}

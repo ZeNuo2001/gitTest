@@ -1,0 +1,1 @@
+p_{B}=p_{A}-p_{b}=65 \mathrm{cmHy}-5 \mathrm{cmHg}=60 \mathrm{cmHg}

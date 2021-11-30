@@ -1,0 +1,1 @@
+E=B \sin \theta l v_{\mathrm{m}}-B \cos \theta l v_{\mathrm{m}}=B l v_{\mathrm{m}}(\sin \theta-\cos \theta)

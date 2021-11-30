@@ -1,0 +1,1 @@
+\bar{v}=\frac{\int_{0}^{T} v_{0} \sqrt{1-\frac{t^{2}}{T^{2}}} \mathrm{~d} t}{T}=\int_{0}^{\frac{\pi}{2}} v_{0} \cos ^{2} \theta \mathrm{d} \theta=\frac{v_{0}}{2} \int_{0}^{\frac{\pi}{2}}(1+\cos 2 \theta) \mathrm{d} \theta=\frac{v_{0}}{2} \frac{\pi}{2}

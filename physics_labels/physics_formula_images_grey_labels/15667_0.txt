@@ -1,0 +1,1 @@
+200 \mathrm{MHz} \sim 1000 \mathrm{MHz}

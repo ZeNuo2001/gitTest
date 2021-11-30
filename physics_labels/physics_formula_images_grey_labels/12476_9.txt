@@ -1,0 +1,1 @@
+T_{A}=\frac{V_{A}}{V_{B}} \cdot T_{B}=\frac{0.4}{0.6} \times 300 \mathrm{~K}=200 \mathrm{~K}

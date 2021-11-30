@@ -1,0 +1,1 @@
+\frac{I \cdot S \tau_{5}^{2} B^{2}}{4 \rho}

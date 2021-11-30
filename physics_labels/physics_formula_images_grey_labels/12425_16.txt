@@ -1,0 +1,1 @@
+U=\frac{3}{4} E=\frac{3 B L}{4} \sqrt{\frac{2 F_{0} s}{m}}

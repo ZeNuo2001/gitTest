@@ -1,0 +1,1 @@
+\frac{B a^{2}}{2 \Delta t}

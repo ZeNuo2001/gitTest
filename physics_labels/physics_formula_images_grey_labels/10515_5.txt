@@ -1,0 +1,1 @@
+\bar{v}=\frac{s}{t}=\frac{28.3}{2} \mathrm{~cm} / \mathrm{s}=14.15 \mathrm{~cm} / \mathrm{s}

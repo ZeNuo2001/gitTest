@@ -1,0 +1,1 @@
+P_{\mathrm{a}}=\frac{U_{\mathrm{a}}^{2}}{R_{\mathrm{a}}}

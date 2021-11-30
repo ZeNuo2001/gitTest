@@ -1,0 +1,1 @@
+E_{1}=k \frac{q}{R^{2}}=k \frac{\Delta s Q}{2 \pi R^{3}}

@@ -1,0 +1,1 @@
+\mathrm{E}_{k 1}=2\left(m^{\prime} c^{2}-m_{0} c^{2}\right)=2 \times\left(\frac{5}{3} m_{0} c^{2}-m_{0} c^{2}\right)=\frac{4}{3} m_{0} c^{2}

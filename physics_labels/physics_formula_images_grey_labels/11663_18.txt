@@ -1,0 +1,1 @@
+t_{\text {总 }}=t+t^{\prime}=1.285 \times 10^{-2} \mathrm{~s}

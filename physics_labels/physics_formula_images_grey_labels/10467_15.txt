@@ -1,0 +1,1 @@
+R_{1}+R_{2}=\frac{I_{R}}{I_{1}-I_{g}} R_{\mathrm{g}}=\frac{500 \times 10^{-6}}{1 \times 10^{-3}-500 \times 10^{-6}} \times 200 \Omega=200 \Omega

@@ -1,0 +1,1 @@
+q \frac{\Delta U}{2 m d}

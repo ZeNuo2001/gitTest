@@ -1,0 +1,1 @@
+\varphi_{A}-\varphi_{K}=2.5 \times 10^{-1} \mathrm{~V}

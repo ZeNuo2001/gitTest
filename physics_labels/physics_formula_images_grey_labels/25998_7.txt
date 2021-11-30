@@ -1,0 +1,1 @@
+\frac{v_{A}}{v_{B}}=\sqrt{\frac{R_{A}}{R_{B}}}=\sqrt{\frac{4}{1}}=\frac{2}{1}

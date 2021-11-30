@@ -1,0 +1,1 @@
+\sin \theta) v_{1}=m g(\mu \cos \theta-\sin \theta) v_{2}

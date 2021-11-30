@@ -1,0 +1,1 @@
+E_{\Lambda}=E_{B}=E=-G \frac{m M}{2 a}

@@ -1,0 +1,1 @@
+h=2 \mathrm{~m}, s=\sqrt{2} \mathrm{~m}

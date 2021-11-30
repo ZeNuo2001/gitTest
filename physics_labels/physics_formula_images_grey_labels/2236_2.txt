@@ -1,0 +1,1 @@
+\frac{\rho I d}{2 \pi R^{2}}

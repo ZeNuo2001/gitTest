@@ -1,0 +1,1 @@
+t=\sqrt{\frac{2 s}{a}}=\sqrt{\frac{2 \times 6.06}{11.5}} \mathrm{~s}=1.03 \mathrm{~s}

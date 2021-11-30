@@ -1,0 +1,1 @@
+\frac{\sqrt{3} \omega B L^{2}}{2 \pi}

@@ -1,0 +1,1 @@
+\mu=0.5, \alpha=37^{\circ}, \sin 37^{\circ}=0.6

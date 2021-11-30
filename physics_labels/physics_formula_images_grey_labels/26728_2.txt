@@ -1,0 +1,1 @@
+\sin 10^{\circ} \approx 0.17

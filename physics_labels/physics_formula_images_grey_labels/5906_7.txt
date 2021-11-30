@@ -1,0 +1,1 @@
+F_{\mathrm{T}} \sin 30^{\circ}-F_{\mathrm{V}} \cos 30^{\circ}=\frac{m v_{1}^{2}}{l \cdot \sin 30^{\circ}}

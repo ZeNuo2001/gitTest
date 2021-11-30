@@ -1,0 +1,1 @@
+\frac{l_{1}\left(l_{1}+2 l_{2}\right) q U_{\mathrm{m}}}{2 m d v_{0}^{2}}

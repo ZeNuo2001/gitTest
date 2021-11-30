@@ -1,0 +1,1 @@
+1.41 \times \sqrt[3]{\frac{58.5 \times 10^{-3}}{2 \times 6.0 \times 10^{23} \times 2.2 \times 10^{3}}} \mathrm{~m}

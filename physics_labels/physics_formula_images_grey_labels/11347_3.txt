@@ -1,0 +1,1 @@
+U=\frac{Q}{C}=\frac{Q}{\frac{\varepsilon S}{4 \pi k d}}=\frac{4 \pi k d Q}{\varepsilon S}

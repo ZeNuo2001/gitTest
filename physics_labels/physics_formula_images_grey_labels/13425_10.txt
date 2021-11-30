@@ -1,0 +1,1 @@
+\sqrt{v_{0}^{2}+v_{x}^{2}}=5 \mathrm{~cm} / \mathrm{s}

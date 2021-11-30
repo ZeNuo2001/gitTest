@@ -1,0 +1,1 @@
+\frac{\Delta m}{\Delta t}=\rho v_{0} S

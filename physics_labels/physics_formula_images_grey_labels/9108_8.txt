@@ -1,0 +1,1 @@
+v=\frac{L}{t}=\frac{20 \times 10^{-2}}{2 \times 10^{-5}} \mathrm{~m} / \mathrm{s}=1.0 \times 10^{4} \mathrm{~m} / \mathrm{s}

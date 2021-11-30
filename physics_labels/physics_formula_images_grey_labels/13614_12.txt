@@ -1,0 +1,4 @@
+\begin{array}{l}
+\tan \theta=\sqrt{3} \\
+\theta=60^{\circ}
+\end{array}

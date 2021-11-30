@@ -1,0 +1,5 @@
+\begin{array}{l}
+t=\frac{T}{4} \\
+t=\frac{3 T}{4} \\
+t=\frac{3 T}{4}
+\end{array}

@@ -1,0 +1,1 @@
+I=\frac{e^{2}}{2 \pi r} \sqrt{\frac{k}{m r}}

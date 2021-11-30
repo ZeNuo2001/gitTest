@@ -1,0 +1,1 @@
+m g \sqrt{2 g R \sin \theta}

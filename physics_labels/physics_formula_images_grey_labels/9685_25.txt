@@ -1,0 +1,1 @@
+\Delta E_{\mathrm{k}}=\frac{1}{2} \rho v_{2}^{2} \Delta V-\frac{1}{2} \rho v_{1}^{2} \Delta V

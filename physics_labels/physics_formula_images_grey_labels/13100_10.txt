@@ -1,0 +1,1 @@
+F x_{1}-m g\left(x_{1}+x_{2}\right) \sin 53^{\circ}-\mu m g x_{1} \cos 53^{\circ}=0-0

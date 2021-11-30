@@ -1,0 +1,2 @@
+B.nv \( \Delta t \)
+I). \( \frac{I \Delta l}{S e} \)

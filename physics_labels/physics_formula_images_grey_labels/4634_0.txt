@@ -1,0 +1,1 @@
+E_{\mathrm{p}}=-\frac{G M m}{r}

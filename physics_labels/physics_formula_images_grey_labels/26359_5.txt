@@ -1,0 +1,1 @@
+P_{\mathrm{H}}=I^{2} R=\frac{P^{2}}{U^{2}} R

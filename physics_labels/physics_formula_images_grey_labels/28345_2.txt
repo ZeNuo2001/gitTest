@@ -1,0 +1,1 @@
+a /\left(\mathbf{m} \cdot \mathbf{s}^{-\mathbf{2}}\right)

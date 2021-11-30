@@ -1,0 +1,1 @@
+R_{\mathrm{M}}=0.5 \Omega

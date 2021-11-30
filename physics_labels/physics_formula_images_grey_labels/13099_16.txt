@@ -1,0 +1,1 @@
+-(m g+f) h=0-\frac{1}{2} m v^{\prime 2}

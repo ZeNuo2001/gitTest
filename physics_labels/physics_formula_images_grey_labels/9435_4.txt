@@ -1,0 +1,1 @@
+I_{\mathrm{m}}=0.56 \mu \mathrm{A}

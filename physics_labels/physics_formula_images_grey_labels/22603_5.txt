@@ -1,0 +1,4 @@
+\begin{array}{l}
+3 \mathrm{~m} / \mathrm{s} \\
+2 \mathrm{~m} / \mathrm{s}
+\end{array}

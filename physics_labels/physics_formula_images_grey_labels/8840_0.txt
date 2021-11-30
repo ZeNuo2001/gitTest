@@ -1,0 +1,1 @@
+T=2 \pi \sqrt{\frac{I_{\mathrm{C}}+m r^{2}}{m g r}}

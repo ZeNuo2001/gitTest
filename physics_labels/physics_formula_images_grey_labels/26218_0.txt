@@ -1,0 +1,1 @@
+x=5 \sin \frac{\pi}{4} t

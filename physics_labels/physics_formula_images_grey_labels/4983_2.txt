@@ -1,0 +1,1 @@
+\frac{p_{A}}{p_{A}^{\prime}+p_{B}^{\prime}}

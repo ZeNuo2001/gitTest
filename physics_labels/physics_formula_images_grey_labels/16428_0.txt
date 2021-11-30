@@ -1,0 +1,1 @@
+\frac{\sqrt{2} \pi \Phi_{m}}{T}

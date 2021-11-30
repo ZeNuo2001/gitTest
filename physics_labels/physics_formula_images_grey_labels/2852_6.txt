@@ -1,0 +1,1 @@
+x=5 \mathrm{~cm}, g=10 \mathrm{~m} / \mathrm{s}^{2}

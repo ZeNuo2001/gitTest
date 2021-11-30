@@ -1,0 +1,1 @@
+\frac{(B l v)^{2}}{2 R}(\sin \theta-\cos \theta)^{2}

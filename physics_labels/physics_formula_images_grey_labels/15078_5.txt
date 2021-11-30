@@ -1,0 +1,1 @@
+v_{\mathrm{m}}=\frac{\rho g d}{R^{2}}

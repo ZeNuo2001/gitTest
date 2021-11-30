@@ -1,0 +1,1 @@
+{ }_{2}^{1} \mathrm{He}+{ }_{13}^{27} \mathrm{~A} 1 \rightarrow{ }_{1}^{30} \mathrm{P}+{ }_{0}^{1} \mathrm{n}

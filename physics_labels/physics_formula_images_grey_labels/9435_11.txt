@@ -1,0 +1,1 @@
+E_{\mathrm{km}}=h \nu-W=h \frac{c}{\lambda}-h \frac{c}{\lambda_{0}}=h c\left(\frac{1}{\lambda}-\frac{1}{\lambda_{0}}\right)

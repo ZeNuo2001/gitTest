@@ -1,0 +1,1 @@
+2 \times \frac{1}{2} m v^{2}=\frac{1}{2} m\left(v_{x^{\prime}}^{2}+v_{y^{\prime}}^{2}\right)

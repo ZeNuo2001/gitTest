@@ -1,0 +1,1 @@
+\sqrt{\frac{U_{e}}{n S L m}}

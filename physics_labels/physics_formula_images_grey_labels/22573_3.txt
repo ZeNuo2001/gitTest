@@ -1,0 +1,4 @@
+\begin{aligned}
+t &=\frac{d}{v_{0}} \\
+t &=d \sqrt{\frac{m}{q U}}
+\end{aligned}

@@ -1,0 +1,1 @@
+4_{1}^{1} \mathrm{H} \rightarrow_{2}^{4} \mathrm{He}+2_{1}^{n} \mathrm{e}+2_{\nu}

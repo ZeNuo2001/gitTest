@@ -1,0 +1,1 @@
+v=g t_{2}=10 \times 6 \mathrm{~m} / \mathrm{s}=60 \mathrm{~m} / \mathrm{s}

@@ -1,0 +1,5 @@
+\begin{array}{l}
+2 \mathrm{~m} \\
+0.24 \mathrm{~s} \\
+15 \mathrm{~m} / \mathrm{s}
+\end{array}

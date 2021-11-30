@@ -1,0 +1,1 @@
+v_{c}=\frac{s_{D}-s_{B}}{2 T}=\frac{(624.5-126.5) \times 10^{-3}}{2 \times 0.1} \mathrm{~m} / \mathrm{s}=2.5 \mathrm{~m} / \mathrm{s}

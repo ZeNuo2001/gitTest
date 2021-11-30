@@ -1,0 +1,1 @@
+\Delta E=P \cdot \Delta t=1.0 \times 10^{10} \times 1.0 \times 10^{-11}=0.1(\mathrm{~J})

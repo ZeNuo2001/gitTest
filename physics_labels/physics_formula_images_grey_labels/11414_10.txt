@@ -1,0 +1,1 @@
+x_{2}=15.0 \mathrm{~mm}+1 \times 0.02 \mathrm{~mm}=15.02 \mathrm{~mm}

@@ -1,0 +1,4 @@
+\begin{array}{l}
+{ }_{2}^{4} \mathrm{H} \\
+{ }_{3}^{6} \mathrm{Li}
+\end{array}

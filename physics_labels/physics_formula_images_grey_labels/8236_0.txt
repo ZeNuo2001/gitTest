@@ -1,0 +1,1 @@
+0 \sim 3 \mathrm{~V}, R_{V}=5 \mathrm{k} \Omega

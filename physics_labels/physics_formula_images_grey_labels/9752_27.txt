@@ -1,0 +1,1 @@
+\sqrt{\frac{h \nu}{m}}=6.25 \times 10^{4} \mathrm{~m} / \mathrm{s}

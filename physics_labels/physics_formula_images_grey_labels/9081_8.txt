@@ -1,0 +1,1 @@
+n=E \cdot S^{\prime} / \Delta E \cdot S=60 \mathrm{~J} \times 50 \times 10^{-2} \mathrm{~cm}^{2} / 0.1 \mathrm{~J} \times 1 \mathrm{~cm}^{2}=300

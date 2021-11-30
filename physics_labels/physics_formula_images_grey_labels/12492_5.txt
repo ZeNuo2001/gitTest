@@ -1,0 +1,1 @@
+0.144 L s^{\prime}=0.144 \cdot \Delta S=2.88 \times 10^{-5}(J)

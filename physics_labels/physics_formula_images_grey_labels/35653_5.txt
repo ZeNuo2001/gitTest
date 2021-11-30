@@ -1,0 +1,4 @@
+\begin{array}{l}
+1<\frac{t_{2}}{t_{1}}<2 \\
+3<\frac{t_{2}}{t_{1}}<4
+\end{array}

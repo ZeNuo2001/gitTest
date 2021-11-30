@@ -1,0 +1,1 @@
+\tan \varphi=\frac{G+F_{\mathrm{T}} \cos \alpha}{F_{\mathrm{T}} \sin \alpha}

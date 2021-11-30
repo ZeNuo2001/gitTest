@@ -1,0 +1,1 @@
+\frac{2 \pi B r v}{\pi+4}

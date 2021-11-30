@@ -1,0 +1,1 @@
+a=\frac{\Delta l^{\prime}}{\Delta t}

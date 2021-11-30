@@ -1,0 +1,1 @@
+y_{P}=-10 \cos \pi t(\mathrm{~cm})

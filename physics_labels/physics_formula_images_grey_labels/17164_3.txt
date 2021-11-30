@@ -1,0 +1,1 @@
+{ }_{90}^{234} \mathrm{Th} \rightarrow \underset{91}{2.34} \mathrm{~Pa}+\mathrm{x}

@@ -1,0 +1,4 @@
+\begin{array}{l}
+q_{1} 、 q_{3} \\
+q_{1} 、 q_{3}
+\end{array}

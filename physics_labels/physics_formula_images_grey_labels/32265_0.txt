@@ -1,0 +1,1 @@
+E_{\mathrm{pr}}=-\frac{G M m_{0}}{r}

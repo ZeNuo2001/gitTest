@@ -1,0 +1,1 @@
+{ }_{92}^{25} \mathrm{U}+{ }_{0}^{1} \mathrm{n} \rightarrow a+b+2_{0}^{1} \mathrm{n}

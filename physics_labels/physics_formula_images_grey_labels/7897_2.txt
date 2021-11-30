@@ -1,0 +1,1 @@
+{ }_{92}^{235} \mathrm{U}+{ }_{0}^{1} \mathrm{n} \rightarrow{ }_{53}^{131} \mathrm{I}+{ }_{39}^{103} \mathrm{Y}+2{ }_{0}^{1} \mathrm{n}

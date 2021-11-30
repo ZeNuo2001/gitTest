@@ -1,0 +1,1 @@
+40 \mathrm{~ms}, 20 \mathrm{~ms}

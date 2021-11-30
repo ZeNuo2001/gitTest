@@ -1,0 +1,1 @@
+\left(n+\frac{3}{10}\right) T

@@ -1,0 +1,1 @@
+x=A B \sin ^{2} \alpha=\frac{1}{4} A B

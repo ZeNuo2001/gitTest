@@ -1,0 +1,1 @@
+t=\frac{4 \pi d}{v_{0}}+\frac{3 \sqrt{3} d}{v_{0}}

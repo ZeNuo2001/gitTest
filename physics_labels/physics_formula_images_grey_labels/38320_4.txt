@@ -1,0 +1,1 @@
+\frac{M_{2} g}{M_{1}}\left(\frac{R_{1}}{R_{2}}\right)^{2}

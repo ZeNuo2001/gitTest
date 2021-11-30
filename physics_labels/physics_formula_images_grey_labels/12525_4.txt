@@ -1,0 +1,1 @@
+\left(\frac{m v_{1}^{2}}{2}-\frac{m v_{2}^{2}}{2}\right) \cdot \eta=c m \Delta t

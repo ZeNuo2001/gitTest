@@ -1,0 +1,1 @@
+\mathrm{u}=27000 \sqrt{2} \sin 100 \pi \mathrm{t}(\mathrm{V})

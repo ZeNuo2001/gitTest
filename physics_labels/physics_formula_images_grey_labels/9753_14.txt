@@ -1,0 +1,1 @@
+\Delta v^{\prime}=\sqrt{v_{0}^{2}+\frac{2 e}{m} U}-\sqrt{\frac{2 e}{m} U}=\frac{v_{0}^{2}}{\sqrt{v_{0}^{2}+2 e U / m}+\sqrt{2 e U / m}}

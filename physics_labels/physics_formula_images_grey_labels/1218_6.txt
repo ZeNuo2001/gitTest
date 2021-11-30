@@ -1,0 +1,1 @@
+\frac{3 m g L \sin \theta}{2}+\frac{m\left(v_{1}^{2}-v_{2}^{2}\right)}{2}

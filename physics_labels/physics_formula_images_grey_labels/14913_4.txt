@@ -1,0 +1,1 @@
+E_{\mathrm{km}}=(\sqrt{2}-1) m g L \frac{1}{\tan \theta}

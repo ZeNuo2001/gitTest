@@ -1,0 +1,1 @@
+\frac{h c\left(\lambda_{0}-\lambda\right)}{\lambda_{0} \lambda}

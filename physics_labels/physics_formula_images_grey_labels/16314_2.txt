@@ -1,0 +1,1 @@
+\Delta t=\frac{4 \pi a}{3 v_{0}}

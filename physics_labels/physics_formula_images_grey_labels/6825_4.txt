@@ -1,0 +1,1 @@
+\frac{1}{4 g} \sqrt{\frac{2 E_{\mathrm{k}}}{m}}

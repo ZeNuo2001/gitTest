@@ -1,0 +1,4 @@
+\begin{array}{l}
+8 \pi \times 10^{-5} \mathrm{~s} \\
+2 \pi \times 10^{-5} \mathrm{~s}
+\end{array}

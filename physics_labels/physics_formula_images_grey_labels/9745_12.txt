@@ -1,0 +1,1 @@
+T=\frac{\pi a b}{S}=\frac{2 \pi a \sqrt{a}}{\sqrt{G M}}

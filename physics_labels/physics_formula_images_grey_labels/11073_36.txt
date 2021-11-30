@@ -1,0 +1,1 @@
+m_{2} g \cos \theta-N_{2}^{\prime}=m_{2} a_{2} \cos \alpha

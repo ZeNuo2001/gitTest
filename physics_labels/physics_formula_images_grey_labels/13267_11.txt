@@ -1,0 +1,1 @@
+W_{1}=-\frac{1}{2} \rho l_{-\pi}(d / 2)^{2} g L=-\frac{1}{8} \pi \rho L^{2} d^{2} g

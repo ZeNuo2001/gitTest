@@ -1,0 +1,1 @@
+E_{\mathrm{AB}}(t, 0)=E_{\mathrm{AB}}\left(t, t_{0}\right)+E_{\mathrm{AB}}\left(t_{0}, 0\right)

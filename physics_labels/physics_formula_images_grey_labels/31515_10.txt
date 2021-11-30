@@ -1,0 +1,1 @@
+\frac{\Delta t}{T_{1}}=\frac{7 \sqrt{7}}{7 \sqrt{7}-1}

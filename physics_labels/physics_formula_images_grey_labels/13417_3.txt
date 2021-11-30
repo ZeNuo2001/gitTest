@@ -1,0 +1,1 @@
+\text { D. } \frac{v^{2}}{g \sin \theta}

@@ -1,0 +1,1 @@
+U_{\mathrm{B}}=1.2 \mathrm{~V}

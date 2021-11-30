@@ -1,0 +1,1 @@
+\frac{\sqrt{3}\left(m_{A}+m_{B}\right)}{3\left(M+m_{A}+m_{B}\right)}

@@ -1,0 +1,1 @@
+\Delta E=\frac{1}{2} M v^{\prime 2}+\frac{1}{2} m v^{2}

@@ -1,0 +1,1 @@
+{ }_{2}^{3} \mathrm{He}+{ }_{2}^{3} \mathrm{He} \rightarrow \frac{1}{2} \mathrm{He}+2

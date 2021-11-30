@@ -1,0 +1,4 @@
+\begin{array}{l}
+t=0.70 \mathrm{~s} \\
+t=0.12 \mathrm{~s}
+\end{array}

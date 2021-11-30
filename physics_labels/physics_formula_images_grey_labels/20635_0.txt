@@ -1,0 +1,1 @@
+\varphi_{A}=1 \mathrm{~V}, \varphi_{C}=2.5 \mathrm{~V}, \varphi_{M}=4 \mathrm{~V}

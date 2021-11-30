@@ -1,0 +1,1 @@
+\Delta E_{k 1}=\frac{1}{2} m v_{1}^{2}-0=\frac{1}{2} \times 1 \times 2^{2} \mathrm{~J}=2 \mathrm{~J}

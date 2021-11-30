@@ -1,0 +1,1 @@
+\sin 4^{\circ} \approx 0.07

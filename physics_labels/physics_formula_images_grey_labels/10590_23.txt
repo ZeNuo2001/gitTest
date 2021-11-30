@@ -1,0 +1,1 @@
+\frac{v_{\mathrm{m}}}{2} t_{1}+\frac{v_{\mathrm{m}}+v_{2}}{2} t_{2}=x

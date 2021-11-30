@@ -1,0 +1,1 @@
+|v|=\left|v_{0}-2 u_{0}\right|<\left|v_{0}\right|

@@ -1,0 +1,1 @@
+F=4 I \sqrt{\frac{m_{0} U}{e}}

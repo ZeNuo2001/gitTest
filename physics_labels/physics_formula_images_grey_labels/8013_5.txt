@@ -1,0 +1,1 @@
+E_{\mathrm{k}}=m g h+\frac{m g x_{0}}{2}

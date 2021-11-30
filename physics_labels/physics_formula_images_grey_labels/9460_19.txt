@@ -1,0 +1,1 @@
+F=\frac{\Delta p_{0}}{\Delta t}=\frac{n h}{\lambda \cdot \Delta t}=\frac{n h \nu}{\lambda \nu \cdot \Delta t}=\frac{P_{W}}{c}=\frac{60}{3.0 \times 10^{8}} \mathrm{~N}=2.0 \times 10^{-7} \mathrm{~N}

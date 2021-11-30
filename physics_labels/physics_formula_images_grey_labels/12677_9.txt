@@ -1,0 +1,1 @@
+W=4 \pi \sigma R_{\mathrm{s}}^{z}

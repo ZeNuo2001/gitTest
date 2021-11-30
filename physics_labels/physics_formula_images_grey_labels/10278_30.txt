@@ -1,0 +1,1 @@
+r=R \tan \frac{\theta}{2}=R \tan \frac{k \pi}{n}

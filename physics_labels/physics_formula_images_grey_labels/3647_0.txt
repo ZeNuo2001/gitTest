@@ -1,0 +1,1 @@
+{ }_{6}^{14} \mathrm{C} \longrightarrow{ }_{Z}^{A} \mathrm{X}+{ }_{-1}^{0} \mathrm{e}

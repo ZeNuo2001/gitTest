@@ -1,0 +1,1 @@
+\frac{B^{2} d^{2} L}{2 m g R(\sin \theta-\mu \cos \theta)}+\frac{2 m g R}{B^{2} d^{2}}

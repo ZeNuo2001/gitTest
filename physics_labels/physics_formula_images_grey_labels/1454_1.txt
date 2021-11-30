@@ -1,0 +1,4 @@
+\begin{array}{r}
+5000 \Omega / N \\
+25000 \Omega / V
+\end{array}

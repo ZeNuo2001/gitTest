@@ -1,0 +1,1 @@
+\Delta p=p_{1}-p_{10}=\frac{2 n_{1} p_{0}\left(V_{20}-\Delta V\right)}{V_{10}+\Delta V+n_{1}\left(V_{20}+\Delta V\right)}-\frac{2 n_{1} p_{0} V_{20} / n_{2}}{V_{10}+n_{1} V_{20} / n_{2}}

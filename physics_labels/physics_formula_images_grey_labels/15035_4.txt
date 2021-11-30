@@ -1,0 +1,1 @@
+\frac{q B_{0} R}{2 m}<v \leqslant \frac{5 q B_{0} R}{8 m}

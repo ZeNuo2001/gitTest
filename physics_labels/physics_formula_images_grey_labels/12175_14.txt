@@ -1,0 +1,1 @@
+I_{1}=\frac{P_{2}+P_{3}}{U_{1}}=\frac{20+60}{220} \mathrm{~A} \approx 0.36 \mathrm{~A}

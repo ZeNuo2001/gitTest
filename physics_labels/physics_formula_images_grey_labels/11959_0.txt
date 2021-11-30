@@ -1,0 +1,1 @@
+d=\frac{V}{S}=\frac{4.8 \times 10^{-3} \times 10^{-3} \times 10^{-6}}{40 \times 10^{-4}} \mathrm{~m}=1.2 \times 10^{-9} \mathrm{~m}

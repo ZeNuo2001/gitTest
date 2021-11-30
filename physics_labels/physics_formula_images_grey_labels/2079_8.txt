@@ -1,0 +1,1 @@
+F_{\mathrm{N}_{\mathrm{A}}}=\frac{\sqrt{2}}{2} m g

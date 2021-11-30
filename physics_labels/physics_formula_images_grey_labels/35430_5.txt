@@ -1,0 +1,1 @@
+R_{\mathrm{A}}=800 \Omega

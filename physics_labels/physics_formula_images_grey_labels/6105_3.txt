@@ -1,0 +1,1 @@
+\Delta m=\rho S \Delta l=\rho S v \Delta t

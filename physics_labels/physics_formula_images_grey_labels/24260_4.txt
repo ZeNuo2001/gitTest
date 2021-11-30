@@ -1,0 +1,4 @@
+\begin{array}{l}
+0 \sim 999.9 \Omega) \\
+0 \sim 9999 \Omega)
+\end{array}

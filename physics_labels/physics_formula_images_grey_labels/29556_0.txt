@@ -1,0 +1,1 @@
+\mu=\frac{F_{\mathrm{P}}}{F_{\mathrm{N}}}

@@ -1,0 +1,1 @@
+m=\rho V=1 \times 10^{3} \times 6000 \mathrm{~kg}=6 \times 10^{6} \mathrm{~kg}

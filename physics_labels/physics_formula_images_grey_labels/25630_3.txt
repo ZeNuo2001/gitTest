@@ -1,0 +1,6 @@
+\begin{array}{l}
+10^{-17} \mathrm{~J} \\
+10^{-19} \mathrm{~J} \\
+10^{-21} \mathrm{~J} \\
+10^{-24} \mathrm{~J}
+\end{array}

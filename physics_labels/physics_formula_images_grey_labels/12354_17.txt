@@ -1,0 +1,1 @@
+\Delta r_{k}=\frac{4 m U}{q B^{2}\left(r_{k+1}+r_{k}\right)}

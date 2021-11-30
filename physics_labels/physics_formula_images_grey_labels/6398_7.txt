@@ -1,0 +1,1 @@
+I=\frac{2 B L\left(v_{1}+v_{2}\right)}{3 R}

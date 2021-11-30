@@ -1,0 +1,1 @@
+y_{P}=10 \sin \left(10 \pi t+\varphi_{P}\right) \mathrm{cm}

@@ -1,0 +1,1 @@
+\Delta x_{1}=n \lambda+\frac{\lambda}{4}

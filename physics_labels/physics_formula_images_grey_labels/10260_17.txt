@@ -1,0 +1,1 @@
+m_{1} v_{0}^{\prime \prime}=\left(m_{1}+m_{2}\right) v_{2}

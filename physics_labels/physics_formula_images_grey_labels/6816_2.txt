@@ -1,0 +1,1 @@
+k=\frac{10 \mathrm{mg}}{l_{0}}

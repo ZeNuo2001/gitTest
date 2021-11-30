@@ -1,0 +1,1 @@
+\mathrm{p}+{ }_{6}^{12} \mathrm{C} \rightarrow{ }_{7}^{13} \mathrm{~N}_{7}^{13} \mathrm{~N} \rightarrow{ }_{6}^{13} \mathrm{C}+\mathrm{e}^{+}+\gamma

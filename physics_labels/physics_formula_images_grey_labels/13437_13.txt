@@ -1,0 +1,1 @@
+F_{\mathrm{T}}+m g \sin \alpha=m \frac{v_{\mathrm{l}}^{2}}{l}

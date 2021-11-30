@@ -1,0 +1,1 @@
+V_{B}=\frac{p_{C} V_{C}}{p_{B}}=20 \mathrm{~L}

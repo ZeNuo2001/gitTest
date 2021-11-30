@@ -1,0 +1,1 @@
+\omega_{n}=\sqrt{\frac{k g}{k L-2 m g}}

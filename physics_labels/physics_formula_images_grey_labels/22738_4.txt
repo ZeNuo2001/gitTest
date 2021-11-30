@@ -1,0 +1,1 @@
+B=\frac{\pi m}{q} \sqrt{\frac{g}{2 h}}

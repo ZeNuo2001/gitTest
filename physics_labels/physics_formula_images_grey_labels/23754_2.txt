@@ -1,0 +1,1 @@
+\varphi=\frac{k q r \cos \theta}{l^{2}}

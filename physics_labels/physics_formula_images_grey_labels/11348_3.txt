@@ -1,0 +1,1 @@
+E=\frac{b \cdot 4 \pi k d}{(t+a) \varepsilon_{\mathrm{r}} S d}=\frac{4 \pi k b}{\varepsilon_{\mathrm{r}} S(t+a)}

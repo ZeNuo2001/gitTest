@@ -1,0 +1,1 @@
+\Delta s=L+s_{B}-s_{A}=L+\frac{1}{2} a_{B} t^{2}-\left(v_{0} t-\frac{1}{2} a_{A} t^{2}\right)=

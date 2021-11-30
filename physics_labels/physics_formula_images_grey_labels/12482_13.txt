@@ -1,0 +1,1 @@
+r=\sqrt{2} d=\sqrt{2} \cdot \sqrt[3]{\frac{M}{2 N_{\mathrm{A} \rho}}}

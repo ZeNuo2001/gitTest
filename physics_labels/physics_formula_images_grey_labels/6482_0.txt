@@ -1,0 +1,1 @@
+" 220 \mathrm{~V} \quad 900 \mathrm{~W} "

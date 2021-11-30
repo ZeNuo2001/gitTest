@@ -1,0 +1,1 @@
+u=U_{\mathrm{m}} \sin 100 \pi l(\mathrm{~V})

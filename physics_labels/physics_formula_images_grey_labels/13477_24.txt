@@ -1,0 +1,1 @@
+P=m g v \sin \theta=2 \times 10 \times 4 \times 0.6 \mathrm{~W}^{\prime}=48 \mathrm{~W}

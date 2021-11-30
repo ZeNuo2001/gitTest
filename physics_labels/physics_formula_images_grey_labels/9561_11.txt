@@ -1,0 +1,1 @@
+R=\frac{m}{q B} \sqrt{\frac{2 q U}{m}+v_{0}^{2}}

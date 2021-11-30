@@ -1,0 +1,1 @@
+\frac{p_{1} V_{1} T_{2}}{p_{2} T_{1}}=\frac{30 \times 100 \times 293}{20 \times 300} \mathrm{~L}=146.5 \mathrm{~L}

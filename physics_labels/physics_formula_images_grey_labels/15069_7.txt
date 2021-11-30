@@ -1,0 +1,1 @@
+B=\frac{2}{l} \sqrt{\frac{m R}{t_{0}}}

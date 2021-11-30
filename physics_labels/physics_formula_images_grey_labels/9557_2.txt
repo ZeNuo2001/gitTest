@@ -1,0 +1,1 @@
+\mathrm{E} \underset{a}{\longrightarrow} \longrightarrow \mathrm{F} \stackrel{\beta}{\longrightarrow} \mathrm{G} \longrightarrow^{\alpha} \longrightarrow \mathrm{H}

@@ -1,0 +1,1 @@
+h_{2}=\frac{v^{2}}{2 g}=\frac{5^{2}}{2 \times 10} \mathrm{~m}=1.25 \mathrm{~m}

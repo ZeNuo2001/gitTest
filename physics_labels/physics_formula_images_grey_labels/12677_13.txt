@@ -1,0 +1,1 @@
+P_{2}=4 \pi \sigma r^{2} T^{\prime}

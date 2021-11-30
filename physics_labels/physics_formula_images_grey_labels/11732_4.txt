@@ -1,0 +1,1 @@
+E=k \frac{q}{(r-l / 2)^{2}}-k \frac{q}{(r+l / 2)^{2}}=k \frac{q}{r^{2}}\left[\left(1-\frac{l}{2 r}\right)^{-2}\right.

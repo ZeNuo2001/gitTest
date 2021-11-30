@@ -1,0 +1,1 @@
+g=\quad \mathrm{m} / \mathrm{s}^{2}

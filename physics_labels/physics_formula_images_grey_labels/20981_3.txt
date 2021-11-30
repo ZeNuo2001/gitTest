@@ -1,0 +1,1 @@
+3 \tan \alpha=2 \tan (\alpha+\beta)

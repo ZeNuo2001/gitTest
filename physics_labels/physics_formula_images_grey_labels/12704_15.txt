@@ -1,0 +1,1 @@
+n=\left[\left(9 p_{0}+6 \rho g h\right)\left(140 \pi^{2} \rho h^{2}\right)\right]^{1 / 2}

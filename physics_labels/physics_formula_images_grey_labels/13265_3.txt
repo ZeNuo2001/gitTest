@@ -1,0 +1,1 @@
+W+\left(-\Delta E_{p}\right)=\frac{1}{2} m\left(v+v_{1}\right)^{2}-\frac{1}{2} m v^{2}

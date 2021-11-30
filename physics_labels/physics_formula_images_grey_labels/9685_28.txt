@@ -1,0 +1,1 @@
+\left(p_{1}-p_{2}\right)+\rho g\left(h_{1}-h_{2}\right)=\frac{1}{2} \rho v_{2}^{2}-\frac{1}{2} \rho v_{1}^{2}

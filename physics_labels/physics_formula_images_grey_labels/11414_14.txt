@@ -1,0 +1,1 @@
+d \Delta x / L=0.20 \mathrm{~mm} \times 2.31 \mathrm{~mm} / 700 \mathrm{~mm}=6.6 \times 10^{2} \mathrm{~nm}

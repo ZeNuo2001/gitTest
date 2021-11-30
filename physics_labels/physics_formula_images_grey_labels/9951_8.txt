@@ -1,0 +1,1 @@
+F_{\mathrm{s}}=m_{\mathrm{g}}

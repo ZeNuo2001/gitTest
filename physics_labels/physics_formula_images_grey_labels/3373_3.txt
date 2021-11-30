@@ -1,0 +1,1 @@
+\sqrt{\frac{f_{\mathrm{m}}}{m r}}

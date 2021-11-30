@@ -1,0 +1,1 @@
+F=6.0 \times 10^{7} \mathrm{~N}

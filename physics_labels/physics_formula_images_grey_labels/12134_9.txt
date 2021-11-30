@@ -1,0 +1,1 @@
+\Delta t=10^{\circ} \mathrm{C}

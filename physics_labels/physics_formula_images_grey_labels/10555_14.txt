@@ -1,0 +1,1 @@
+\bar{v}=\frac{S_{0-4}}{t_{4}}=\frac{\frac{1}{2} \times(2+4) \times 10}{4}=7.5 \mathrm{~m} / \mathrm{s}

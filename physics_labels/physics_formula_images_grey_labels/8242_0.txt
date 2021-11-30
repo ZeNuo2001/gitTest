@@ -1,0 +1,1 @@
+{ }_{92}^{238} \mathrm{U} \rightarrow{ }_{36}^{141} \mathrm{Ba}+{ }_{36}^{92} \mathrm{Kr}+2{ }_{0}^{1} \mathrm{n}

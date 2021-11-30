@@ -1,0 +1,1 @@
+\frac{n_{1}^{2} n_{2}^{2} \Delta l}{\left(n_{2}^{2}+n_{1}^{2}\right) c \Delta t}

@@ -1,0 +1,1 @@
+{ }_{55}^{137} \mathrm{Cs} \rightarrow{ }_{56}^{137} \mathrm{Ba}+\mathrm{X}

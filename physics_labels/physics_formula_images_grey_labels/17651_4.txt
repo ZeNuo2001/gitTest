@@ -1,0 +1,1 @@
+v_{A}=\frac{v_{l B}}{\sin \alpha}

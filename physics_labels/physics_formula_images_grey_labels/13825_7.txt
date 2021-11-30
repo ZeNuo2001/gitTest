@@ -1,0 +1,1 @@
+{ }_{42}^{235} \mathrm{U} \rightarrow{ }_{82}^{207} \mathrm{~Pb}+m_{2}^{4} \mathrm{He}+n_{-1}^{0} \mathrm{e}

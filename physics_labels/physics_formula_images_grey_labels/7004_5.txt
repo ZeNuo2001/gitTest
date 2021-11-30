@@ -1,0 +1,1 @@
+m g \tan \alpha=\frac{m v^{2}}{r}

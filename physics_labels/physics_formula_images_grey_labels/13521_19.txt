@@ -1,0 +1,1 @@
+\varphi_{M}=\frac{\varphi_{a}+\varphi_{r}}{2}

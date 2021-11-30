@@ -1,0 +1,1 @@
+P=F v_{\mathrm{m}}

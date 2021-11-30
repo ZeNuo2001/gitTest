@@ -1,0 +1,6 @@
+\begin{array}{l}
+r=r_{0} \\
+r=r_{1} \\
+r=r_{0} \\
+r=r_{1}
+\end{array}

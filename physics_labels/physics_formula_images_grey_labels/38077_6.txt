@@ -1,0 +1,1 @@
+10 M A=\frac{\mathrm{F}}{\mathrm{R}_{\mathrm{K}}}

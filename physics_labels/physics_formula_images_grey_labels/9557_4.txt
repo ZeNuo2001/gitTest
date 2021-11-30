@@ -1,0 +1,1 @@
+(A) \longrightarrow(A+1) \longrightarrow(A+2) \longrightarrow(A)

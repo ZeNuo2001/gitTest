@@ -1,0 +1,1 @@
+\frac{\Delta U}{k_{1} k_{2} R_{0}} U

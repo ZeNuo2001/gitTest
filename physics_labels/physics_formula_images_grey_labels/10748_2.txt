@@ -1,0 +1,1 @@
+F_{1} \sin \theta-F_{2} \cos \theta=m g \sin \theta, F_{2} \leqslant m g

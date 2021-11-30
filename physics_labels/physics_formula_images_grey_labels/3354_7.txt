@@ -1,0 +1,1 @@
+E_{\mathrm{k}}=1.2 \times 10^{-19} \mathrm{~J}

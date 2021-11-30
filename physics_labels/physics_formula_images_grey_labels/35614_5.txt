@@ -1,0 +1,6 @@
+\begin{array}{l}
+\frac{\Delta U_{1}}{\Delta I} \\
+\frac{\Delta U_{2}}{\Delta I} \\
+\frac{\Delta U_{2}}{\Delta I} \\
+\frac{\Delta U_{3}}{\Delta I}
+\end{array}

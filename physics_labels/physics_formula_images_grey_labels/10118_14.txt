@@ -1,0 +1,1 @@
+E_{\mid \mathrm{pm}}=\frac{1}{45} Q E_{\mid 1} d

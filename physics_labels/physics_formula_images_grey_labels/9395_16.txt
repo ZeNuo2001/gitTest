@@ -1,0 +1,1 @@
+E_{\mathrm{m}}=\Delta E_{\mathrm{k}}=\frac{1}{2} m v_{A 0}^{2}+\frac{1}{2} \cdot \frac{1}{4} m v_{B 0}^{2}-\frac{1}{2}\left(m+\frac{1}{4} m\right) v^{2}

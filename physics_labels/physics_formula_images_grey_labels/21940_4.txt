@@ -1,0 +1,1 @@
+n=\frac{\sin i}{\sin r}=\frac{\sin 2 r}{\sin r}=\sqrt{3}

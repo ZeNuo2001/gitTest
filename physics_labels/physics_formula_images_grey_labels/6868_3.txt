@@ -1,0 +1,1 @@
+(1.4+2.4 n) \mathrm{m} / \mathrm{s}(n=0,1,2, \cdots)

@@ -1,0 +1,1 @@
+\frac{\Delta B}{\Delta t}=\frac{m g d}{2 q L^{2}}

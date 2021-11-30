@@ -1,0 +1,1 @@
+\sin C_{\text {甲 }}=\frac{\sin i}{\sin r}

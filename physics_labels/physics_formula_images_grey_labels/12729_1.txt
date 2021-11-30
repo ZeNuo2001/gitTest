@@ -1,0 +1,1 @@
+t_{\mathrm{A}}<t_{\mathrm{B}}

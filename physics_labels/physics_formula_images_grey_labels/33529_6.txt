@@ -1,0 +1,1 @@
+\mathrm{v}=11 \sqrt{2} \sin 10 \pi \mathrm{m} / \mathrm{s}

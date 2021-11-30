@@ -1,0 +1,1 @@
+\frac{\Delta B}{\Delta t} \cdot S=k \pi r^{2}

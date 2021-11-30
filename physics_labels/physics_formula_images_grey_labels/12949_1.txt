@@ -1,0 +1,1 @@
+\left(\frac{\pi}{G \rho}\right)^{\frac{1}{2}}

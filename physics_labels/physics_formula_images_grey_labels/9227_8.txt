@@ -1,0 +1,1 @@
+n \sin i=n^{\prime} \sin i^{\prime}

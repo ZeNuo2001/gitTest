@@ -1,0 +1,1 @@
+\frac{p_{B}}{T_{B}}=\frac{p_{C}}{T_{C}}

@@ -1,0 +1,1 @@
+R_{r}=10 \mathrm{k} \Omega

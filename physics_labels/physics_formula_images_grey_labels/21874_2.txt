@@ -1,0 +1,4 @@
+\begin{array}{l}
+A \\
+z
+\end{array} X

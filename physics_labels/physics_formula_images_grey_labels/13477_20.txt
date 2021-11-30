@@ -1,0 +1,1 @@
+\bar{P}=\frac{W}{t}=\frac{48}{2} \mathrm{~W}=24 \mathrm{~W}

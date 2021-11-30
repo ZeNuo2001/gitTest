@@ -1,0 +1,1 @@
+\frac{m g R \sin \theta}{B^{2} L^{2}}

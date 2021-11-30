@@ -1,0 +1,1 @@
+E_{k \text { t1 }}=h \cdot 2 \nu_{0}-W_{0}=h \nu_{0}

@@ -1,0 +1,1 @@
+{ }_{15}^{30} \mathrm{P} \rightarrow{ }_{14}^{30} \mathrm{Si}+{ }_{1}^{0} \mathrm{e}+{ }_{Z}^{1} \mathrm{v}

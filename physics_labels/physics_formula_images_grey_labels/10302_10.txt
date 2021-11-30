@@ -1,0 +1,1 @@
+T=3.0 \times 10^{-3} \mathrm{~s}

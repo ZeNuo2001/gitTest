@@ -1,0 +1,1 @@
+h \frac{c}{\lambda}

@@ -1,0 +1,1 @@
+\Delta E_{k}=n l S\left[\frac{1}{2} m v^{2}-\frac{1}{2} m(v-\Delta v)^{2}\right]

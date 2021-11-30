@@ -1,0 +1,1 @@
+t_{1}=\frac{v}{a_{1}}=\frac{10}{10} \mathrm{~s}=1 \mathrm{~s}, t_{1}

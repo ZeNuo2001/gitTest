@@ -1,0 +1,1 @@
+\frac{\mathrm{qNS}_{1}\left(\mathrm{~B}_{2}-\mathrm{B}_{1}\right)}{\mathrm{g}\left(\mathrm{t}_{2}-\mathrm{t}_{1}\right)}

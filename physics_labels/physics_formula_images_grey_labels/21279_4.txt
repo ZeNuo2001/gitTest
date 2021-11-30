@@ -1,0 +1,5 @@
+\begin{array}{|c|c|c|c|c|c|}
+\hline F / \mathrm{N} & 0 & 40.0 & 80.0 & 120.0 & 160.0 \\
+\hline R_{\mathrm{x}} / \Omega & 400.0 & 320.3 & 240.0 & 160.1 & 79.8 \\
+\hline
+\end{array}

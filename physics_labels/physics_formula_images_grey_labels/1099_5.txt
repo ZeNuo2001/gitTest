@@ -1,0 +1,1 @@
+\Delta E_{\mathrm{k}}=\frac{\pi B_{0} R^{2} e}{t_{0}}

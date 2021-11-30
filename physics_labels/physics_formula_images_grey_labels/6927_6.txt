@@ -1,0 +1,1 @@
+\text { C. } \frac{2 v_{0}}{g}<\Delta t<\frac{4 v_{0}}{g}

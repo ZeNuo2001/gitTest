@@ -1,0 +1,1 @@
+F_{\mathrm{v}}=m a_{\mathrm{a}}

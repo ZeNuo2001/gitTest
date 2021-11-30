@@ -1,0 +1,1 @@
+U_{t x}=0, U_{c d}=6 \mathrm{~V}

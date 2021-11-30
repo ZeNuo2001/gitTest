@@ -1,0 +1,1 @@
+\frac{1}{2}(\Delta m) v^{2}+(\Delta m) g h=\frac{1}{2}(\Delta m) v_{0}^{2}

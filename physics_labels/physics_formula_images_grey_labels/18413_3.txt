@@ -1,0 +1,1 @@
+\frac{m g_{f} R}{R+h}\left(h+\frac{\sqrt{2}}{2} R\right)

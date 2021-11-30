@@ -1,0 +1,1 @@
+\left(m_{3}+m_{1}\right) g\left(x_{1}+x_{2}\right)-m_{1} g\left(x_{1}+x_{2}\right)-\Delta E

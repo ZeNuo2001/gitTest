@@ -1,0 +1,4 @@
+\begin{aligned}
+t &=0 \\
+t &=1
+\end{aligned}

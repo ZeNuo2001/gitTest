@@ -1,0 +1,1 @@
+E_{\mathrm{k} 2}=2 E_{\mathrm{kl}}

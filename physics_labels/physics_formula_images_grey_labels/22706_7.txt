@@ -1,0 +1,5 @@
+\begin{array}{c}
+B_{0} \\
+O \\
+-B_{0}
+\end{array}

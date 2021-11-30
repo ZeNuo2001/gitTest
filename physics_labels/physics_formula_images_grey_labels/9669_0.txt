@@ -1,0 +1,1 @@
+S=1.37 \times 10^{3} \mathrm{~W} / \mathrm{m}^{2}

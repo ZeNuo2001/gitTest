@@ -1,0 +1,1 @@
+\sqrt{5 L g} \leqslant v \leqslant 3 \sqrt{L g}

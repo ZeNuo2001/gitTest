@@ -1,0 +1,1 @@
+\frac{2 \pi}{T} \sqrt[3]{\frac{2 \pi g R^{2}}{T}}

@@ -1,0 +1,4 @@
+R_{\mathrm{r}}=\begin{array}{l}
+U \\
+I
+\end{array}

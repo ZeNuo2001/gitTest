@@ -1,0 +1,1 @@
+\frac{U_{\mathrm{H}}}{\rho \frac{b}{a c}+R}

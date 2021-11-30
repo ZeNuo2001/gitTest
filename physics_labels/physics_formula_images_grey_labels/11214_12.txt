@@ -1,0 +1,1 @@
+a=\frac{\sum F}{m}=\frac{g}{\cos \theta}

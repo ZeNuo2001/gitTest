@@ -1,0 +1,4 @@
+\begin{array}{l}
+\frac{2}{3} \mathrm{~s} \\
+\frac{4}{5} \mathrm{~s}
+\end{array}

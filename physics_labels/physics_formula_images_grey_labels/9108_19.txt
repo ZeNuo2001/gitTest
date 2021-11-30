@@ -1,0 +1,1 @@
+v^{\prime}=v=1.0 \times 10^{4} \mathrm{~m} / \mathrm{s}

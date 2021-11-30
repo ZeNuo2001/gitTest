@@ -1,0 +1,1 @@
+\frac{I S \Delta l}{p} \sqrt{\frac{m}{2 \mu}}

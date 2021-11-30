@@ -1,0 +1,1 @@
+v_{1}=\sqrt{u_{0}^{2}+\frac{2}{m}\left(P t_{1}-f d\right)}

@@ -1,0 +1,4 @@
+\begin{array}{r}
+60^{\circ} \\
+\times^{\circ}
+\end{array}

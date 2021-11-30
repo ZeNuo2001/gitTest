@@ -1,0 +1,1 @@
+\cos \left(90^{\circ}-\alpha\right)=\sin \alpha

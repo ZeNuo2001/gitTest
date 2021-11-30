@@ -1,0 +1,1 @@
+\frac{G M \sin \theta}{R^{2}}

@@ -1,0 +1,1 @@
+T^{\prime}=\frac{p_{B}^{\prime} V_{B}^{\prime}}{n_{B} R}=\frac{V_{B}^{\prime}}{n_{B} R}\left[p_{0}+2\left(p_{B}-p_{A}\right)\right]

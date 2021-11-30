@@ -1,0 +1,1 @@
+P=\Delta E_{\mathrm{k}}

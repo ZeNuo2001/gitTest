@@ -1,0 +1,3 @@
+\begin{array}{llll}
+0 & 7.8 & 17.6 & 31.4
+\end{array}

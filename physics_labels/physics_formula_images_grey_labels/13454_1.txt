@@ -1,0 +1,1 @@
+\text { A. } \frac{3 \pi}{G T^{2}} \frac{g_{0}-g}{g_{0}}

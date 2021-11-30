@@ -1,0 +1,1 @@
+\frac{\Delta U_{2}}{\Delta I}

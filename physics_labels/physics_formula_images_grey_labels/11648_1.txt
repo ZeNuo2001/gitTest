@@ -1,0 +1,1 @@
+k=10^{-7} \mathrm{~Wb} /(\mathrm{A} \cdot \mathrm{m})

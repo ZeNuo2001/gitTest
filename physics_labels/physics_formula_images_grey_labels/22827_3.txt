@@ -1,0 +1,1 @@
+e=400 \cos 50 \pi t(\mathrm{~V})

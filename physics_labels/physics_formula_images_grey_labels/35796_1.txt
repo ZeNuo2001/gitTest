@@ -1,0 +1,1 @@
+\frac{\rho h g t}{T}

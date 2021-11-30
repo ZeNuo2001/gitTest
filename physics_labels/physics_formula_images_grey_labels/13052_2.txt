@@ -1,0 +1,1 @@
+\omega=100 \mathrm{rad} / \mathrm{min}

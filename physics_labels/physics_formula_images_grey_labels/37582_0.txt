@@ -1,0 +1,1 @@
+a b=b c=L, b d=\frac{\sqrt{2}}{2} L

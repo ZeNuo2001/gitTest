@@ -1,0 +1,1 @@
+x=\frac{2 v_{0}^{2} \cos \theta \sin (\alpha+\theta)}{g \cos \alpha}=\frac{v_{0}^{2}[\sin (2 \theta+\alpha)+\sin \alpha]}{g \cos \alpha}

@@ -1,0 +1,1 @@
+\alpha=\frac{\Delta V}{V \Delta t}

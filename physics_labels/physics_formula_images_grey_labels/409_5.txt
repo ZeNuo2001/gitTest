@@ -1,0 +1,1 @@
+R_{1}=1 \mathrm{k} \Omega, R_{2}=100 \Omega, R_{3}=8 \mathrm{k} \Omega

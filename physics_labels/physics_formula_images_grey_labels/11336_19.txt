@@ -1,0 +1,1 @@
+W=2 m g l\left(\sin 45^{\circ}+1-\sin 60^{\circ}-\cos 60^{\circ}\right)=6.82 \times 10^{-2} \mathrm{~J}

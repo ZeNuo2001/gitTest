@@ -1,0 +1,1 @@
+4\left(\frac{n_{2}}{n_{1}}\right)^{2}\left(\frac{P}{U_{m}}\right)^{2} r

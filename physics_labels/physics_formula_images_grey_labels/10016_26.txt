@@ -1,0 +1,1 @@
+a=\frac{F-F_{f}}{m}=\frac{5-3}{1} \mathrm{~m} / \mathrm{s}^{2}=2.0 \mathrm{~m} / \mathrm{s}^{2}

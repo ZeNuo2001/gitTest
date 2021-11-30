@@ -1,0 +1,1 @@
+{ }_{94}^{239} \mathrm{Pu} \longrightarrow \mathrm{X}+{ }_{2}^{4} \mathrm{He}+\gamma

@@ -1,0 +1,1 @@
+m \sqrt{\frac{2 g R}{M(M+m)}}

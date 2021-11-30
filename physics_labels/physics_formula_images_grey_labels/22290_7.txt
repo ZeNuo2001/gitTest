@@ -1,0 +1,4 @@
+\begin{array}{l}
+2 \sim 4 \mathrm{~s} \\
+0 \sim 2 \mathrm{~s}
+\end{array}

@@ -1,0 +1,1 @@
+\Delta v_{1}=\frac{h}{4 \pi \Delta x m}=\frac{5.3 \times 10^{-35}}{10^{-6} \times 1.0} \mathrm{~m} / \mathrm{s}=5.3 \times 10^{-29} \mathrm{~m} / \mathrm{s}

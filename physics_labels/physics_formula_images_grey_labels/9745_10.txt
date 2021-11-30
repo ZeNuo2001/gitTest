@@ -1,0 +1,1 @@
+S_{\Lambda}=S_{B}=S=\frac{b}{2} \sqrt{G M / a}

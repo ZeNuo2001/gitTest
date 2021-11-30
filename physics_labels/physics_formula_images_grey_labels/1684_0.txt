@@ -1,0 +1,1 @@
+\mathrm{kg} \cdot \mathrm{s}^{2} / \mathrm{m}

@@ -1,0 +1,1 @@
+x=\left(\frac{1}{2} \times 2 \times 2+2 \times 2\right) \mathrm{m}=6 \mathrm{~m}

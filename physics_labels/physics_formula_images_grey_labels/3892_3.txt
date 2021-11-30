@@ -1,0 +1,1 @@
+B=\frac{m}{2 q d} \sqrt{2 d g}

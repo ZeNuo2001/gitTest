@@ -1,0 +1,1 @@
+B=\frac{\sqrt{6 m E_{0}}}{3 q R}

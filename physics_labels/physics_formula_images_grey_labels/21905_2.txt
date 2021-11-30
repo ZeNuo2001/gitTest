@@ -1,0 +1,1 @@
+m_{\mathrm{P}} g_{\mathrm{M}}=m_{\mathrm{P}} \cdot 3 a_{0}

@@ -1,0 +1,1 @@
+B q v^{\prime}=m \frac{v^{\prime 2}}{r}

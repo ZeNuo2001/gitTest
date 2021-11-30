@@ -1,0 +1,1 @@
+\frac{R \omega}{2 \pi}(Q B+m \omega)

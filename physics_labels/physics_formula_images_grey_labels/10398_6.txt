@@ -1,0 +1,1 @@
+\alpha=\arcsin \frac{r}{\sqrt{r^{2}+l^{2}}}

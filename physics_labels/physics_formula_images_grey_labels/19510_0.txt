@@ -1,0 +1,1 @@
+L \sqrt{\frac{g}{2 h}} \leqslant v_{0} \leqslant 3 L \sqrt{\frac{g}{2 h}}

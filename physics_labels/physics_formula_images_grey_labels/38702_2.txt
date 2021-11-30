@@ -1,0 +1,1 @@
+y=4 \sin \left(\frac{\pi}{6} t+\frac{\pi}{3}\right)(\mathrm{m})

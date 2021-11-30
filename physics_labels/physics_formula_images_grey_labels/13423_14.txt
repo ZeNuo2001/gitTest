@@ -1,0 +1,1 @@
+\tan \theta=\frac{v_{y}}{v_{0}}, v_{y}

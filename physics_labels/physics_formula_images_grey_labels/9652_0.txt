@@ -1,0 +1,1 @@
+m_{n} v_{n}=m_{n} v_{n}^{\prime}+m_{A} v_{A}^{\prime}

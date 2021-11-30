@@ -1,0 +1,1 @@
+E_{\mathrm{k} 2}=0.81 E_{\mathrm{k} 1}, R_{1}=\frac{m v_{1}}{B e}, R_{2}=\frac{m v_{2}}{B e}, E_{\mathrm{kl}}=\frac{1}{2} m v_{1}^{2}, E_{\mathrm{k} 2}=\frac{1}{2} m v_{2}^{2}

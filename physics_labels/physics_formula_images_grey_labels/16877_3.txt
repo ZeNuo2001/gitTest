@@ -1,0 +1,1 @@
+30^{\circ} \leqslant \alpha \leqslant 60^{\circ}

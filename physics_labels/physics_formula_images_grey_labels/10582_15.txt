@@ -1,0 +1,1 @@
+\frac{\left(s_{D}-3 s_{B}+2 s_{A}\right) f^{2}}{75}

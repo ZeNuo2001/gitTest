@@ -1,0 +1,1 @@
+\Delta p=\frac{L \cdot d w_{0} B^{2}}{L h R+d \rho}

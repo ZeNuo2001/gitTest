@@ -1,0 +1,1 @@
+10^{11} \mathrm{~N} \cdot \mathrm{m}^{2} / \mathrm{kg}^{2}

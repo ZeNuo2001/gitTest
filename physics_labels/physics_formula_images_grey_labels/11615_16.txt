@@ -1,0 +1,1 @@
+I_{\min }^{\prime} \approx \frac{E}{R_{x}+R_{\mathrm{A}_{2}}+R_{2}} \approx

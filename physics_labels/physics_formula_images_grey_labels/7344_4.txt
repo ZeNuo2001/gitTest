@@ -1,0 +1,1 @@
+299792458 \mathrm{~m} \cdot \mathrm{s}^{-1}

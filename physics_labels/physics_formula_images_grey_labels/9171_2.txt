@@ -1,0 +1,1 @@
+E_{\mathrm{k} 2}=m^{\prime \prime} c^{2}-m_{0} c^{2}=3.56 m_{0} c^{2}

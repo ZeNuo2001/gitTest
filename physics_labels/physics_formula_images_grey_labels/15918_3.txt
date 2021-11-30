@@ -1,0 +1,1 @@
+\frac{\omega L \cos \beta}{\cos \alpha}

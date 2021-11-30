@@ -1,0 +1,1 @@
+\frac{m}{B d} \sqrt{2 g L(1-\cos \theta)}

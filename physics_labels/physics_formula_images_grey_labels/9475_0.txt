@@ -1,0 +1,1 @@
+\lambda=\frac{h}{\sqrt{2 m e U}}

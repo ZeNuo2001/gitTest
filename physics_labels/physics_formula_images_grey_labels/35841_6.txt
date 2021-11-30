@@ -1,0 +1,1 @@
+a=1.56 \mathrm{~m} / \mathrm{s}^{2}, t=5.34 \mathrm{~s}

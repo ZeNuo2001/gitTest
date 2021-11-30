@@ -1,0 +1,1 @@
+P=\frac{N \cdot \frac{1}{2} m v^{2}}{t}

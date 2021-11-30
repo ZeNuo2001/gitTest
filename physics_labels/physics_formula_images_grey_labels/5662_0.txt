@@ -1,0 +1,4 @@
+\begin{array}{l}
+1 \mathrm{~s} \\
+1 \mathrm{~s}
+\end{array}

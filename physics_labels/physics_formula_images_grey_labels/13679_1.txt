@@ -1,0 +1,1 @@
+\left(x_{C D}-x_{B C}\right),\left(x_{D E}-x_{C D}\right)

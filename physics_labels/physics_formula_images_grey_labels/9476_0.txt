@@ -1,0 +1,1 @@
+\Delta p \geqslant \frac{6.63 \times 10^{-34}}{4 \pi}

@@ -1,0 +1,1 @@
+\Delta h=\frac{h}{\sin \theta}-h=0.05 \mathrm{~m}

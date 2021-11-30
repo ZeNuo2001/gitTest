@@ -1,0 +1,1 @@
+\Delta E_{\mathrm{p}}=m g h=\Delta V \rho \cdot g h=Q \Delta t \rho g h

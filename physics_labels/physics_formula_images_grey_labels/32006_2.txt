@@ -1,0 +1,1 @@
+F_{1}=1 \mathrm{~N}, F_{2}=4 \mathrm{~N}

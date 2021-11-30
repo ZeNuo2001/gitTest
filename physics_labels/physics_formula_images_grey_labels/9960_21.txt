@@ -1,0 +1,1 @@
+f_{\mathrm{V}}=f-m_{1} g \sin \alpha-m_{1} a=880 \mathrm{~N}

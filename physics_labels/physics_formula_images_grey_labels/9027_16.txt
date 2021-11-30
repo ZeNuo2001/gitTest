@@ -1,0 +1,1 @@
+\lambda_{1}=n \lambda_{2}=1.5 \times 4 \times 10^{-7} \mathrm{~m}=6 \times 10^{-7} \mathrm{~m}

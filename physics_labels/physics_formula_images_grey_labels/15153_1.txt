@@ -1,0 +1,4 @@
+\begin{array}{r}
+232 \\
+92
+\end{array}

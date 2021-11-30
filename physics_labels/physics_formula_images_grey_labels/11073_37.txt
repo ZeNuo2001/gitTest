@@ -1,0 +1,1 @@
+a_{1} \sin \theta=a_{2} \cos \alpha

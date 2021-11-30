@@ -1,0 +1,1 @@
+F=B \frac{\varepsilon}{2 R} l=\frac{B^{2} l^{2} v}{2 R}(\sin \theta-

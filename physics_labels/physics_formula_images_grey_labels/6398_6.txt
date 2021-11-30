@@ -1,0 +1,1 @@
+a=\frac{2 B^{2} L^{2}\left(v_{1}-v_{2}\right)}{3 m R}

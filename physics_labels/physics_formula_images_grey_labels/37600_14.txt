@@ -1,0 +1,1 @@
+u=36 \sqrt{2} \sin \pi t(\mathrm{~V})

@@ -1,0 +1,1 @@
+t=\frac{y}{v_{0}}=\frac{6 \mathrm{~cm}}{3 \mathrm{~cm} / \mathrm{s}}=2 \mathrm{~s}

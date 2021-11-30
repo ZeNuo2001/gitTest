@@ -1,0 +1,1 @@
+-F \Delta t=m \Delta v

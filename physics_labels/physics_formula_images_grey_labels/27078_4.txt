@@ -1,0 +1,1 @@
+\frac{1}{2} E_{\mathrm{m}} \sin \omega t

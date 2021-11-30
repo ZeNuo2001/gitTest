@@ -1,0 +1,4 @@
+\begin{array}{l}
+10 \Omega \\
+50 \Omega
+\end{array}

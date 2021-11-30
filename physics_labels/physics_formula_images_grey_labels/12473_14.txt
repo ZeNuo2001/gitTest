@@ -1,0 +1,1 @@
+n \propto n_{0} V

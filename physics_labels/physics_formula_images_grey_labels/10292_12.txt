@@ -1,0 +1,1 @@
+s=\frac{1}{2} a\left(\frac{T}{2}\right)^{2} \times 2 n=\frac{n a T^{2}}{4}

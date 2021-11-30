@@ -1,0 +1,1 @@
+t=\frac{2 m \rho}{B^{2} L S}

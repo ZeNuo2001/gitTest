@@ -1,0 +1,1 @@
+10^{3} \mathrm{~J} /\left(\mathrm{kg} \cdot{ }^{\circ} \mathrm{C}\right)

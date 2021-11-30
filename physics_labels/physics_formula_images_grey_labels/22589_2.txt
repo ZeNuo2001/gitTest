@@ -1,0 +1,4 @@
+\begin{array}{l}
+k_{0}=\frac{16}{9} \\
+k_{0}=\frac{4}{3}
+\end{array}

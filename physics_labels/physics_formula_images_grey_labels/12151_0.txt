@@ -1,0 +1,1 @@
+1 \mathrm{mH}, C=200 \mathrm{pF})

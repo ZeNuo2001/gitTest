@@ -1,0 +1,1 @@
+U=\frac{g m d^{2}}{2 l q}=1 \times 10^{4} \mathrm{~V}

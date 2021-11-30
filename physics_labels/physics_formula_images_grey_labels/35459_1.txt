@@ -1,0 +1,1 @@
+{ }_{7}^{14} \mathrm{~N}+{ }_{0}^{1} \mathrm{n} \rightarrow{ }_{m}^{n} \mathrm{~B}+{ }_{2}^{4} \mathrm{H} \mathrm{e}

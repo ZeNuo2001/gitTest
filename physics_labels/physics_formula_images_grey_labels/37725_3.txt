@@ -1,0 +1,8 @@
+\begin{array}{c}
+E / \mathrm{eV} \\
+0 \\
+-0.54 \\
+-0.85 \\
+-1.51 \\
+-3.4
+\end{array}

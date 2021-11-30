@@ -1,0 +1,1 @@
+T^{\prime}=\frac{T}{\sqrt{800}}=204 \mathrm{~K}

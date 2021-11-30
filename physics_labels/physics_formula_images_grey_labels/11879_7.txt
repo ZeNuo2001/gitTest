@@ -1,0 +1,1 @@
+10^{-3} \mathrm{~m}^{3}=\frac{p_{0} \cdot 4 \pi R^{2}}{M_{0} g} \times 22.4 \times 10^{-3} \mathrm{~m}^{3}=\frac{1.0 \times 10^{5} \times 4 \times 3.14 \times\left(6.4 \times 10^{6}\right)^{2}}{29 \times 10^{-3} \times 10} \times 22.4 \times 10^{-3} \mathrm{~m}^{3}=4 \times

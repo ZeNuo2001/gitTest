@@ -1,0 +1,1 @@
+\frac{m_{2}}{m_{1}+m_{2}}=\frac{L}{\lambda+L}=\frac{2.49 \times 10^{6}}{3.34 \times 10^{5}+2.49 \times 10^{6}} \approx 0.88

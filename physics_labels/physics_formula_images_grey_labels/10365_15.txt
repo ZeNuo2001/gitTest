@@ -1,0 +1,1 @@
+P=I^{2} R=\left(\frac{B L v_{0}}{L R}+\frac{\rho}{h}\right)^{2} R

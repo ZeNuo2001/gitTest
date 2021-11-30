@@ -1,0 +1,1 @@
+W_{2}=q\left(\varphi_{r}-\varphi_{d}\right)

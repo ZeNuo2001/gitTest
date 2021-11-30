@@ -1,0 +1,1 @@
+\nu \geqslant \frac{W}{h}

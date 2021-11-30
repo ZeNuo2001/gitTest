@@ -1,0 +1,1 @@
+q=\frac{\Delta s Q}{2 \pi R}

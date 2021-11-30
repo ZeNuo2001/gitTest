@@ -1,0 +1,1 @@
+v=\sqrt{\frac{g R}{\cos \theta} \sin \theta}

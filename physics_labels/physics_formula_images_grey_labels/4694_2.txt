@@ -1,0 +1,1 @@
+\frac{\alpha T}{2 \pi}

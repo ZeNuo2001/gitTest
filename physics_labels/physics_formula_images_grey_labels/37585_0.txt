@@ -1,0 +1,1 @@
+\pi \sqrt{\frac{2 g \sin \theta}{L}}

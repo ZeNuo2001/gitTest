@@ -1,0 +1,1 @@
+\frac{\mu g \cos \theta}{\omega^{2}}

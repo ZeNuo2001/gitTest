@@ -1,0 +1,1 @@
+\frac{\sin \alpha}{\sin \left(\alpha-\frac{\theta}{2}\right)}

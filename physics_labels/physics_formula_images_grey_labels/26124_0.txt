@@ -1,0 +1,1 @@
+\text { A. } m v+m g \Delta t, \frac{1}{2} m v^{2}

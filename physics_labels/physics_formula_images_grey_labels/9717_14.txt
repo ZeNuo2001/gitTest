@@ -1,0 +1,1 @@
+v_{n}^{\prime}=v_{n-1}+g \Delta t=2 u_{n-1}-v_{n-1}

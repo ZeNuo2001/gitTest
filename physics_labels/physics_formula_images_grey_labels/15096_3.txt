@@ -1,0 +1,1 @@
+\frac{F-m g \cos \alpha}{m}

@@ -1,0 +1,6 @@
+\begin{array}{l}
+0 \sim t_{1} \\
+t_{1} \sim t_{2} \\
+t_{2} \sim t_{3} \\
+t_{2} \sim t_{3}
+\end{array}

@@ -1,0 +1,1 @@
+2 \pi l \sqrt{\frac{2 l}{(4+\sqrt{2}) G M}}

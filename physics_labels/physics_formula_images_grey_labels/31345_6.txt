@@ -1,0 +1,1 @@
+B=\frac{2 \sqrt{3} m v_{0}}{3 q R}

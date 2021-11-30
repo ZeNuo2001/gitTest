@@ -1,0 +1,1 @@
+\Delta I=\sum_{i} N_{i} \Delta I_{i}=\sum_{i} N_{i} p_{i}

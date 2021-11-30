@@ -1,0 +1,1 @@
+\Delta m=\left(\frac{1}{M}+\frac{1}{m}\right) \frac{2 B^{2} e^{2} u^{2}}{3 c^{2}}

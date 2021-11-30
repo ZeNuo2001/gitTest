@@ -1,0 +1,4 @@
+\begin{array}{l}
+p_{0} V_{1}=p\left(V_{1}-S d+S x\right) \\
+p_{0} V_{2}=p\left(V_{2}-S x\right)
+\end{array}

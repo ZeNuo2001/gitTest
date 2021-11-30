@@ -1,0 +1,1 @@
+I_{\min } \approx \frac{E}{R_{x}+R_{\mathrm{A}_{2}}+R_{1}} \approx 0.06 \mathrm{~A}

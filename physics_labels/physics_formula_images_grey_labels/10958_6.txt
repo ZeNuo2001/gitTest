@@ -1,0 +1,1 @@
+x^{\prime}=\frac{m g \sin \theta}{k}

@@ -1,0 +1,1 @@
+\frac{q}{m}=\frac{v_{a}^{2}-v_{b}^{2}}{2\left(\varphi_{a}-\varphi_{b}\right)}

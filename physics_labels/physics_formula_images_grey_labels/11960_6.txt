@@ -1,0 +1,1 @@
+d=\frac{V_{0}}{S}=\frac{1.2 \times 10^{-11}}{2.32 \times 10^{-2}} \mathrm{~m} \approx

@@ -1,0 +1,4 @@
+\begin{array}{l}
+B_{1}-B_{0} \\
+\sqrt{B_{1}^{2}+B_{0}^{2}}
+\end{array}

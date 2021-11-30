@@ -1,0 +1,1 @@
+\Delta h_{\max }=h_{1 \max }+h_{2 \max }

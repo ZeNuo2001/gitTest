@@ -1,0 +1,1 @@
+\frac{I}{B}\left(R+\rho \frac{b c}{a}\right)

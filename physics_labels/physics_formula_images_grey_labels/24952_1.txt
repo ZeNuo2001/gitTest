@@ -1,0 +1,1 @@
+\frac{p}{q^{2}} g, \frac{M T v^{3}}{2 \pi g R^{2}}

@@ -1,0 +1,1 @@
+{ }_{6}^{14} \longrightarrow \stackrel{14}{7} \mathrm{~N}+{ }_{-1}^{0} \mathrm{e}

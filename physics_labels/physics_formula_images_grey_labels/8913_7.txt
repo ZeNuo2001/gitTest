@@ -1,0 +1,1 @@
+\Delta x=n \lambda(n=0,1,2, \cdots)

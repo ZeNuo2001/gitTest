@@ -1,0 +1,1 @@
+a=\frac{45}{8} \mathrm{~m} / \mathrm{s}^{2}

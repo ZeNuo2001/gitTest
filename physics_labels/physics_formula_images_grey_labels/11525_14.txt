@@ -1,0 +1,1 @@
+U_{1}^{\prime}=\frac{R_{1}}{R_{1}+R_{2}+r} E=\frac{6}{11} \times 18 \mathrm{~V}=\frac{108}{11} \mathrm{~V}

@@ -1,0 +1,5 @@
+F=\left\{\begin{array}{cl}
+0, & 0<r<r_{1} \\
+-F_{0}, & r_{1} \leqslant r \leqslant r_{2} \\
+0, & r>r_{2}
+\end{array}\right.

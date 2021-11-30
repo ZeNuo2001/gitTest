@@ -1,0 +1,1 @@
+a=\frac{\left(s_{D}-s_{B}\right)-2 \times\left(s_{B}-s_{A}\right)}{3 t^{2}}=\frac{\left(s_{D}-3 s_{B}+2 s_{A}\right) f^{2}}{75}

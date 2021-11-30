@@ -1,0 +1,1 @@
+v_{0}=8.0 \mathrm{~m} / \mathrm{s}

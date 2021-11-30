@@ -1,0 +1,1 @@
+a=\frac{F_{1}-F_{2}}{m_{1}+m_{2}}=\frac{10}{5} \mathrm{~m} / \mathrm{s}^{2}=2 \mathrm{~m} / \mathrm{s}^{2}

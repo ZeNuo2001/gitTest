@@ -1,0 +1,1 @@
+F_{2}=\frac{F_{2}^{\prime \prime}}{\sin \theta}=\frac{m g}{\sin \theta}

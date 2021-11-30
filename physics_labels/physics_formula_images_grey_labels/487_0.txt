@@ -1,0 +1,1 @@
+m g\left(1-\frac{H}{R}\right)^{2}

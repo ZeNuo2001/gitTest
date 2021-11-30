@@ -1,0 +1,1 @@
+\Delta T_{A}=\frac{1}{4} \Delta T_{B}

@@ -1,0 +1,1 @@
+a=\frac{\Delta x}{T^{2}}=5 \times 10^{-2} \mathrm{~m} / \mathrm{s}^{2}

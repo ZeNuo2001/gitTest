@@ -1,0 +1,1 @@
+\frac{1}{2} m v_{\mathrm{B}}^{2}=\frac{1}{2} m v_{t}^{2}+2 m g R

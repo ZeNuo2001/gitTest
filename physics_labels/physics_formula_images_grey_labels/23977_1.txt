@@ -1,0 +1,1 @@
+\frac{m\left(v^{2}-2 g s \sin \theta\right) R}{2(R+r)}

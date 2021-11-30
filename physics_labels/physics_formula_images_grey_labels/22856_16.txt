@@ -1,0 +1,1 @@
+\left(\frac{k_{2} U_{m}}{\sqrt{2} k_{1}}\right)\left(\frac{R k_{2}^{2}}{2 r+R k_{2}^{2}}\right)

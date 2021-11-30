@@ -1,0 +1,1 @@
+\tau=\frac{\tau_{0}}{\sqrt{1-(v / c)^{2}}}=1.4 \times 10^{-5} \mathrm{~s}

@@ -1,0 +1,1 @@
+\frac{1}{2} g\left(T_{a}-T_{b}\right)

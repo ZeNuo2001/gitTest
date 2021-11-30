@@ -1,0 +1,1 @@
+\frac{\mathbb{W}}{t} /\left(10^{4} J \cdot 8^{-1}\right)

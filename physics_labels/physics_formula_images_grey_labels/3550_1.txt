@@ -1,0 +1,4 @@
+\left(\begin{array}{c}
+60 \\
+28
+\end{array} \mathrm{Ni}\right)

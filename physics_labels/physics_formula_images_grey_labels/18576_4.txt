@@ -1,0 +1,1 @@
+v_{n}=4 \mathrm{~m} / \mathrm{s}

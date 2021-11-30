@@ -1,0 +1,1 @@
+e=\frac{\left|v_{2}-v_{1}\right|}{\left|v_{20}-v_{10}\right|}

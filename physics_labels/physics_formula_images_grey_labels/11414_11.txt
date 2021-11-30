@@ -1,0 +1,1 @@
+\Delta x=\left(x_{2}-x_{1}\right) / 6=(15.02-1.16) / 6 \mathrm{~mm}=2.31 \mathrm{~mm}

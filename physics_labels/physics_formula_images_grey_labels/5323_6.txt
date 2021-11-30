@@ -1,0 +1,1 @@
+m g L=\frac{1}{2} M\left(\frac{d}{2 \Delta t}\right)^{2}+\frac{1}{2} m\left(\frac{d}{\Delta t}\right)^{2}

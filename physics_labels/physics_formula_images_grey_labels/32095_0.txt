@@ -1,0 +1,1 @@
+\frac{q}{m}=\frac{v_{0}}{B d}

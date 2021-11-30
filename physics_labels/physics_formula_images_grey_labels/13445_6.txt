@@ -1,0 +1,1 @@
+a_{\text {h }}=\frac{G M}{r^{2}}, v=\sqrt{\frac{G M}{r}}, T=\sqrt{\frac{4 \pi^{2} r^{3}}{G M}}

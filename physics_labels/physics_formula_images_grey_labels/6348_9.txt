@@ -1,0 +1,1 @@
+\frac{q_{M}}{m_{M}}>\frac{q_{N}}{m_{N}}

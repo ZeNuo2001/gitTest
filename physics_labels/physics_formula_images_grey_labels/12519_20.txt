@@ -1,0 +1,1 @@
+B_{1}=\frac{p_{11}}{p_{s 1}} \times 100 \%=\frac{2.111 \times 10^{3} \mathrm{~Pa}}{4.242 \times 10^{3} \mathrm{~Pa}} \times 100 \% \approx 49.76 \%

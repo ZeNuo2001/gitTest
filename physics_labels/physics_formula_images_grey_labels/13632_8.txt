@@ -1,0 +1,1 @@
+E=\frac{1}{2} B \omega\left[(2 r)^{2}-r^{2}\right]=\frac{3 B \omega r^{2}}{2}

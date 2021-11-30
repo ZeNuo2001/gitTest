@@ -1,0 +1,1 @@
+v_{B 0}=\frac{4 \sqrt{2}}{3} \cdot \sqrt{\frac{E_{0} Q d}{m}}

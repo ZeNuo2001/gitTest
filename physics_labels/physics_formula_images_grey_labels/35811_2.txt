@@ -1,0 +1,1 @@
+2 \pi \sqrt{\frac{n g R}{n+6}}

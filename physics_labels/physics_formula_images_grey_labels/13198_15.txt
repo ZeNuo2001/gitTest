@@ -1,0 +1,1 @@
+\Delta E_{p}=m g s_{12} \sin 30^{\circ}=5.292 \mathrm{~J}

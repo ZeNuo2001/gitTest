@@ -1,0 +1,1 @@
+u=51 \sin 314 t \mathrm{~V}

@@ -1,0 +1,1 @@
+{ }_{1}^{2} \mathrm{H}+{ }_{1}^{2} \mathrm{H} \longrightarrow{ }_{2}^{3} \mathrm{He}+\mathrm{X}

@@ -1,0 +1,1 @@
+m g t_{0} \sin \theta+m v_{0}

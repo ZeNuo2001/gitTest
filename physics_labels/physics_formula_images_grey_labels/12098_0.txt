@@ -1,0 +1,1 @@
+311 \cdot \sin \left(314 t+\frac{\pi}{6}\right) \mathrm{V}

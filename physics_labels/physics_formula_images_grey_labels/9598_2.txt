@@ -1,0 +1,1 @@
+\Delta m c^{2}=\frac{1}{2}\left(m_{1}-m_{2}\right) v^{\prime 2}+\frac{1}{2} m_{2} v^{2}

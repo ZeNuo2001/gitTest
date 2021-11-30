@@ -1,0 +1,1 @@
+r=\frac{m v}{B q}

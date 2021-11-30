@@ -1,0 +1,1 @@
+\mathrm{k} \underline{\boldsymbol{q}} \cdot \mathrm{m} / \mathrm{s}

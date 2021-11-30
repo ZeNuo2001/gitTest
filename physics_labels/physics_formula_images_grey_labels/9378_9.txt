@@ -1,0 +1,1 @@
+p_{B}=17 \mathrm{~kg} \cdot \mathrm{m} / \mathrm{s}

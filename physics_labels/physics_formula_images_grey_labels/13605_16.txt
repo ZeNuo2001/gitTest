@@ -1,0 +1,1 @@
+\frac{\pi m^{2} v_{0}^{2}}{4 B^{2} q^{2}} \quad \frac{\pi m}{3 q B}

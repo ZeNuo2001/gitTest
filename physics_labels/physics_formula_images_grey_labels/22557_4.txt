@@ -1,0 +1,4 @@
+\begin{array}{l}
+\varphi_{c}=-2 \mathrm{~V} \\
+c \rightarrow e
+\end{array}

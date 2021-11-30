@@ -1,0 +1,1 @@
+W_{f}^{\prime}=-\mu m g\left(x-\frac{h}{\tan \theta}\right)

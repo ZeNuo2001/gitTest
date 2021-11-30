@@ -1,0 +1,1 @@
+k=\frac{m g(\sin \theta-\mu \cos \theta)}{v(\mu \sin \theta+\cos \theta)}=0.84 \mathrm{~kg} / \mathrm{s}

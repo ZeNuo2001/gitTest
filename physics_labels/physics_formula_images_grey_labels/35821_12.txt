@@ -1,0 +1,1 @@
+I_{\mathrm{g}}=-\mathrm{mA}_{\mathrm{c}}

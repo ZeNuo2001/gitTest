@@ -1,0 +1,1 @@
+\overline{S_{1} P}-\overline{S_{2} P}=(2 n+1) \frac{\lambda}{2}(n=0, \pm 1, \pm 2, \cdots)

@@ -1,0 +1,1 @@
+h_{1}+h_{2}=\frac{v_{t}}{2} \cdot t_{2}, t_{2}=\frac{2\left(h_{1}+h_{2}\right)}{v_{1}}=\frac{2 \times(150+1.25)}{55} \mathrm{~s}=5.5 \mathrm{~s},

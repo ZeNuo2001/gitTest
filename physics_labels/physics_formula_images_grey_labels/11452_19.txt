@@ -1,0 +1,1 @@
+R_{2}=\frac{I_{\mathrm{g}}}{I^{\prime}-I_{\mathrm{R}}} R_{\mathrm{g}}=\frac{2 \times 10^{-3}}{1-2 \times 10^{-3}} \times 200 \Omega \approx 0.4 \Omega

@@ -1,0 +1,1 @@
+\theta=\arctan 0.75

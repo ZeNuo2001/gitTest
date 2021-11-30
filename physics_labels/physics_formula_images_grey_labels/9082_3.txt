@@ -1,0 +1,1 @@
+\sin r=\frac{\sin i}{n}=\frac{\frac{\sqrt{2}}{2}}{\sqrt{2}}=\frac{1}{2}, r=30^{\circ}

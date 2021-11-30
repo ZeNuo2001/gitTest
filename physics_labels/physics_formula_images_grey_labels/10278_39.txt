@@ -1,0 +1,1 @@
+t_{1}=\frac{r n \varphi}{v}=\frac{\pi R(n-2 k)}{v} \tan \frac{k \pi}{n}

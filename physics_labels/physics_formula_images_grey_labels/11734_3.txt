@@ -1,0 +1,1 @@
+s=\frac{d}{2}=\frac{1}{2} \frac{U q}{d m} t^{2}

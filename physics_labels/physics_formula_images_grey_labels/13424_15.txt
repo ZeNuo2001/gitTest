@@ -1,0 +1,1 @@
+\Delta v=\frac{3}{4} v-(-v)=\frac{7}{4} v=\frac{7}{2} v_{0}

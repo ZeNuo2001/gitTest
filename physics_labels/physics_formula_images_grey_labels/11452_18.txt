@@ -1,0 +1,1 @@
+R_{1}=\frac{I_{\mathrm{g}}}{I-I_{\mathrm{g}}} R_{\mathrm{g}}=\frac{2 \times 10^{-3}}{0.1-2 \times 10^{-3}} \times 200 \Omega \approx 4.08 \Omega

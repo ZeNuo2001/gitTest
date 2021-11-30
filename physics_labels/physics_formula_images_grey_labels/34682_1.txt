@@ -1,0 +1,1 @@
+\sqrt{\frac{2 \pi G M^{3}}{T v^{3}}}-M

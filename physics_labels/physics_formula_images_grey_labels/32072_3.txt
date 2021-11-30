@@ -1,0 +1,1 @@
+\varphi_{B}^{\prime}=\sqrt{2} \mathrm{~V}, \varphi_{C}^{\prime}=(\sqrt{2}+1) \mathrm{V}

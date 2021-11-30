@@ -1,0 +1,1 @@
+\omega_{B}=\frac{r_{A}}{r_{B} \omega_{A}}

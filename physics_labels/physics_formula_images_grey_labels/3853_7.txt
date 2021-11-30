@@ -1,0 +1,1 @@
+v_{C D}=\frac{2 m g \sin \theta(R+r)}{5 B^{2} L^{2}}

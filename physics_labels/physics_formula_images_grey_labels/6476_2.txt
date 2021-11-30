@@ -1,0 +1,1 @@
+-a \sin \frac{2 \pi x}{\lambda}

@@ -1,0 +1,4 @@
+v=\begin{array}{l}
+E \\
+B
+\end{array}

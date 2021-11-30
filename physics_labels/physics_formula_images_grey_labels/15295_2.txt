@@ -1,0 +1,1 @@
+F_{a}=B I L, F_{b}=\frac{1}{2} B I L

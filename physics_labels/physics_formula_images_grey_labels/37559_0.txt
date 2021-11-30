@@ -1,0 +1,1 @@
+50 \Omega 1.5 \mathrm{~A}

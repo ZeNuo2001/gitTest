@@ -1,0 +1,1 @@
+q=\bar{I} \Delta t=n \frac{\Delta \Phi}{\Delta t \cdot R_{\text {吕 }}} \cdot \Delta t=n \frac{\Delta \Phi}{R_{\text {兄 }}}

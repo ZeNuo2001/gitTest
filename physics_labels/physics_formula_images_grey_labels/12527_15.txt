@@ -1,0 +1,1 @@
+m=W \times(1-0.07) \times(1-0.35) /\left(2.2 \times 10^{6}\right)=5.14 \times 10^{17} \mathrm{~kg}

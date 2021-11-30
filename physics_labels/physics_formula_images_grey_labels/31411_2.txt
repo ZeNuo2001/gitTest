@@ -1,0 +1,4 @@
+\begin{array}{r}
+{ }_{92}^{35} \\
+92
+\end{array}

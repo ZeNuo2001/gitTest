@@ -1,0 +1,1 @@
+2^{1}\left(m_{\mathrm{P}_{11}}+m_{\mathrm{X}}+m_{\mathrm{Y}}\right) c^{2}

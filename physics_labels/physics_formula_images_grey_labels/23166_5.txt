@@ -1,0 +1,1 @@
+\frac{2 m^{2} g^{2} \sin ^{2} \theta}{k}-\frac{3}{2} m v^{2}

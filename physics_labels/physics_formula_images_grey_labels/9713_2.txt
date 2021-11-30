@@ -1,0 +1,1 @@
+m g R=m g R / 4+\beta m g R / 4

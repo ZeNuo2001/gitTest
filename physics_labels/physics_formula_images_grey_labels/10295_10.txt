@@ -1,0 +1,1 @@
+\Delta=\left(\frac{q B R \sin \theta}{m}\right)^{2}-\frac{4 g R \sin ^{2} \theta}{\cos \theta} \geqslant 0

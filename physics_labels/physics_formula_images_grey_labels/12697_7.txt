@@ -1,0 +1,1 @@
+p_{s}=2.08 \times 10^{5} \mathrm{~Pa}

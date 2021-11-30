@@ -1,0 +1,1 @@
+B=\frac{\rho_{0} g d h}{I}

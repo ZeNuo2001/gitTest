@@ -1,0 +1,1 @@
+I=\frac{E I_{\mathrm{g}}}{E+R_{x} I_{\mathrm{g}}}=\frac{I_{\mathrm{g}}}{1+\frac{R_{x} I_{\mathrm{g}}}{E}}

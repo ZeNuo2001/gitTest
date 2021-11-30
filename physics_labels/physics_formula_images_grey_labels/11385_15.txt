@@ -1,0 +1,1 @@
+Y=\frac{\frac{l_{1}}{2}+l_{2}}{\frac{l_{1}}{2}} y=\frac{\frac{l_{1}}{2}+l_{2}}{\frac{l_{1}}{2}} \cdot \frac{q U l_{1}^{2}}{2 m d v_{0}^{2}}=\frac{l_{1}\left(l_{1}+2 l_{2}\right) q U_{\mathrm{m}}}{2 m d \tau_{0}^{2}} \sin \omega t

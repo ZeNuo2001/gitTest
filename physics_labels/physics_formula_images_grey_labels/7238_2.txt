@@ -1,0 +1,1 @@
+\frac{1}{2} g t^{2}=\frac{1}{2} \times 9.8 \times 0.1^{2} \mathrm{~m}=4.90 \mathrm{~cm}

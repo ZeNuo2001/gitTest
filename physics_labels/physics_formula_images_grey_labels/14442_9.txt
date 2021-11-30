@@ -1,0 +1,1 @@
+\left(\frac{\Delta I}{k}\right)^{2} r

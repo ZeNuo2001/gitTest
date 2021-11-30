@@ -1,0 +1,1 @@
+\alpha=75^{\circ}, \beta=45^{\circ}, c d=1 \mathrm{~m}, b c=\sqrt{6} \mathrm{~m}

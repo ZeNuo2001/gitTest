@@ -1,0 +1,1 @@
+C_{1}=6 \mu \mathrm{F}, C_{2}=3 \mu \mathrm{F}

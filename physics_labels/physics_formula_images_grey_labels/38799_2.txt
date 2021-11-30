@@ -1,0 +1,1 @@
+m_{A}[\sqrt{L(1-\cos \beta)}-\sqrt{L(1-\cos \alpha)}]=m_{B} \frac{s \sqrt{H}}{2 H}

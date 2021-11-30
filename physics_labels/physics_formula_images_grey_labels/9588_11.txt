@@ -1,0 +1,1 @@
+E_{1}+E_{2}=\left(1+\frac{m}{M}\right) E_{1}=\left(1+\frac{m}{M}\right) \cdot \frac{(5 q B l)^{2}}{128 m}=\left(1+\frac{4}{222}\right) \times \frac{(5 q B l)^{2}}{128 m}=0.2 q^{2} B^{2} l^{2} / m

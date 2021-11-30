@@ -1,0 +1,1 @@
+P=\left(\frac{v B d S}{R S+\rho d}\right)^{2} R

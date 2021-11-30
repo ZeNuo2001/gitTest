@@ -1,0 +1,1 @@
+I_{2}=\sqrt{\frac{P_{\text {婜 }}}{R}}=\sqrt{\frac{3.12 \times 10^{4}}{12}} \mathrm{~A} \approx 51 \mathrm{~A}

@@ -1,0 +1,1 @@
+E=h \nu=h \cdot \frac{c}{\lambda}=6.63 \times 10^{-34} \times \frac{3.00 \times 10^{8}}{500 \times 10^{-9}} \mathrm{~J}=4.0 \times 10^{-19} \mathrm{~J}

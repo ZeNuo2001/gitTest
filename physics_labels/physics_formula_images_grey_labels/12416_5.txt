@@ -1,0 +1,1 @@
+x=\frac{(m+M) g}{k}=0.075 \mathrm{~m}=7.5 \mathrm{~cm}

@@ -1,0 +1,1 @@
+\text { C. } \frac{Z_{2}}{Z_{1}}=2\left(\frac{n_{2}}{n_{1}}\right)^{4}

@@ -1,0 +1,1 @@
+\Delta x=\Delta x_{1}-\Delta x_{2}=\frac{m g}{3 k_{2}}

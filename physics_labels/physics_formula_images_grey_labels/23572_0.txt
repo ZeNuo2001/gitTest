@@ -1,0 +1,1 @@
+k=240 \mathrm{~N} / \mathrm{m}

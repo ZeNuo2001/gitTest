@@ -1,0 +1,1 @@
+x=\frac{v_{0} t}{2}=\frac{a_{1} t_{1} t}{2}=\frac{a_{1} a_{2} t^{2}}{2\left(a_{1}+a_{2}\right)}

@@ -1,0 +1,1 @@
+R_{01}=2.5 \mathrm{k} \Omega

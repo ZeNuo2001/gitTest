@@ -1,0 +1,1 @@
+v_{\max }=\sqrt{\frac{2 q E}{m}}

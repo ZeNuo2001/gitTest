@@ -1,0 +1,1 @@
+=N B \overline{a b} \cdot \overline{a d} \cdot \omega

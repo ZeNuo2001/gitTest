@@ -1,0 +1,1 @@
+a_{1}=6.4 \mathrm{~m} / \mathrm{s}^{2}

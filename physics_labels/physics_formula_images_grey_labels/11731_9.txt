@@ -1,0 +1,1 @@
+F=k Q q \frac{-\Delta x(2 \sqrt{2} l+\Delta x)}{\left(x_{p}+\Delta x\right)^{2}\left(x_{p}+\Delta x+l\right)^{2}}

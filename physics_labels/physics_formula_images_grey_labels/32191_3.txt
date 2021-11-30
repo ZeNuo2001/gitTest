@@ -1,0 +1,1 @@
+\beta m, \mu=\tan \theta, v_{0}=3 \sqrt{g x_{0} \sin \theta}

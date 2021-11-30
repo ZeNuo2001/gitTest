@@ -1,0 +1,1 @@
+X \rightarrow Y+1, \mathrm{e}

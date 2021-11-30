@@ -1,0 +1,1 @@
+t=n T=n \frac{2 \pi m}{B q}

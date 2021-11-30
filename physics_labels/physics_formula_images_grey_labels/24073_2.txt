@@ -1,0 +1,1 @@
+{ }_{28}^{60} \mathrm{Ni} \rightarrow{ }_{29}^{62} \mathrm{Cu}+{ }_{1}^{1} \mathrm{H}+\mathrm{X}

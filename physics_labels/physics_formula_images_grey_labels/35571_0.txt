@@ -1,0 +1,1 @@
+\frac{B\left(r_{2}-r_{1}\right) v}{2}

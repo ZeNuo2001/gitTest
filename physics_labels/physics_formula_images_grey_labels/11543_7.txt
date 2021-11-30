@@ -1,0 +1,1 @@
+v^{2}, W \propto v^{3}, W \propto \sqrt{v}

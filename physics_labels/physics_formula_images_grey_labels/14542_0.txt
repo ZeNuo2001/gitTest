@@ -1,0 +1,1 @@
+y=A \cos \frac{2 \pi}{T} t

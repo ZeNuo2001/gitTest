@@ -1,0 +1,4 @@
+\begin{array}{l}
+\lambda_{1}+\lambda_{2}+\lambda_{3} \\
+\lambda_{1} \lambda_{2} /\left(\lambda_{1}+\lambda_{2}\right)
+\end{array}

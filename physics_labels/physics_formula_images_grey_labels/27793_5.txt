@@ -1,0 +1,1 @@
+u=28 \sin 100 \pi t \mathrm{~V}

@@ -1,0 +1,5 @@
+\begin{array}{l}
+t_{1}=2.0 \mathrm{~s} \\
+0 \sim 1.0 \mathrm{~s} \\
+t_{2}=1.4 \mathrm{~s}
+\end{array}

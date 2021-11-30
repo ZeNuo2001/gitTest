@@ -1,0 +1,1 @@
+t=\sqrt{\frac{2 x\left(a_{1}+a_{2}\right)}{a_{1} a_{2}}}=\sqrt{\frac{2 \times 1.6 \times 10^{3} \times(6.4+1.6)}{1.6 \times 6.4}} \mathrm{~s}=50 \mathrm{~s} .

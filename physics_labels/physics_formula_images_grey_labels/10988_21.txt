@@ -1,0 +1,1 @@
+\tan \theta=a / g+v \tan \theta_{0} / v_{0}

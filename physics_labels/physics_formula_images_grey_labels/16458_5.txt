@@ -1,0 +1,1 @@
+i=\sqrt{2} \sin 10 \pi l(\mathrm{~A})

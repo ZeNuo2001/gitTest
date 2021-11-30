@@ -1,0 +1,1 @@
+F_{b}-2 m g=2 m \frac{u^{\prime 2}}{r}

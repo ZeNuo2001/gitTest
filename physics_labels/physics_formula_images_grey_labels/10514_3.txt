@@ -1,0 +1,1 @@
+2 \sqrt{\left(\frac{d}{2}\right)^{2}+h^{2}}=v t_{2}

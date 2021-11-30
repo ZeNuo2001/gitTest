@@ -1,0 +1,1 @@
+t^{\prime}=\frac{a}{a} t=\frac{11.5}{5} t=2.3 t, L=\frac{1}{2} a t^{2}+\frac{1}{2} a^{\prime} t^{\prime 2}

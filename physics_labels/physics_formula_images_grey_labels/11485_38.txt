@@ -1,0 +1,1 @@
+I_{1} U_{2}=0.25 \times 68 \mathrm{~W}=17.0 \mathrm{~W}

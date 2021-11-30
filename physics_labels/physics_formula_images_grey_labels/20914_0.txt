@@ -1,0 +1,1 @@
+\frac{\tan \alpha}{\tan \beta}=\frac{m+M}{M}

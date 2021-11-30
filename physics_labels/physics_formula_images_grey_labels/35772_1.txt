@@ -1,0 +1,1 @@
+\frac{m^{2} g^{2} t^{2} \sin ^{2} \theta}{2\left(m+C B^{2} L^{2}\right)}-\frac{m^{3} g^{2} t^{2} \sin ^{2} \theta}{2\left(m+C B^{2} L^{2}\right)^{2}}

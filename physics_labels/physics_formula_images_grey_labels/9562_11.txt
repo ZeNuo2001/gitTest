@@ -1,0 +1,1 @@
+\left|p_{\mathrm{K}}-\right|=\left|p_{\star}^{0}\right|-\left|p_{\pi}-\right|

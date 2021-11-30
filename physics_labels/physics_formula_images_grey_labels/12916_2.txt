@@ -1,0 +1,1 @@
+\left(f_{\mathrm{M}}\right)_{\mathrm{B}}=k \frac{M_{\mathrm{H}}}{\left(r_{\mathrm{H}}\right)^{3}}

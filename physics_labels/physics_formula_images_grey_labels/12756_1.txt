@@ -1,0 +1,1 @@
+v_{A}^{\prime}=v_{A} \sin \alpha

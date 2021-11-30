@@ -1,0 +1,1 @@
+F=\operatorname{IO} \sqrt{3} \mathrm{~N}

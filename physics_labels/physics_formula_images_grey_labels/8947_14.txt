@@ -1,0 +1,1 @@
+\Delta t^{\prime}=\frac{v_{P}-v_{\mathrm{S}}}{v_{P}-v_{A}} \Delta t

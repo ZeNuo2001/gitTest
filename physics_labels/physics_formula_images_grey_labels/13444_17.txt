@@ -1,0 +1,1 @@
+g=\frac{F}{m}=\frac{4}{3} \pi \rho G R

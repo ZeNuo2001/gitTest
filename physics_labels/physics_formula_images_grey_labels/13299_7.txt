@@ -1,0 +1,1 @@
+t_{2}=\sqrt{\frac{2 H}{g}}=\sqrt{\frac{2 \times 180}{10}} \mathrm{~s}=6 \mathrm{~s}

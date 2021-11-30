@@ -1,0 +1,1 @@
+v=\frac{\sqrt{g R}}{2}

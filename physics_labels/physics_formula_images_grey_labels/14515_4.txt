@@ -1,0 +1,4 @@
+\begin{array}{r}
+{ }_{88}^{26} \mathrm{Ra} \\
+\hline
+\end{array}

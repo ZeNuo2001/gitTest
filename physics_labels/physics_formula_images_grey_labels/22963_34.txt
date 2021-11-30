@@ -1,0 +1,1 @@
+R_{T}=A \mathrm{e}^{\frac{B}{T}}

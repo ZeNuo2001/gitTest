@@ -1,0 +1,4 @@
+t=\begin{array}{l}
+T \\
+4
+\end{array}

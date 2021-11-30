@@ -1,0 +1,1 @@
+\mathrm{A} .{ }_{1}^{2} \mathrm{H}+{ }_{1}^{2} \mathrm{H} \rightarrow_{0}^{1} \mathrm{n}+\mathrm{X}_{1}

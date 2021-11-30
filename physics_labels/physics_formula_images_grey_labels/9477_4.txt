@@ -1,0 +1,1 @@
+E=2.9 \mathrm{eV}>\mathrm{W}

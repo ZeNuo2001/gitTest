@@ -1,0 +1,1 @@
+h=\left(1+\frac{\sqrt{3}}{3}\right) R

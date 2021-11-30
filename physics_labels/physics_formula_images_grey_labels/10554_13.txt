@@ -1,0 +1,1 @@
+a=\frac{v_{2}-v_{1}}{t}=\frac{-10-4}{1} \mathrm{~m} / \mathrm{s}^{2}=

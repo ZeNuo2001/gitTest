@@ -1,0 +1,4 @@
+\left(\begin{array}{l}
+60 \\
+27
+\end{array} C o\right)

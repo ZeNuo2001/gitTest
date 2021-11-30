@@ -1,0 +1,1 @@
+x=2 \sqrt{l(H-l)(1-\cos \alpha)}

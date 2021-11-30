@@ -1,0 +1,1 @@
+\frac{\sqrt{21}}{3} \times 10^{2} \mathrm{~V} / \mathrm{m}

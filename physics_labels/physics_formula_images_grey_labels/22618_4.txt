@@ -1,0 +1,4 @@
+\begin{array}{l}
+120 \mathrm{~W} \\
+60 \mathrm{~W}
+\end{array}

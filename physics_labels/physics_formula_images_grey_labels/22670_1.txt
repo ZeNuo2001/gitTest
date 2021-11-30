@@ -1,0 +1,4 @@
+\begin{array}{l}
+\frac{k}{U L}\left(x_{2}-x_{1}\right) \\
+\frac{k}{2 I L}\left(x_{2}-x_{1}\right)
+\end{array}

@@ -1,0 +1,1 @@
+x_{B}=5 \sin \left(100 t+\frac{\pi}{6}\right) \mathrm{m}

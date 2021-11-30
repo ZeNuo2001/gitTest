@@ -1,0 +1,1 @@
+\frac{1}{2} m v_{0}^{2}=\frac{1}{2} m\left(v_{A}^{2}+v_{B}^{2}\right)+h \nu

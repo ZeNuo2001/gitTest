@@ -1,0 +1,1 @@
+E=9 \mathrm{~V}, P=8 \mathrm{~W}

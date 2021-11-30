@@ -1,0 +1,1 @@
+v=v_{\mathrm{m}} \sin \frac{2 \pi}{T} t

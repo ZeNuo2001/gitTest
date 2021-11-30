@@ -1,0 +1,1 @@
+v=\sqrt{\frac{2 G M_{\mathrm{F}}}{R_{\mathrm{F}}}}

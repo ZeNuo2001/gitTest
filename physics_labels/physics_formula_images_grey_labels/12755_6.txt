@@ -1,0 +1,1 @@
+0=v \sin \theta-v^{\prime \prime} \cos \theta

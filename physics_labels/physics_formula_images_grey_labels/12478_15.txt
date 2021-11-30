@@ -1,0 +1,1 @@
+T_{D}=\frac{p_{D} V_{D}}{p_{\Lambda} V_{A}} T_{A}=300 \mathrm{~K}

@@ -1,0 +1,1 @@
+R_{\text {中 }}=E / I_{\mathrm{g}}=\frac{1.5}{300 \times 10^{-6}}=5 \mathrm{k} \Omega

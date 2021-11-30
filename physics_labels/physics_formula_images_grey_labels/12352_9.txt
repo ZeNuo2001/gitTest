@@ -1,0 +1,1 @@
+T \Delta \theta-\frac{Q R \omega B}{2 \pi} \Delta \theta=\frac{m \Delta \theta R \omega^{2}}{2 \pi}

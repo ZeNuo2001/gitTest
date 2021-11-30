@@ -1,0 +1,1 @@
+F=\frac{\sqrt{2} m g}{q}

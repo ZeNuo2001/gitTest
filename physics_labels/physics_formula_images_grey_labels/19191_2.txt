@@ -1,0 +1,1 @@
+\sqrt{\frac{2 s}{\left(a+a^{\prime}\right)}}

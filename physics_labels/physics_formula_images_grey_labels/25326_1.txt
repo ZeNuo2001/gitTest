@@ -1,0 +1,4 @@
+\left(\begin{array}{l}
+1 \\
+2
+\end{array} \mathrm{He}\right.

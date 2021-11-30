@@ -1,0 +1,1 @@
+P=U I=1.85 \times 0.20 \mathrm{~W}=0.37 \mathrm{~W}

@@ -1,0 +1,1 @@
+q_{\mathrm{m}}=\frac{16}{9} Q

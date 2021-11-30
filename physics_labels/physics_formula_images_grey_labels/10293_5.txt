@@ -1,0 +1,1 @@
+\left(\frac{L}{2}-y\right)=\frac{1}{2} a t^{2}=\frac{1}{2} \frac{e E}{m}\left(\frac{L}{v_{0}}\right)^{2}

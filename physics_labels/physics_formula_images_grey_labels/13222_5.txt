@@ -1,0 +1,1 @@
+v_{A}=\lim _{\Delta=0} \frac{\Delta r}{\Delta t}=r \lim _{\Delta \rightarrow 0} \frac{\Delta \theta}{\Delta t} \tan \alpha=r \omega \tan \alpha

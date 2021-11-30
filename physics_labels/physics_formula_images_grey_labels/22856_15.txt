@@ -1,0 +1,1 @@
+\left(\frac{U_{\mathrm{m}}}{2 k_{1} k_{2}}\right)\left(\frac{R k_{2}^{2}}{2 r+R k_{2}^{2}}\right)

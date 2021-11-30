@@ -1,0 +1,1 @@
+50 \mathrm{~N} \leqslant F_{\text {合 }} \leqslant 50 \sqrt{3} \mathrm{~N}

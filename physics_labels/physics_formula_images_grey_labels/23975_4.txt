@@ -1,0 +1,1 @@
+0.3 \Omega, r=0.2 \Omega, s=1 \mathrm{~m}

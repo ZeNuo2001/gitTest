@@ -1,0 +1,1 @@
+p_{1}=\frac{p V-p_{2} V}{V_{1}}=\frac{10 \times 1.25-5 \times 1.25}{2.5} \mathrm{~atm}=2.5 \mathrm{~atm}

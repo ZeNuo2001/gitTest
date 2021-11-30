@@ -1,0 +1,5 @@
+\begin{array}{|c|c|c|c|c|c|c|c|}
+\hline \text { 电压 } U / \mathrm{V} & 0.000 & 0.250 & 0.500 & 0.650 & 0.700 & 0.725 & 0.750 \\
+\hline \text { 电流 } / / \mathrm{mA} & 0.00 & 0.10 & 0.25 & 0.60 & 1.70 & 4.30 & 7.50 \\
+\hline
+\end{array}

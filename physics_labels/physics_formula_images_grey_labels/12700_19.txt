@@ -1,0 +1,1 @@
+=\frac{2 n_{2} p_{0}\left(V_{10}-V_{20}\right) \Delta V / n_{2}}{\left[V_{10}+\Delta V+n_{1}\left(V_{20}+\Delta V\right) / n_{2}\right]\left(V_{10}+n_{1} V_{20} / n_{2}\right)}

@@ -1,0 +1,1 @@
+\omega=\sqrt{\frac{3 \mu g}{2 r}}

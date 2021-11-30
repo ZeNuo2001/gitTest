@@ -1,0 +1,1 @@
+\left(\frac{r_{2}}{r_{1}}\right)^{\frac{1}{2}} v

@@ -1,0 +1,1 @@
+\left(\frac{\pi}{6}-\frac{\sqrt{3}}{4}\right) d^{2}

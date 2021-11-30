@@ -1,0 +1,1 @@
+R_{03}=1.5 \mathrm{k} \Omega

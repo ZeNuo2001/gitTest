@@ -1,0 +1,1 @@
+v_{A}=\ldots \quad \mathrm{m} / \mathrm{s}

@@ -1,0 +1,4 @@
+\begin{array}{ll}
+64 & 207 \\
+28 & \mathrm{Pi} & , 82
+\end{array}

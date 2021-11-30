@@ -1,0 +1,1 @@
+\frac{\left(R_{2}-R_{1}\right) q B}{2 m}

@@ -1,0 +1,1 @@
+E_{1}=\frac{\varepsilon}{8 \pi k} E^{2} S d

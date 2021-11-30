@@ -1,0 +1,1 @@
+v_{0}=360 \mathrm{~km} / \mathrm{h}

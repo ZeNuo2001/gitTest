@@ -1,0 +1,1 @@
+R=\frac{E B L}{m g}-r

@@ -1,0 +1,1 @@
+{ }_{88}^{226} \mathrm{Ra} \longrightarrow{ }_{86}^{222} \mathrm{R} \mathrm{n}+\mathrm{X}+\gamma

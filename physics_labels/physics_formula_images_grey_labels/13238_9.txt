@@ -1,0 +1,1 @@
+F=m \omega^{2} r=\rho V \omega^{2} r

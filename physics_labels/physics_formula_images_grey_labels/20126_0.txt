@@ -1,0 +1,1 @@
+a \rightarrow b \longrightarrow c \rightarrow d \rightarrow a

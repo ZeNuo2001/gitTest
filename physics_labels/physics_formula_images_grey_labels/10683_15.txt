@@ -1,0 +1,1 @@
+\frac{\left(k_{1}+k_{2}\right) m g}{3 k_{1} k_{2}}

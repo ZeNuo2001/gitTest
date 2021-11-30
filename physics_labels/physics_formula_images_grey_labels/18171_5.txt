@@ -1,0 +1,1 @@
+\bar{v} /\left(\mathrm{cm} \cdot \mathrm{s}^{-1}\right)

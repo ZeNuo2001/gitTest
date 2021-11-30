@@ -1,0 +1,1 @@
+\theta_{S}=\frac{R_{S}}{r_{E}}

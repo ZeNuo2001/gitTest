@@ -1,0 +1,5 @@
+\begin{array}{l}
+t_{1} \\
+t_{1} \\
+t_{1}
+\end{array}

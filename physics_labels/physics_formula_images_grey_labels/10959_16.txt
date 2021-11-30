@@ -1,0 +1,1 @@
+l=\frac{v_{0}^{2}\left(a_{0}-\mu g\right)}{2 \mu a_{0} g}

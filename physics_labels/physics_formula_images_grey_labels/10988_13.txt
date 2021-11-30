@@ -1,0 +1,1 @@
+F=m g / \cos \theta_{0}

@@ -1,0 +1,1 @@
+{ }_{7}^{14} \mathrm{~N}+{ }_{0}^{1} \mathrm{n} \rightarrow{ }_{6}^{14} \mathrm{C}+\mathrm{X}

@@ -1,0 +1,1 @@
+\left(L+\frac{m g}{k \cos \theta}\right) \cos \theta=I, \cos \theta+

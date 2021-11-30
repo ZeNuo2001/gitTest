@@ -1,0 +1,4 @@
+\begin{array}{l}
+10 \mathrm{~J} \\
+24 \mathrm{~J}
+\end{array}

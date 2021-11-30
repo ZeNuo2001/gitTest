@@ -1,0 +1,1 @@
+\tan \alpha \approx \sin \alpha=\frac{h}{L}

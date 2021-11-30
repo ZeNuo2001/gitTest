@@ -1,0 +1,1 @@
+E_{1}<E_{2} \quad \varphi_{1}<\varphi_{2}

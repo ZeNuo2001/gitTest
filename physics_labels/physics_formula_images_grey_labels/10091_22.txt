@@ -1,0 +1,1 @@
+v=\frac{\lambda}{T}=1 \mathrm{~m} / \mathrm{s}

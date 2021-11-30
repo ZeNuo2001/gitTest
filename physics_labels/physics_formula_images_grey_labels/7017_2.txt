@@ -1,0 +1,1 @@
+\frac{m g_{11} R}{R+h}(h+\sqrt{2} R)

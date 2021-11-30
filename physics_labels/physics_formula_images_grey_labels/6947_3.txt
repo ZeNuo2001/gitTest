@@ -1,0 +1,1 @@
+\text { A. } F_{\min }=\frac{\mu m g}{\sqrt{1+\mu^{2}}}

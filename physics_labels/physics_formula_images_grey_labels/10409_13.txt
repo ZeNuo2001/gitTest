@@ -1,0 +1,1 @@
+T \sin \theta+F_{\mathrm{V}} \cos \theta=m g

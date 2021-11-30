@@ -1,0 +1,1 @@
+f=2.5 \times 10^{3} \mathrm{~N}

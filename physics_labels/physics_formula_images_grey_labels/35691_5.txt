@@ -1,0 +1,1 @@
+\frac{L}{n} \sqrt{\frac{m}{2 e U_{1}}}(n=1,2,3 \cdots)

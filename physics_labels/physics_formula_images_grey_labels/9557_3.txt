@@ -1,0 +1,1 @@
+\mathrm{P} \stackrel{\beta}{\longrightarrow} \mathrm{Q} \underset{\longrightarrow}{\stackrel{\beta}{\longrightarrow}} \underset{\longrightarrow}{\mathrm{R}} \stackrel{\alpha}{\longrightarrow}{\longrightarrow} \mathrm{S}

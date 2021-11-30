@@ -1,0 +1,1 @@
+F_{\mathrm{N}}+m_{2} g=m_{2} \frac{v_{\mathrm{M}}^{2}}{R}

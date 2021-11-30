@@ -1,0 +1,1 @@
+a_{\mathrm{c}}=\operatorname{Gm} / R^{2}

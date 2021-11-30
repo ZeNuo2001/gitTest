@@ -1,0 +1,1 @@
+P^{\prime}=\frac{U^{2} S}{\rho L}

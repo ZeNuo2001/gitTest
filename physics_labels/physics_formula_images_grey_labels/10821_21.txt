@@ -1,0 +1,1 @@
+h_{3}=v_{1}\left(t_{3}-t_{2}\right)-\frac{1}{2} a_{2}\left(t_{3}-t_{2}\right)^{2}

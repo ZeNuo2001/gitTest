@@ -1,0 +1,1 @@
+n=\frac{\rho V N_{A}}{M}

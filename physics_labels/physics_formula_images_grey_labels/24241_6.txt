@@ -1,0 +1,4 @@
+\begin{array}{l}
+1200 \Omega \\
+1200 \Omega
+\end{array}

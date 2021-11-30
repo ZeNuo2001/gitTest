@@ -1,0 +1,1 @@
+V_{0}=\frac{V_{\mathrm{A}}}{N_{\mathrm{A}}}=\frac{M_{\mathrm{c}}}{\rho N_{\mathrm{A}}}

@@ -1,0 +1,1 @@
+\frac{\pi r}{3 R} \sqrt{\frac{r}{g}}

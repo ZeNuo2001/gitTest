@@ -1,0 +1,1 @@
+\left(0 \leqslant x \leqslant \sqrt{2} l_{0}\right)

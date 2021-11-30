@@ -1,0 +1,1 @@
+\omega_{1}=\sqrt{\frac{k}{5 m}}

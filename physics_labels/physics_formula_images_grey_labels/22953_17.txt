@@ -1,0 +1,1 @@
+10 \Omega, 0.1 \mathrm{~W}

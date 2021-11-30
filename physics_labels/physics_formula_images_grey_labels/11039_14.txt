@@ -1,0 +1,1 @@
+t=\sqrt{2 l / g \sin \phi}=2 \sqrt{R / g}

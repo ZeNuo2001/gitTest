@@ -1,0 +1,1 @@
+a_{1}=\frac{M+m}{m} g \sin \theta

@@ -1,0 +1,1 @@
+\frac{m g \sin \theta-f}{m}=4 \mathrm{~m} / \mathrm{s}^{2}, s_{3}=s_{1}+s_{2}=(4+1) \mathrm{m}=5 \mathrm{~m}, s_{3}=\frac{1}{2} a_{3} t_{3}^{2}, t_{3}=\sqrt{\frac{2 s_{3}}{a_{3}}}=1.58 \mathrm{~s}

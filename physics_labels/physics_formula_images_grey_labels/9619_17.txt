@@ -1,0 +1,1 @@
+\Delta E=E_{1}+E_{2}=\left(1+\frac{m}{M}\right) E_{1}=2.04 \times 10^{-12} \mathrm{~J}

@@ -1,0 +1,1 @@
+a=1.37 \mathrm{~m} / \mathrm{s}^{2}

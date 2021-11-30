@@ -1,0 +1,1 @@
+\pi \sqrt{\frac{2 m h}{q E}}

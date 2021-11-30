@@ -1,0 +1,1 @@
+\frac{m g \sin \theta}{B_{2} d}

@@ -1,0 +1,4 @@
+\left(\begin{array}{l}
+2 \\
+1
+\end{array}+\right)

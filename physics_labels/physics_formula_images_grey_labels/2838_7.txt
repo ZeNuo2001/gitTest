@@ -1,0 +1,1 @@
+{ }_{2}^{4} \mathrm{He}+{ }^{14}{ }_{7} \mathrm{~N} \longrightarrow{ }_{8}^{16}()+{ }_{0}^{1} \mathrm{n}

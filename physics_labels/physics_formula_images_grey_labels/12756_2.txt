@@ -1,0 +1,1 @@
+v_{B}^{\prime}=v_{B} \cos \alpha

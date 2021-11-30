@@ -1,0 +1,1 @@
+a_{2}=12 \mathrm{~m} / \mathrm{s}^{2}

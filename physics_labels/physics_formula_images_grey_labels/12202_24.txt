@@ -1,0 +1,1 @@
+p_{2}=\frac{p_{0} S-M g-M a}{S}=5 \times 10^{4} \mathrm{~Pa}

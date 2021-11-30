@@ -1,0 +1,1 @@
+\Delta x=v \Delta t=1 \mathrm{~m}

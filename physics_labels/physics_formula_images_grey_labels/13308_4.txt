@@ -1,0 +1,1 @@
+T=\frac{s}{v}=\frac{r}{H r}=\frac{1}{H}

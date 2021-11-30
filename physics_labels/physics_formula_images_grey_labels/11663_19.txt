@@ -1,0 +1,1 @@
+x=\left(\overline{O P}+y^{\prime}\right) \cos \theta-x^{\prime} \sin \theta=3 \mathrm{~m}

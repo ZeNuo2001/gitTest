@@ -1,0 +1,1 @@
+I_{\mathrm{g}}=300 \mu \mathrm{A}

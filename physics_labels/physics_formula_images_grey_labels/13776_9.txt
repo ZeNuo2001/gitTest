@@ -1,0 +1,1 @@
+v=\frac{m_{1} v_{1}-m_{2} v_{2}}{m_{1}+m_{2}}=\frac{150 \times 4.5-200 \times 4.25}{150+200} \mathrm{~m} / \mathrm{s}=-0.5 \mathrm{~m} / \mathrm{s}

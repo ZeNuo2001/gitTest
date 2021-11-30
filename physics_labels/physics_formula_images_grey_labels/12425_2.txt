@@ -1,0 +1,1 @@
+F=\frac{B^{2} L^{2}\left(v_{2}-a t\right)}{R}

@@ -1,0 +1,1 @@
+\tau=t \cdot \sqrt{1-\left(\frac{v}{c}\right)^{2}}=1.28 \times 10^{7} \mathrm{~s}

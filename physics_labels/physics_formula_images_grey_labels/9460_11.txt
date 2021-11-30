@@ -1,0 +1,1 @@
+n=\frac{P_{\mathrm{W}} \Delta t \cdot \lambda}{h c}=\frac{60 \times 1 \times 663 \times 10^{-9}}{6.63 \times 10^{-34} \times 3 \times 10^{8}}=2.0 \times 10^{20}

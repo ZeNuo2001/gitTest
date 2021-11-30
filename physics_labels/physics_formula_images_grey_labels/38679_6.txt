@@ -1,0 +1,1 @@
+\sin 42^{\circ} \approx \frac{2}{3}

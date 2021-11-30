@@ -1,0 +1,1 @@
+T \leqslant 0.5 \mathrm{~s} \leqslant 2 T

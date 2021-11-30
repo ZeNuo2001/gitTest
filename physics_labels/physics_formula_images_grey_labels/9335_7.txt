@@ -1,0 +1,1 @@
+\frac{\Delta E}{E_{k \prime}}=\left(\frac{1}{2} m v^{2} \cdot \frac{M}{M+m}\right) /\left(\frac{1}{2} m v^{2}\right)=\frac{M}{M+m}=\frac{(\sqrt{2}-1) m}{(\sqrt{2}-1) m+m}=\frac{\sqrt{2}-1}{\sqrt{2}}=\frac{2-\sqrt{2}}{2}

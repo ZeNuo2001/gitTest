@@ -1,0 +1,1 @@
+{ }_{z} \mathrm{X}+{ }_{1}^{2} \mathrm{H} \rightarrow{ }_{2}^{1} \mathrm{He}+1 \mathrm{H}

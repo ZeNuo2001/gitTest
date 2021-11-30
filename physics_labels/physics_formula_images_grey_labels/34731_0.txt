@@ -1,0 +1,1 @@
+\omega=\frac{10 \sqrt{10}}{3} \mathrm{rad} / \mathrm{s}

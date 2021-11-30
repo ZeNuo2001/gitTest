@@ -1,0 +1,1 @@
+h^{\prime}=\frac{n^{\prime} h}{n \cos i} \sqrt{1-\sin ^{2} i^{\prime}}

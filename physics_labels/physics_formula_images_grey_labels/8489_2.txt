@@ -1,0 +1,1 @@
+h_{A}=h_{B} \geqslant 2 R

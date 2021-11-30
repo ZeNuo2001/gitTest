@@ -1,0 +1,1 @@
+I=E /\left(R_{\mathrm{g}}+R+r+R_{x}\right)

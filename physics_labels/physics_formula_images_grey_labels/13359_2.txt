@@ -1,0 +1,1 @@
+F_{\mathrm{r}}=m a_{\mathrm{r}}

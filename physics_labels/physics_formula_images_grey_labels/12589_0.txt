@@ -1,0 +1,1 @@
+Q_{2}=\Delta U^{\prime}-W_{2}=(-120) \mathrm{J}-200 \mathrm{~J}=-320 \mathrm{~J}

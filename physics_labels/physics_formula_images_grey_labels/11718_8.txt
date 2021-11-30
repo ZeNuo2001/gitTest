@@ -1,0 +1,1 @@
+\frac{\pi d}{22}=\frac{3.14 \times 10.20}{22} \mathrm{~cm}=1.46 \mathrm{~cm}

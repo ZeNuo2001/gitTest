@@ -1,0 +1,1 @@
+\frac{m_{1}+m_{2}}{2 m \cos \theta}

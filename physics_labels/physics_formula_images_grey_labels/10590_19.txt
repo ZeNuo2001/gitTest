@@ -1,0 +1,1 @@
+x=x_{1}+x_{2}=\frac{1}{2} v_{1} t_{1}+\frac{1}{2}\left(v_{1}+v_{2}\right) t_{2}=\left[\frac{1}{2} \times 40 \times 10+\frac{1}{2} \times(40+20) \times 2.5\right] \mathrm{m}=275 \mathrm{~m}

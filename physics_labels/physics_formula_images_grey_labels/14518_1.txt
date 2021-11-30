@@ -1,0 +1,1 @@
+{ }_{84}^{210} \mathrm{Po} \longrightarrow{ }_{82}^{y} \mathrm{X}+{ }_{2}^{4} \mathrm{He}

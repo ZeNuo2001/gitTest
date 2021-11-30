@@ -1,0 +1,1 @@
+F=\frac{t_{1}+t_{2}+t_{3}}{t_{3}} m g=\frac{0.8+1+1.2}{1.2} \times 60 \times 10 \mathrm{~N}=1500 \mathrm{~N}

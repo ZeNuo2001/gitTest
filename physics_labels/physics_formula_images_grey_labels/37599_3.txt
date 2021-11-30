@@ -1,0 +1,1 @@
+2 \sqrt{5} \mathrm{~m} / \mathrm{s} \leqslant v_{0} \leqslant 5 \sqrt{2} \mathrm{~m} / \mathrm{s}

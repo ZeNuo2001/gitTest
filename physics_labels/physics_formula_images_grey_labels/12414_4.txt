@@ -1,0 +1,1 @@
+V_{2}=\frac{p_{1} V_{1}}{T_{1}} \cdot \frac{T_{2}}{p_{2}}=\frac{1.0 \times 10^{5} \times 3.0 \times 10^{-3}}{300} \times \frac{320}{1.0 \times 10^{5}} \mathrm{~m}^{3}=3.2 \times 10^{-3} \mathrm{~m}^{3}

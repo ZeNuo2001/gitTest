@@ -1,0 +1,1 @@
+F \frac{L}{2}=\frac{1}{2} M\left(\frac{d}{\Delta t}\right)^{2}

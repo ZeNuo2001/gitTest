@@ -1,0 +1,1 @@
+t^{2}-2 t_{0} t+\frac{2\left[\left(v_{B}-v_{A}\right) t_{0}-s\right]}{a}=0

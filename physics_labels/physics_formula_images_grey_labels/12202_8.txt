@@ -1,0 +1,1 @@
+F=750 \mathrm{~N}>(M+m) g=600 \mathrm{~N}

@@ -1,0 +1,1 @@
+F=k \frac{q \times 7 q}{r^{2}}=7 k \frac{q^{2}}{r^{2}}

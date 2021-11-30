@@ -1,0 +1,4 @@
+\begin{array}{l}
+t=6 \mathrm{~s}, \\
+t=6 \mathrm{~s},
+\end{array}

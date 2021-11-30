@@ -1,0 +1,1 @@
+W_{c d}=q\left(\varphi_{c}-\varphi_{d}\right)=q(\mathrm{~J})

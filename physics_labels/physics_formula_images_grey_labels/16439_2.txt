@@ -1,0 +1,1 @@
+P=\frac{R}{2}\left(\frac{n B S \omega}{R+r}\right)^{2}

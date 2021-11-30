@@ -1,0 +1,1 @@
+\left(h=6.63 \times 10^{-34} \mathrm{~J} \cdot \mathrm{s}, c=3 \times 10^{8} \mathrm{~m} / \mathrm{s}\right)

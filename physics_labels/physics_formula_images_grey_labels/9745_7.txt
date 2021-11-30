@@ -1,0 +1,1 @@
+E_{B}=\frac{1}{2} m v_{B}^{2}-G \frac{M m}{r_{B}}=\frac{1}{2} m v_{B}^{2}-G \frac{m M}{a+c}

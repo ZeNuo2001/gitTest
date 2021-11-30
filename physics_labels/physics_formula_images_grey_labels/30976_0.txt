@@ -1,0 +1,1 @@
+v=3.0 \times 10^{n} \mathrm{~m} / \mathrm{s}

@@ -1,0 +1,1 @@
+i, r, \sin i=\frac{5 \sqrt{2}}{10}=\frac{\sqrt{2}}{2}

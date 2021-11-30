@@ -1,0 +1,1 @@
+k \frac{Q_{C} Q_{A}}{(2 L)^{2}}-k \frac{Q_{A} Q_{B}}{L^{2}}=m a

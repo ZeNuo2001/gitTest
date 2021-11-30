@@ -1,0 +1,1 @@
+\frac{\left(F_{2}-F_{1}\right) t_{0}}{2 B L}

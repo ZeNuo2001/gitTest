@@ -1,0 +1,1 @@
+u_{2}=U_{\mathrm{m}} \sin \omega_{2} t

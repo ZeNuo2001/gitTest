@@ -1,0 +1,1 @@
+U_{b x}=\frac{1}{2} B l^{2} \omega,

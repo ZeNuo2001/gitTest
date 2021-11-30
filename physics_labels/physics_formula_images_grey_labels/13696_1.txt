@@ -1,0 +1,1 @@
+e=2 N \pi \Phi_{0} n \cos 2 \pi n t

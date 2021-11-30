@@ -1,0 +1,1 @@
+U_{\mathrm{m}}=220 \sqrt{2} \mathrm{~V}

@@ -1,0 +1,1 @@
+\left(2^{n}+2^{n-1}+\cdots+2^{2}+1\right) \frac{m}{M}>1

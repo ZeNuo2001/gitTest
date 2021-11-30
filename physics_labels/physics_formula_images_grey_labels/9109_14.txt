@@ -1,0 +1,1 @@
+m a=m a^{\prime}, \therefore a^{\prime}=10 \mathrm{~m} / \mathrm{s}^{2}

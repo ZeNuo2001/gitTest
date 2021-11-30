@@ -1,0 +1,1 @@
+\arcsin \sqrt{n^{2}-1}

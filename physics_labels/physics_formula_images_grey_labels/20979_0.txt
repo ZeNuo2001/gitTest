@@ -1,0 +1,1 @@
+z_{s_{1}}=A \sin \left(\pi t+\frac{\pi}{2}\right) \quad z_{s_{2}}=A \sin \left(\pi t-\frac{\pi}{2}\right)

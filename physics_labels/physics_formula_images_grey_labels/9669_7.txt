@@ -1,0 +1,1 @@
+f=\frac{g R^{3}}{G R_{\mathrm{e}}}\left(\frac{2 \pi}{T}\right)^{2} r_{\mathrm{se}}

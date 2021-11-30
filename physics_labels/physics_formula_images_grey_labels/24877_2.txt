@@ -1,0 +1,1 @@
+F_{\mathrm{T}}=\frac{(m+M)(a+g)}{2}

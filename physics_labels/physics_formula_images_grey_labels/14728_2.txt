@@ -1,0 +1,1 @@
+\frac{T_{1}}{T_{2}} \sqrt{\left(\frac{E_{\mathrm{k} 2}}{E_{\mathrm{k} 1}}\right)^{3}}

@@ -1,0 +1,1 @@
+\frac{\pi m}{3 q B} \leqslant t \leqslant \frac{3 \pi m}{2 q B}

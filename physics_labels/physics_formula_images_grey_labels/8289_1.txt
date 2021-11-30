@@ -1,0 +1,1 @@
+\frac{2 k\left(x_{1}-x_{2}\right)}{I L}

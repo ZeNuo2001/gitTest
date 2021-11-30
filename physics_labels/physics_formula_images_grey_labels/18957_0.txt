@@ -1,0 +1,1 @@
+U_{\mathrm{H}}=k \frac{I_{\mathrm{H}} B}{d}

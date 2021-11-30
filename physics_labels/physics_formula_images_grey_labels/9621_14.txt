@@ -1,0 +1,1 @@
+M=\frac{Q}{q}=\frac{3.2 \times 10^{16}}{2.93 \times 10^{7}} \mathrm{~kg}=1.1 \times 10^{9} \mathrm{~kg}=1.1 \times 10^{6} \mathrm{t}

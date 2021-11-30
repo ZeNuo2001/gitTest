@@ -1,0 +1,1 @@
+I=\frac{v B c}{\left(R+\rho \frac{c}{a b}\right)}

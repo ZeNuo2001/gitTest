@@ -1,0 +1,1 @@
+\overline{\frac{m v^{2}}{r}}

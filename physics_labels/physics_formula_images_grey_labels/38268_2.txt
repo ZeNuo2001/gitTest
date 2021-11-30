@@ -1,0 +1,1 @@
+{ }_{86}^{222} \mathrm{Rn} \longrightarrow{ }_{84}^{208} \mathrm{Po}+{ }_{2}^{4} \mathrm{He}

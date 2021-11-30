@@ -1,0 +1,1 @@
+\frac{2 \pi \sqrt{R(R+h)^{3}}}{T R}

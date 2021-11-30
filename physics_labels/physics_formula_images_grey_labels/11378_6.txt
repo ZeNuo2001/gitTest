@@ -1,0 +1,1 @@
+m=\frac{k I}{g E} U

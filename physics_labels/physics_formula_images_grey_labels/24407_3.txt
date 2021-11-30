@@ -1,0 +1,4 @@
+\begin{array}{l}
+T_{2}=0.4 \mathrm{~s}, \\
+A_{2}=1 \mathrm{~cm},
+\end{array}

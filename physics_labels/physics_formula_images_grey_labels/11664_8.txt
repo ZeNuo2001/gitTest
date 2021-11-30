@@ -1,0 +1,1 @@
+v_{1} \geqslant v_{0} \geqslant v_{2}

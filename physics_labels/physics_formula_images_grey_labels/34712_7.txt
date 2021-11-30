@@ -1,0 +1,1 @@
+\Phi=0.05 \cos 100 \pi t \mathbb{W b}

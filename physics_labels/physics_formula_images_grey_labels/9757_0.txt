@@ -1,0 +1,1 @@
+2 \pi r_{n}=n \lambda_{n}(n=1,2,3 \cdots)

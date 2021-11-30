@@ -1,0 +1,1 @@
+\Delta E=\Delta E_{1}+\Delta E_{2}=\Delta E_{\mathrm{pl}}+\Delta E_{\mathrm{k} 1}+\Delta E_{\mathrm{p} 2}+\Delta E_{\mathrm{k} 2}

@@ -1,0 +1,1 @@
+a_{1}=\frac{F-k(M-m) g}{M-m}=\frac{m}{M-m} k g

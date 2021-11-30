@@ -1,0 +1,1 @@
+I_{3}=\frac{P}{U}=\frac{5.928 \times 10^{5}}{220} \mathrm{~A} \approx 2.7 \times 10^{3} \mathrm{~A}

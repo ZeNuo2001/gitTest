@@ -1,0 +1,1 @@
+\frac{\Delta B}{\Delta t}=5 \mathrm{~T} / \mathrm{s}

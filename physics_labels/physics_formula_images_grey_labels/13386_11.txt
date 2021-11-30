@@ -1,0 +1,1 @@
+v_{1}=3 \mathrm{~m} / \mathrm{s}, a_{B}=6 \mathrm{~m} / \mathrm{s}^{2}

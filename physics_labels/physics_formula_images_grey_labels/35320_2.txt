@@ -1,0 +1,4 @@
+\begin{array}{l}
+0.125 \Omega \\
+0.025 \Omega
+\end{array}

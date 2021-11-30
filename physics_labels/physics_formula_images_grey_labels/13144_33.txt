@@ -1,0 +1,1 @@
+v_{D} \geqslant \sqrt{g R}

@@ -1,0 +1,1 @@
+\sigma=5.67 \times 10^{.8} \mathrm{~W} /\left(\mathrm{m}^{2} \cdot \mathrm{K}^{4}\right)

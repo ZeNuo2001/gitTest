@@ -1,0 +1,1 @@
+Y=Y_{m} \sin \omega t

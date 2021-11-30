@@ -1,0 +1,1 @@
+{ }_{2}^{4} \mathrm{He}+{ }_{13}^{27} \mathrm{Al} \longrightarrow{ }_{1 ;}^{30} \mathrm{P}+{ }_{0}^{1} \mathrm{n}

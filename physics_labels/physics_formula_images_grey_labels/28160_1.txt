@@ -1,0 +1,1 @@
+{ }_{42}^{238} \mathrm{U} \longrightarrow{ }_{90}^{2.34} \mathrm{Th}+\mathrm{X}_{3}

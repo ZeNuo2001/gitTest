@@ -1,0 +1,4 @@
+\begin{array}{l}
+27 \\
+13
+\end{array} \mathrm{Al}

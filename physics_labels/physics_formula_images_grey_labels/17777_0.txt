@@ -1,0 +1,1 @@
+x=5 \sin \left(10 \pi t+\frac{\pi}{2}\right)(\mathrm{cm})

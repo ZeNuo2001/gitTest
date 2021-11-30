@@ -1,0 +1,4 @@
+\begin{array}{l}
+1 \times 10^{1+} \mathrm{Hz} \\
+2 \times 10^{15} \mathrm{~Hz}
+\end{array}

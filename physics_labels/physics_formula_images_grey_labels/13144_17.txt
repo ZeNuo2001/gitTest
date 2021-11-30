@@ -1,0 +1,1 @@
+v_{M}=3 \mathrm{~m} / \mathrm{s}

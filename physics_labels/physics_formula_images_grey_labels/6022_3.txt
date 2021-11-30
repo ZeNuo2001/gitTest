@@ -1,0 +1,1 @@
+0.2 \mathrm{~m}, L_{A B}=L_{B C}=1.0 \mathrm{~m}

@@ -1,0 +1,1 @@
+\operatorname{Bev}_{\max }=m \frac{v_{\operatorname{mnx}}^{2}}{r}

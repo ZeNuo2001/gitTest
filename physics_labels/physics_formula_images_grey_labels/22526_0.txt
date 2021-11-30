@@ -1,0 +1,5 @@
+\begin{array}{l}
+t=1 \mathrm{~s} \\
+1 \mathrm{~m} / \mathrm{s} \\
+t=2 \mathrm{~s}
+\end{array}

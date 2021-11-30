@@ -1,0 +1,1 @@
+E=9 \mathrm{~V}, I=8 \mathrm{~W}

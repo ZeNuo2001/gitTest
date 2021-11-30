@@ -1,0 +1,4 @@
+\begin{array}{l}
+t=0 \\
+t=0
+\end{array}

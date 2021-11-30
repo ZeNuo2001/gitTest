@@ -1,0 +1,1 @@
+q=\frac{B d L}{\pi R}

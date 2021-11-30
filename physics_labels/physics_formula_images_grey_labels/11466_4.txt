@@ -1,0 +1,1 @@
+\frac{I_{\mathrm{g}} R_{\mathrm{g}}}{I-I_{\mathrm{g}}}

@@ -1,0 +1,1 @@
+\sqrt{5 L g} \leqslant v \leqslant \sqrt{10 L g}

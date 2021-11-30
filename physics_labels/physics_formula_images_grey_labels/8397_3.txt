@@ -1,0 +1,1 @@
+v_{1}=11 \mathrm{~m} / \mathrm{s}

@@ -1,0 +1,1 @@
+\text { C. } v_{0}+\frac{m}{M}\left(v_{0}+v\right)

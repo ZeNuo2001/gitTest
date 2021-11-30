@@ -1,0 +1,1 @@
+\frac{q_{a}}{m_{a}}<\frac{q_{b}}{m_{b}}

@@ -1,0 +1,1 @@
+\text { B. } E_{B}>E_{A}>E_{C,}, \varphi_{A}=\varphi_{C}>\varphi_{B}

@@ -1,0 +1,4 @@
+\begin{array}{l}
+v_{A}-v_{B}=\Delta t \cdot \tan \alpha=g \cdot \Delta t= \\
+10 \mathrm{n} / \mathrm{s}
+\end{array}

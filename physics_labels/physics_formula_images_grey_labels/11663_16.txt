@@ -1,0 +1,1 @@
+t^{\prime}=\frac{T}{2}=\frac{\pi m}{B q}=7.85 \times 10^{-3} \mathrm{~s}

@@ -1,0 +1,1 @@
+a^{\prime}=\frac{f}{m}=\mu g=5 \mathrm{~m} / \mathrm{s}^{2}

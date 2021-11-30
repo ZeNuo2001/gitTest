@@ -1,0 +1,1 @@
+F_{2}=\frac{m g}{\sin \theta}, F_{1}=\frac{m g}{\tan \theta}

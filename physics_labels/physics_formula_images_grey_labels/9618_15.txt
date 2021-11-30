@@ -1,0 +1,1 @@
+\frac{m_{2} v_{2}}{m_{3} v_{3}}=\frac{q_{2} B R_{\mathrm{He}}}{q_{3} B R_{\mathrm{H}}}=\frac{2 \times 40}{3}=\frac{80}{3}

@@ -1,0 +1,1 @@
+0 \leqslant \theta \leqslant \frac{\pi}{2}

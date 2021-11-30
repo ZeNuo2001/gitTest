@@ -1,0 +1,1 @@
+E=\frac{k Q}{n r^{2}}=\frac{k Q}{n\left(R^{2}+L^{2}\right)}

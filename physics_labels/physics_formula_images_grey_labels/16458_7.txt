@@ -1,0 +1,1 @@
+i=\sqrt{2} \sin 5 \pi t(\mathrm{~A})

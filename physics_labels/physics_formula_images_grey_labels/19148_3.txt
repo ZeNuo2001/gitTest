@@ -1,0 +1,1 @@
+(\sqrt{n}-\sqrt{n-1}) \sqrt{\frac{l}{a}}

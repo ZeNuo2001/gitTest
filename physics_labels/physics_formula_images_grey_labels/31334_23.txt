@@ -1,0 +1,1 @@
+t_{0}=\frac{2 R[\mu(M+m) g \cos \theta-M g \sin \theta]}{k^{2} L^{3}}-\frac{B_{0}}{k}

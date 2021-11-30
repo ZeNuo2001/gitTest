@@ -1,0 +1,1 @@
+f=B q v=\frac{Q \Delta \theta R \omega B}{2 \pi}

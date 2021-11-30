@@ -1,0 +1,1 @@
+\sqrt{\frac{g \sqrt{1+\mu^{2}}}{R}}

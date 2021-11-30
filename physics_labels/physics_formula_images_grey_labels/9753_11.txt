@@ -1,0 +1,1 @@
+\lambda_{0} \leqslant \lambda \leqslant \lambda_{0}\left(1+\frac{v_{0}}{c}\right)

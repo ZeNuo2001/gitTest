@@ -1,0 +1,1 @@
+g \sin \alpha+\mu_{1} g \cos \alpha

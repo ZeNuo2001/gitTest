@@ -1,0 +1,1 @@
+\frac{p_{A} V_{A}}{T_{A}}=\frac{p_{C} \cdot V_{C}}{T_{C}}=\frac{p_{D} V_{D}}{T_{D}}

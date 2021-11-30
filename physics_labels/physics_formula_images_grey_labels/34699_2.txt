@@ -1,0 +1,1 @@
+2 \pi \sqrt{\frac{R^{3}}{g \sin ^{3} \frac{\theta}{2}}}

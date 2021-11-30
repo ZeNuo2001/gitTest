@@ -1,0 +1,1 @@
+\frac{q}{m}=\frac{2 v_{0}}{B L}

@@ -1,0 +1,1 @@
+v=\left(B^{2} L^{2} v_{m}-F_{f} R\right) / B^{2} L^{2}

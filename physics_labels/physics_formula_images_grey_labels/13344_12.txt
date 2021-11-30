@@ -1,0 +1,1 @@
+G_{1} \leqslant 200 \mathrm{~N}, G_{2} \leqslant 173.2 \mathrm{~N}, G_{3} \leqslant 200 \mathrm{~N}

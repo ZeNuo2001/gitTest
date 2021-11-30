@@ -1,0 +1,1 @@
+L=30.0 \mathrm{~cm}, L_{1}=10.4 \mathrm{~cm}

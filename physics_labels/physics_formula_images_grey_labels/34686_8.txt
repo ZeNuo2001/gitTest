@@ -1,0 +1,1 @@
+R_{\mathrm{V}}=3 \mathrm{~K} \Omega

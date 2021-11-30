@@ -1,0 +1,1 @@
+s=1.5 \times 4 \times 5 \mathrm{~cm}=30 \mathrm{cn}

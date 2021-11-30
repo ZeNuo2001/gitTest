@@ -1,0 +1,1 @@
+E=\frac{E_{\mathrm{k} 0}}{q x_{0}}

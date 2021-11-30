@@ -1,0 +1,1 @@
+=\frac{v \Delta t^{\prime}}{2}=\frac{340 \times 0.1}{2} \mathrm{~m}=17 \mathrm{~m}

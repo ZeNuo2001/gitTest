@@ -1,0 +1,1 @@
+F_{N}^{\prime}=m(g \sin \theta+a \cos \theta)

@@ -1,0 +1,1 @@
+k=10 \mathrm{~N} / \mathrm{m}

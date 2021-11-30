@@ -1,0 +1,1 @@
+y=\frac{1}{2} \cdot \frac{q U}{m d}\left(\frac{l_{1}}{v_{0}}\right)^{2}

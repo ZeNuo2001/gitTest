@@ -1,0 +1,1 @@
+\frac{3 \pi G_{2}}{G T^{2}\left(G_{2}-G_{1}\right)}

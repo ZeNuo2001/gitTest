@@ -1,0 +1,1 @@
+\text { 电阻 } \boldsymbol{R} / \boldsymbol{\Omega}

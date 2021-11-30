@@ -1,0 +1,1 @@
+m g\left(\sqrt{\frac{2 h_{1}}{g}}+\Delta t+\sqrt{\frac{2 h_{2}}{g}}\right)-F \Delta t=0

@@ -1,0 +1,1 @@
+U_{2}=6 \mathrm{~V}, U_{3}=110 \mathrm{~V}

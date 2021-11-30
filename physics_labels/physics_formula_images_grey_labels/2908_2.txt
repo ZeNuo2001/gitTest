@@ -1,0 +1,1 @@
+{ }_{2}^{4} \mathrm{He}+{ }_{4}^{9} \mathrm{Be} \longrightarrow{ }_{6}^{12} \mathrm{C}+{ }_{0}^{1} \mathrm{n}

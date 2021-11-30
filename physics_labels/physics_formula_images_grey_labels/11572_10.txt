@@ -1,0 +1,1 @@
+\frac{1}{2} I_{\mathrm{g}}=\frac{E}{R_{0}+R+R_{\mathrm{g}}+R_{\text {中 }}}=\frac{E}{2\left(R_{0}+R+R_{\mathrm{k}}\right)}

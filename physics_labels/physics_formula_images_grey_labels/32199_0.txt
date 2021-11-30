@@ -1,0 +1,1 @@
+A B=L, A O=\frac{L}{2}

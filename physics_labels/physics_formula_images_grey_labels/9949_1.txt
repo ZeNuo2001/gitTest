@@ -1,0 +1,1 @@
+m^{\prime} g \sin \theta \leqslant \mu m^{\prime} g \cos \theta

@@ -1,0 +1,1 @@
+v=a t=\sqrt{\frac{2 F_{0} s}{m}}

@@ -1,0 +1,1 @@
+I=\frac{m g}{B L}

@@ -1,0 +1,1 @@
+\left(m+\frac{m}{4}\right) v^{\prime}=m v_{A_{0}}+\frac{m}{4} v_{H_{0}}

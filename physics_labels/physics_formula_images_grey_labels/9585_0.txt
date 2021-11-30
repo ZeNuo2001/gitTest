@@ -1,0 +1,1 @@
+\frac{r_{\mathrm{a}}}{r_{\mathrm{\beta}}}=\frac{m_{\mathrm{a}}}{m_{\beta}} \cdot \frac{v_{\mathrm{a}}}{v_{\beta}} \cdot \frac{q_{\mathrm{B}}}{q_{\mathrm{a}}}=\frac{4}{\frac{1}{1840}} \times \frac{0.1 c}{0.99 c} \times \frac{1}{2} \approx \frac{372}{1}

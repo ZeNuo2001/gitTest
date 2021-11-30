@@ -1,0 +1,1 @@
+I_{\mathrm{B}}\left(R_{\mathrm{g}}+R_{2}\right)=\left(1-I_{\mathrm{g}}\right) R_{\mathrm{l}}

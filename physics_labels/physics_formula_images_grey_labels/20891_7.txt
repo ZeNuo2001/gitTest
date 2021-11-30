@@ -1,0 +1,1 @@
+a=15 \mathrm{~m} / \mathrm{s}^{2}

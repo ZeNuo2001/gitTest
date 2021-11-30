@@ -1,0 +1,1 @@
+v^{\prime}=v \cos \theta+\frac{\sin \theta \cdot v}{\cos \theta} \cdot \sin \theta=\frac{v}{\cos \theta}>v

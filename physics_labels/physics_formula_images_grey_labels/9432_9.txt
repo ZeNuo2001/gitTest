@@ -1,0 +1,1 @@
+P_{\text {攷 }}=\left(\frac{\pi r^{2}}{4 \pi R^{2}}\right) \cdot P_{\text {亯 }}=4 \times 10^{-4} \mathrm{~W}

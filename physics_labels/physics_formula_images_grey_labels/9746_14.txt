@@ -1,0 +1,1 @@
+v_{2}^{\prime}=\frac{1}{2} \sqrt{G \frac{2 M}{3 R}}

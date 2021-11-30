@@ -1,0 +1,1 @@
+\frac{\left(F_{2}-F_{1}\right) T^{2}}{4 \pi^{2} m}

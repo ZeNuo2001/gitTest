@@ -1,0 +1,1 @@
+\omega=\frac{v}{r_{2}}

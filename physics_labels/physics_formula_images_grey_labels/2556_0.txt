@@ -1,0 +1,1 @@
+g=\frac{\Delta I}{\Delta T^{2}}

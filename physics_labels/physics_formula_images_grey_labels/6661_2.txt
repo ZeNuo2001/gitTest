@@ -1,0 +1,1 @@
+5 \sin (100 \pi t+\sqrt{3}) \mathrm{cm}

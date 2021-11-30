@@ -1,0 +1,1 @@
+\frac{4 l_{1} l_{2}}{\left(\sqrt{l_{1}}+\sqrt{l_{2}}\right)^{2}}

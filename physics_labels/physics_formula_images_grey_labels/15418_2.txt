@@ -1,0 +1,1 @@
+\frac{l+\Delta r}{l-\Delta r}

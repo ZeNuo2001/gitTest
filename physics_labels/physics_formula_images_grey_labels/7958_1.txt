@@ -1,0 +1,1 @@
+\frac{L}{\sqrt{b_{1}}+\sqrt{b_{2}}}

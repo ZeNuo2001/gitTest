@@ -1,0 +1,1 @@
+\bar{v}=\frac{1}{2}\left(v_{1} v_{v}\right)

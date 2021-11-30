@@ -1,0 +1,1 @@
+5000 \mathrm{MHz}\left(1 \mathrm{M}=10^{6}\right)

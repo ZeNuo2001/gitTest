@@ -1,0 +1,1 @@
+T_{1}=\frac{\left(m+4 m_{1}\right) m_{2} g}{m+4\left(m_{1}+m_{2}\right)}

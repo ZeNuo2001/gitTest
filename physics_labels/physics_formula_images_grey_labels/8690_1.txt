@@ -1,0 +1,1 @@
+b c=l, \angle c=60^{\circ}, \angle b=90^{\circ}, a d=\frac{\sqrt{3}}{3} l_{\circ}

@@ -1,0 +1,1 @@
+B=\frac{5 \sqrt{3} \pi m v_{0}}{2 q l}

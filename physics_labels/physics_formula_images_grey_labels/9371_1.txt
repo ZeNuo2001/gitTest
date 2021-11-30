@@ -1,0 +1,1 @@
+2 m v=m \cdot 3 v+m v^{\prime}

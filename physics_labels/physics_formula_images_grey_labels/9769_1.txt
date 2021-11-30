@@ -1,0 +1,1 @@
+\underset{d}{\mathrm{Y}} \stackrel{\beta}{\rightarrow} ; \mathrm{Z}

@@ -1,0 +1,1 @@
+x_{2}=9 a \sin \left(8 \pi b t+\frac{\pi}{2}\right)

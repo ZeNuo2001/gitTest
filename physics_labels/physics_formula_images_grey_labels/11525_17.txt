@@ -1,0 +1,1 @@
+\Delta Q=\Delta U \cdot C=-(54 / 11) \times 10^{-5} \mathrm{C} \approx-4.9 \times 10^{-5} \mathrm{C}

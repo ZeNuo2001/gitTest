@@ -1,0 +1,1 @@
+F_{1}=30 \mathrm{~N}, F_{2}=20 \mathrm{~N}

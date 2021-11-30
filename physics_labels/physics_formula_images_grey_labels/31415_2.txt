@@ -1,0 +1,1 @@
+B=\frac{m \sqrt{5 g L}}{5 q L}

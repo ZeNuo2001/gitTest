@@ -1,0 +1,1 @@
+p \propto n_{n_{0}} \bar{E}_{k}

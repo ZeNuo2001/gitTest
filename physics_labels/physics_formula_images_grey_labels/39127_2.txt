@@ -1,0 +1,1 @@
+t=\frac{B L q}{m g \sin \theta}+\frac{m(R+r)}{2 B^{2} L^{2}}

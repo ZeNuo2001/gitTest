@@ -1,0 +1,1 @@
+f^{\prime}=\frac{v_{P}-v_{A}}{v_{P}-v_{S}} f

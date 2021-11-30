@@ -1,0 +1,1 @@
+v_{B \max }=\frac{2(m+m / 4)}{m+m+m / 4} \cdot \frac{v_{0}}{5}=\frac{2}{9} v_{0}

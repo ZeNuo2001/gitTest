@@ -1,0 +1,1 @@
+\left(1+\frac{1}{n^{2}}\right) P+\frac{P_{1}}{n^{2}}

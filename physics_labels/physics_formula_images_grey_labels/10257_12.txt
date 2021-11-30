@@ -1,0 +1,1 @@
+h_{1 \operatorname{lnax}}=\frac{3}{4} \Delta h_{\max }=\frac{3}{4} \times 10 \mathrm{~m}=7.5 \mathrm{~m}

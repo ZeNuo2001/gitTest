@@ -1,0 +1,1 @@
+F=G \frac{M m}{R^{2}}=\frac{4}{3} \pi \rho G m R

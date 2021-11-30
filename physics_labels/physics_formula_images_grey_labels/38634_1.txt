@@ -1,0 +1,1 @@
+y=10 \sin \left(\pi t+\frac{\pi}{4}\right) \mathrm{cm}

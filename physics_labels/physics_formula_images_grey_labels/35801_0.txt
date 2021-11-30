@@ -1,0 +1,1 @@
+\varphi_{P}=0, \varphi_{M}=1.5 \mathrm{~V}, \varphi_{Q}=3 \mathrm{~V}

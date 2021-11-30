@@ -1,0 +1,4 @@
+\begin{array}{l}
+m \\
+\frac{1}{M+m}
+\end{array}

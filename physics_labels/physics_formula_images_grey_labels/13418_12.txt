@@ -1,0 +1,1 @@
+\cos \theta=\frac{v_{\text {水 }}}{v_{\text {船 }}}

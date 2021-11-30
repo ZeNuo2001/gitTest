@@ -1,0 +1,1 @@
+T=\frac{\pi m}{q B_{i j}}

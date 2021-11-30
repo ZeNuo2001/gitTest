@@ -1,0 +1,1 @@
+100 \Omega, 0.2 \mathrm{~A})

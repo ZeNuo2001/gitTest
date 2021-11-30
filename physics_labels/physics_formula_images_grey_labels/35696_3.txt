@@ -1,0 +1,4 @@
+\begin{array}{l}
+400 \mathrm{~N} \\
+800 \mathrm{~N}
+\end{array}

@@ -1,0 +1,1 @@
+{ }_{53}^{131} \mathrm{I} \rightarrow{ }_{53}^{130} \mathrm{I}+{ }_{0}^{1} \mathrm{n}

@@ -1,0 +1,1 @@
+-(M+m) g l\left(1-\cos 60^{\circ}\right)=0-\frac{1}{2}(M+m) v_{1}^{2}

@@ -1,0 +1,4 @@
+\begin{array}{l}
+0.10 \mathrm{~V} \\
+0.30 \mathrm{~V}
+\end{array}

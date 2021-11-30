@@ -1,0 +1,1 @@
+x_{2}=9 u \sin \left(8 \pi b r+\frac{\pi}{2}\right)

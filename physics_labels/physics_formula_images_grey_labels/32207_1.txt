@@ -1,0 +1,1 @@
+N\left(-\frac{\sqrt{2} m v_{0}}{2 q B},-\frac{m v_{0}}{q B}\right)

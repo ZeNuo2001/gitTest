@@ -1,0 +1,1 @@
+Q=\frac{\Delta V}{\Delta t}, \Delta V=Q \Delta t

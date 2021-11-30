@@ -1,0 +1,1 @@
+\frac{2 s}{v_{\mathrm{m}}}+\frac{m v_{\mathrm{m}}^{2}}{2 P}

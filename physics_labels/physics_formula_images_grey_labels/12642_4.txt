@@ -1,0 +1,1 @@
+P=\frac{\Delta E_{\mathrm{p}} \cdot \eta}{\Delta t}=\frac{Q \Delta t \rho g h \cdot \eta}{\Delta t}=Q \rho g h \eta

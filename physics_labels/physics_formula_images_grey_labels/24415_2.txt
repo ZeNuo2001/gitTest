@@ -1,0 +1,4 @@
+\begin{array}{l}
+0.5 \mathrm{~Hz} \\
+1.2 \mathrm{~m} / \mathrm{s}
+\end{array}

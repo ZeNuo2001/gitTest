@@ -1,0 +1,4 @@
+\begin{array}{ll}
+23 & 1 \\
+9 & 1
+\end{array}

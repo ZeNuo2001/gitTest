@@ -1,0 +1,1 @@
+a_{m}=2 \mathrm{~m} / \mathrm{s}^{2}, \mathrm{a}_{\mathrm{M}}=4 \mathrm{~m} / \mathrm{s}^{2}

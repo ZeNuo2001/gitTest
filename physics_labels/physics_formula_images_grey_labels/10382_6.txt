@@ -1,0 +1,1 @@
+F=m \cdot \frac{a+g \sin \theta}{\cos \theta}

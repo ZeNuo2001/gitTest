@@ -1,0 +1,1 @@
+T=\frac{V_{0} T_{0}}{V_{A}}=\frac{V_{0} \times 300}{\frac{2}{3} V_{0}} \mathrm{~K}=450 \mathrm{~K}

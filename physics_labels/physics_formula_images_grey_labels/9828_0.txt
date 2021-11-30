@@ -1,0 +1,1 @@
+\sqrt{\frac{g R \cos ^{2} \theta}{2 \sin \theta}}

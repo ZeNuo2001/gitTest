@@ -1,0 +1,1 @@
+\frac{q}{m}=5.0 \times 10^{7} \mathrm{C} / \mathrm{kg}

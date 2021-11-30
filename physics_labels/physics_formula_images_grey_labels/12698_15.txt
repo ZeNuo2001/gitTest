@@ -1,0 +1,1 @@
+\left[p_{0}+h-\left(l_{0}-l\right)\right] l=\left\{p_{0}-\left[a-x-\left(l_{0}-b\right)\right]+\left(l_{0}-b\right)\right\} b

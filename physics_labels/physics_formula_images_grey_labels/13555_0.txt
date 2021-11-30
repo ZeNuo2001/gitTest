@@ -1,0 +1,2 @@
+A. \( n v S \Delta t \)
+C. \( \frac{I \Delta t}{n e} \)

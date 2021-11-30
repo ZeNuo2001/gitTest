@@ -1,0 +1,1 @@
+\approx 0^{\circ}, h^{\prime} \approx n^{\prime} h / n

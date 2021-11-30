@@ -1,0 +1,1 @@
+{ }_{92}^{235} \mathrm{U}+{ }_{0}^{1} \mathrm{n} \rightarrow \frac{141}{56} \mathrm{Ba}+{ }_{36}^{92} \mathrm{~K} \mathrm{r}+3_{0}^{1} \mathrm{n}

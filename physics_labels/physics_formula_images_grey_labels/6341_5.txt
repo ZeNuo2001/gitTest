@@ -1,0 +1,1 @@
+\frac{F}{n}=\frac{B I L}{n}

@@ -1,0 +1,1 @@
+\bar{v} /\left(\mathbf{c m} \cdot \mathbf{g}^{-1}\right)

@@ -1,0 +1,4 @@
+\begin{array}{ll}
+R=5 \mathrm{k} \Omega & \\
+& E=90 \mathrm{~V}
+\end{array}

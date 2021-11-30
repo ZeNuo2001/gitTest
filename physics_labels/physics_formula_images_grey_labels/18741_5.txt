@@ -1,0 +1,1 @@
+\frac{Q}{\varepsilon_{0} S}

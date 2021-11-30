@@ -1,0 +1,1 @@
+n=\frac{2160}{\pi} \mathrm{r} / \mathrm{min}

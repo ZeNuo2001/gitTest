@@ -1,0 +1,1 @@
+k_{\mathrm{PA}} \cdot k_{P B}=\frac{1}{4}

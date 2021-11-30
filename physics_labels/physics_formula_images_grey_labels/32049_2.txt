@@ -1,0 +1,1 @@
+\frac{s}{t_{1}}\left(t_{2}-t_{1}\right)

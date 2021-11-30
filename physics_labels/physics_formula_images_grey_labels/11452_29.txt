@@ -1,0 +1,1 @@
+I_{\mathrm{g}} R_{\mathrm{k}}=\left(0.1-I_{\mathrm{g}}\right)\left(R_{1}+R_{2}\right)

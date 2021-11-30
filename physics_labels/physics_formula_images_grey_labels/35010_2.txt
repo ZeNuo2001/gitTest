@@ -1,0 +1,1 @@
+a_{A}=\tan 45^{\circ}=1 \mathrm{~m} / \mathrm{s}^{2}

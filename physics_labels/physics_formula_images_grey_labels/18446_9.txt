@@ -1,0 +1,1 @@
+F_{\mathrm{N}}=\frac{2(m g R-W)}{R}

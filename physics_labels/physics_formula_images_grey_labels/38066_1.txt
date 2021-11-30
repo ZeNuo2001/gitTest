@@ -1,0 +1,4 @@
+\begin{array}{r}
+2.38 \\
+9.4
+\end{array} \text { P } 11

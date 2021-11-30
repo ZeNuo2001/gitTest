@@ -1,0 +1,1 @@
+\pi\left(\frac{l}{g}+\sqrt{\frac{l}{2 g}}\right)

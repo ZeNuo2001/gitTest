@@ -1,0 +1,1 @@
+v_{5}=\frac{(3.94+4.30) \times 10^{-2}}{2 \times 0.02} \mathrm{~m} / \mathrm{s}=2.06 \mathrm{~m} / \mathrm{s}

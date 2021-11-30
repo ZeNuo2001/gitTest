@@ -1,0 +1,1 @@
+B=\sqrt{\frac{91}{80}} \times 10^{-3} \mathrm{~T}

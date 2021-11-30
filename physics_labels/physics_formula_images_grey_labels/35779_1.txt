@@ -1,0 +1,1 @@
+\frac{\left(m_{1}+m_{\mathrm{Be}}-m_{\mathrm{C}}-m_{2}\right) m_{\mathrm{C}} c^{2}}{m_{\mathrm{C}}+m_{2}}

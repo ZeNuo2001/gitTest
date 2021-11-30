@@ -1,0 +1,1 @@
+v=\sqrt{v_{1}^{\prime 2}+v_{2}^{2}+2 v_{1}^{\prime} v_{2}^{\prime} \cos \theta}=\frac{\sqrt{v_{1}^{2}+v_{2}^{2}+2 v_{1} v_{2} \cos \theta}}{\sin \theta}

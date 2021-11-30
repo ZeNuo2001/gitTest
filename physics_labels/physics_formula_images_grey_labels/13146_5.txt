@@ -1,0 +1,1 @@
+E_{1}=-G \frac{M m}{R}+\frac{1}{2} m v^{2}=-\frac{G M m}{2 R}

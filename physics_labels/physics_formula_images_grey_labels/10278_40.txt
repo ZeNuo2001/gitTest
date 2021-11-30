@@ -1,0 +1,1 @@
+t_{2}=\frac{2 m v}{q U_{2} / d}=\frac{2 m v d}{q U_{2}}

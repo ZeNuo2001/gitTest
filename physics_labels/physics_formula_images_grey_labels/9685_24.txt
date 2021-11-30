@@ -1,0 +1,1 @@
+W_{G}=\rho g\left(h_{1}-h_{2}\right) \Delta V

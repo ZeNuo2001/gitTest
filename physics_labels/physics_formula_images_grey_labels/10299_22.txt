@@ -1,0 +1,1 @@
+(R-r)^{2}=\left(\frac{R}{2}\right)^{2}+r^{2}-2 r \times \frac{R}{2} \times \cos \left(90^{\circ}-\alpha\right)

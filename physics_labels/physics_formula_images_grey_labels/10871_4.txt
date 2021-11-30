@@ -1,0 +1,1 @@
+\left(M^{\prime}+m^{\prime}\right) \ll M

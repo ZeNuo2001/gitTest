@@ -1,0 +1,1 @@
+E=P_{0} t S=\sigma T^{\uparrow} t \times 4 \pi R_{\mathrm{S}}^{2}

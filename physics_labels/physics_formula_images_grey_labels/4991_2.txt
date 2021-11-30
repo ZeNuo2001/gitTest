@@ -1,0 +1,1 @@
+T=4 \pi R \sqrt{\frac{R}{5 G m}}

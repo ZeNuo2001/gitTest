@@ -1,0 +1,1 @@
+R=\frac{U}{I}=\frac{2.8}{0.28} \Omega=10 \Omega

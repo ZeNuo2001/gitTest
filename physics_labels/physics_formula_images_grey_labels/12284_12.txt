@@ -1,0 +1,1 @@
+x=p_{0}-p_{1}=(76-54.6) \mathrm{cmHg}=21.4 \mathrm{cmHg}

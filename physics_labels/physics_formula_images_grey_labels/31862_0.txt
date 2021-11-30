@@ -1,0 +1,1 @@
+\frac{\delta}{2 \varepsilon_{0}}

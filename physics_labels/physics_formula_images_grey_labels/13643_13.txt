@@ -1,0 +1,1 @@
+R_{\vdots}=R_{\mathrm{1}}+\frac{R r}{R+r}=5 \Omega

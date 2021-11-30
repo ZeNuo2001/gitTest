@@ -1,0 +1,1 @@
+r_{\mathrm{sc}}=1.5 \times 10^{11} \mathrm{~m}

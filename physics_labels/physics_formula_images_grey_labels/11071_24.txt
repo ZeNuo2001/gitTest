@@ -1,0 +1,1 @@
+s=\frac{\mu m^{2} g l}{(F-\mu m g) M-\mu m^{2} g}

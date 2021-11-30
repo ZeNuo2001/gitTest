@@ -1,0 +1,1 @@
+6_{1}^{2} \mathrm{H} \rightarrow 2_{2}^{4} \mathrm{He}+2_{1}^{\prime} \mathrm{H}+2_{0}^{1} \mathrm{n}+43.15 \mathrm{MeV}

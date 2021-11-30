@@ -1,0 +1,1 @@
+\Delta E_{\mathrm{p}}=m g L\left(1+\frac{1}{\tan \theta}\right)

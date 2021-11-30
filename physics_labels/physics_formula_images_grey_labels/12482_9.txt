@@ -1,0 +1,1 @@
+V_{0}=\frac{V}{2 N_{\mathrm{A}}}=\frac{M}{2 N_{\mathrm{A}} \rho}

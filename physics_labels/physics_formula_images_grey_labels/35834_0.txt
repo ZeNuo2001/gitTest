@@ -1,0 +1,1 @@
+a b=b c=c O=\frac{L}{3}

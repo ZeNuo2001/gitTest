@@ -1,0 +1,1 @@
+t=d \sqrt{\frac{m}{q U}}

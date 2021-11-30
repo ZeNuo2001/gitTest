@@ -1,0 +1,1 @@
+5 \mathrm{~V}, 1 \mathrm{~V}, 2 \mathrm{~V}, 4 \mathrm{~V}

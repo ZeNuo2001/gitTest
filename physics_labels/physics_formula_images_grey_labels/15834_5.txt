@@ -1,0 +1,1 @@
+a=-25 \mathrm{~m} / \mathrm{s}^{2}

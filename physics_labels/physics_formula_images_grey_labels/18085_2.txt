@@ -1,0 +1,1 @@
+x_{0}=-\frac{U_{\mathrm{m}} T}{2 \pi B l}

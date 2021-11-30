@@ -1,0 +1,1 @@
+m \sqrt{2 g l}=(M+m) \sqrt{g l} \Rightarrow \sqrt{2} m=M+m

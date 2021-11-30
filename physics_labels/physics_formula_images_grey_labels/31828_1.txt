@@ -1,0 +1,1 @@
+5 \pi \sqrt{\frac{5 R}{2 g}}

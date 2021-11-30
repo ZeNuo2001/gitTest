@@ -1,0 +1,1 @@
+E_{\mathrm{pm}}=\left(\frac{1}{2} m v_{\mathrm{A}_{0}}^{2}+\frac{1}{2} \cdot \frac{m}{4} v_{\mathrm{S}_{0}}^{\mathrm{2}}\right)-\frac{1}{2}\left(m+\frac{m}{4}\right) v^{\prime 2}

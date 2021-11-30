@@ -1,0 +1,1 @@
+\omega_{2}=\sqrt{\frac{50}{3}} \mathrm{rad} / \mathrm{s}

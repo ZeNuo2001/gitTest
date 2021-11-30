@@ -1,0 +1,1 @@
+F=B I l=B \frac{B l v}{R} l=\frac{B^{2} l^{2} v}{R}

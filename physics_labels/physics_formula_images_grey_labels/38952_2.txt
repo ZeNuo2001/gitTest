@@ -1,0 +1,1 @@
+\rho=1.0 \times 10^{-5} \Omega \cdot \mathrm{m}

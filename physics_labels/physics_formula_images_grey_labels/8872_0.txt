@@ -1,0 +1,1 @@
+x=x_{b}\left(x_{b}>0\right)

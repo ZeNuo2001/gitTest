@@ -1,0 +1,1 @@
+{ }_{2}^{3} \mathrm{He}+\underset{2}{\stackrel{4}{3}} \mathrm{He}+{ }_{1} \mathrm{H}
